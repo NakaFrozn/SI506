@@ -7,40 +7,40 @@ print("\nPROBLEM 01")
 # 1frita_batidos = "Frita Batidos"
 # zingerman's Delicatessen = "Zingerman's Delicatessen"
 # nypd = New York Pizza Depot
-# hopcat = "HoPcAT"
-# fleetwood_diner = "Fleetwood Diner"
+hopcat = "HoPcAT"
+fleetwood_diner = "Fleetwood Diner"
 # tomukun_noodle_bar = "Tomukun Noodle Bar
-# jerk_pit = "JaMAIcaN JERk PIt"
+jerk_pit = "JaMAIcaN JERk PIt"
 # mama satto = "Mama Satto"
-# hola_seoul = "Hola Seoul"
+hola_seoul = "Hola Seoul"
 # @shalimar = "Shalimar"
 
-cottage_inn = None
+cottage_inn = "Cottage Inn Pizza"
 print(cottage_inn)
 
-madras_masala = None
+madras_masala = "Madras Masala"
 print(madras_masala)
 
 # PROBLEM 02
 print("\nPROBLEM 02")
 
-hopcat_all_lower = None
+hopcat_all_lower = str.lower(hopcat)
 print(f"all_lower: {hopcat_all_lower}")
 
-jerk_pit_all_upper = None
+jerk_pit_all_upper = str.upper(jerk_pit)
 print(f"all_upper: {jerk_pit_all_upper}")
 
-madras_masala_count_m = None
+madras_masala_count_m = str.count(madras_masala,"m")
 print(f"number of letter m: {madras_masala_count_m}")
 
-has_diner = None
+has_diner = fleetwood_diner.endswith("Diner")
 print(has_diner)
 
-starts_seoul = None
+starts_seoul = hola_seoul.startswith("Seoul")
 print(starts_seoul)
 
 comment = "Great Jamaican food&drinks"
-updated_comment = None
+updated_comment = comment.replace("&"," and ")
 print(f"updated comment: {updated_comment}")
 
 # PROBLEM 03
