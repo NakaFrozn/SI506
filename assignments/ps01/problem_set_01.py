@@ -1,4 +1,7 @@
 # START PROBLEM SET 1
+from turtle import update
+
+
 print("Problem Set 1 \n")
 
 # PROBLEM 01
@@ -30,7 +33,7 @@ print(f"all_lower: {hopcat_all_lower}")
 jerk_pit_all_upper = str.upper(jerk_pit)
 print(f"all_upper: {jerk_pit_all_upper}")
 
-madras_masala_count_m = str.count(madras_masala,"m")
+madras_masala_count_m = str.count(madras_masala, "m")
 print(f"number of letter m: {madras_masala_count_m}")
 
 has_diner = fleetwood_diner.endswith("Diner")
@@ -40,13 +43,13 @@ starts_seoul = hola_seoul.startswith("Seoul")
 print(starts_seoul)
 
 comment = "Great Jamaican food&drinks"
-updated_comment = comment.replace("&"," and ")
+updated_comment = comment.replace("&", " and ")
 print(f"updated comment: {updated_comment}")
 
 # PROBLEM 03
 print("\nPROBLEM 03")
 
-num_chars = None
+num_chars = len(updated_comment)
 print(f"number of characters: {num_chars}")
 
 restaurants = [
@@ -64,20 +67,20 @@ restaurants = [
     "Madras Masala",
 ]
 
-print(None)
+print(type(restaurants))
 
-num_restaurants = None
+num_restaurants = len(restaurants)
 print(f"number of restaurants: {num_restaurants}")
 
 # PROBLEM 04
 print("\nPROBLEM 04")
-total_price = None
+total_price = 4 * 18.99 + 5 * 6.99 + 2 * 7.0 + 5 * 10.49 + 22.25 + 2 * 17.99
 print(f"total price: {total_price}")
 
-total_bill = None
+total_bill = total_price * (1 + 0.06 + 0.15)
 print(f"total bill: {total_bill}")
 
-each_pay = None
+each_pay = total_bill / 6
 
 print(f"each person pays: {each_pay}")
 
@@ -85,5 +88,7 @@ print(f"each person pays: {each_pay}")
 print("\nPROBLEM 05")
 
 # TODO: Create f-string
-
+answer = (
+    f'Someone said "{updated_comment}" on Yelp for the restaurant {jerk_pit_all_upper}.'
+)
 # END PROBLEM SET
