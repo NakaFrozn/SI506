@@ -1,5 +1,5 @@
 # START PROBLEM SET 1
-from turtle import update
+# from turtle import update
 
 
 print("Problem Set 1 \n")
@@ -27,14 +27,14 @@ print(madras_masala)
 # PROBLEM 02
 print("\nPROBLEM 02")
 
-hopcat_all_lower = str.lower(hopcat)
-print(f"all_lower: {hopcat_all_lower}")
+hopcat_all_lower = hopcat.lower()
+print(f"\nall_lower: {hopcat_all_lower}")
 
-jerk_pit_all_upper = str.upper(jerk_pit)
-print(f"all_upper: {jerk_pit_all_upper}")
+jerk_pit_all_upper = jerk_pit.upper()
+print(f"\nall_upper: {jerk_pit_all_upper}")
 
-madras_masala_count_m = str.count(madras_masala, "m")
-print(f"number of letter m: {madras_masala_count_m}")
+madras_masala_count_m = madras_masala.count("m")
+print(f"\nnumber of letter m: {madras_masala_count_m}")
 
 has_diner = fleetwood_diner.endswith("Diner")
 print(has_diner)
@@ -80,7 +80,7 @@ print(f"total price: {total_price}")
 total_bill = total_price * (1 + 0.06 + 0.15)
 print(f"total bill: {total_bill}")
 
-each_pay = total_bill / 6
+each_pay = total_bill / 7
 
 print(f"each person pays: {each_pay}")
 
