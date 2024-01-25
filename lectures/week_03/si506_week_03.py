@@ -300,7 +300,7 @@ unnamed_cast_members = None  # TODO Slice WARN: not the same as cast[-7:-1]
 
 # 4.2 CHALLENGE 03
 
-cleese_palin = None  # TODO Slice
+cleese_palin =   # TODO Slice
 
 # print(f"\n4.2 Cleese and Palin = {cleese_palin}")
 
