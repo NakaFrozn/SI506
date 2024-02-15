@@ -55,7 +55,7 @@ print(f"\n5.1 Challenges renamed (FAILS) = {challenges}")
 line_count = 0
 
 # TODO Implement loop
-for challenge in challenges:
+for challenge in challenges[:-1]:
     if "bonus" not in challenge.lower():
         line_count += int(challenge.split(": ")[1])
 print(f"\n6.0 line count (regular challenges) = {line_count}")
@@ -70,27 +70,43 @@ print(
 
 # 8.0 Max code lines per challenge
 max_lines = []
-lines = None  # TODO ...
+lines = 0  # TODO ...
 
-# Implement loop
-
+for challenge in challenges[:-1]:
+    line = int(challenge.split(": ")[1])
+    if line > lines:
+        max_lines.clear()
+        max_lines.append(challenge)
+        lines = line
+    elif line == lines:
+        max_lines.append(challenge)
 
 print(f"\n8.0 max lines = {max_lines}")
 
 # 9.0 Min code lines per challenge
 min_lines = []
-lines = None  # TODO ...
+lines = 100 # TODO ...
+for challenge in challenges[:-1]:
+    line = int(challenge.split(": ")[1])
+    if line < lines:
+        min_lines.clear()
+        min_lines.append(challenge)
+        lines = line
+    elif line == lines:
+        min_lines.append(challenge)
 
 # Implement loop
 
-
-# print(f"\n9.0 min lines = {min_lines}")
+print(f"\n9.0 min lines = {min_lines}")
 
 
 # 10.0 Between 1 and 4 lines (exclusive)
 some_lines = []
-
+for challenge in challenges[:-1]:
+    line = int(challenge.split(": ")[1])
+    if line >1 and line < 4:
+        some_lines.append(challenge)
 # Implement loop
 
 
-# print(f"\n10.0 between 1 and 4 lines = {some_lines}")
+print(f"\n10.0 between 1 and 4 lines = {some_lines}")
