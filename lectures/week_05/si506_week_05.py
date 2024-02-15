@@ -388,12 +388,12 @@ for station in stations:
         continue  # explicit but optional
 
 # Pass multiple strings
-# print(f"\n4.0.1 Ann Arbor EV network charging station counts",
-# f"\nChargePoint count = {chargepoint_count}",
-# f"\nElectrify America count = {elec_america_count}",
-# f"\nEV Connect count = {ev_connect_count}",
-# f"\nEVgo count = {evgo_count}",
-# f"\nGreenlots count = {greenlots_count}")
+print(f"\n4.0.1 Ann Arbor EV network charging station counts",
+f"\nChargePoint count = {chargepoint_count}",
+f"\nElectrify America count = {elec_america_count}",
+f"\nEV Connect count = {ev_connect_count}",
+f"\nEVgo count = {evgo_count}",
+f"\nGreenlots count = {greenlots_count}")
 
 
 # 4.1 CHALLENGE 03
@@ -404,25 +404,25 @@ last_confirmed_2022 = []
 last_confirmed_other = []
 
 # TODO Uncomment
-# for i in range(len(stations)):
-#     last_confirmed = None # TODO Assign value
-#     if ???:
-#         # TODO Add station id to appropriate list
-#     elif ???:
-#         # TODO Add station id to appropriate list
-#     elif ???:
-#         # TODO Add station id to appropriate list
-#     else:
-#         # TODO Add station id to appropriate list
+for i in range(len(stations)):
+    last_confirmed = None # TODO Assign value
+    if ???:
+        # TODO Add station id to appropriate list
+    elif ???:
+        # TODO Add station id to appropriate list
+    elif ???:
+        # TODO Add station id to appropriate list
+    else:
+        # TODO Add station id to appropriate list
 
-# print(f"\n4.1 Last confirmed 2020 (n={len(last_confirmed_2020)})")
-# pp.pprint(last_confirmed_2020)
-# print(f"\n4.1 Last confirmed 2021 (n={len(last_confirmed_2021)})")
-# pp.pprint(last_confirmed_2021)
-# print(f"\n4.1 Last confirmed 2022 (n={len(last_confirmed_2022)})")
-# pp.pprint(last_confirmed_2022)
-# print(f"\n4.1 Last confirmed other (n={len(last_confirmed_other)})")
-# pp.pprint(last_confirmed_other)
+print(f"\n4.1 Last confirmed 2020 (n={len(last_confirmed_2020)})")
+pp.pprint(last_confirmed_2020)
+print(f"\n4.1 Last confirmed 2021 (n={len(last_confirmed_2021)})")
+pp.pprint(last_confirmed_2021)
+print(f"\n4.1 Last confirmed 2022 (n={len(last_confirmed_2022)})")
+pp.pprint(last_confirmed_2022)
+print(f"\n4.1 Last confirmed other (n={len(last_confirmed_other)})")
+pp.pprint(last_confirmed_other)
 
 
 # 5.0 COMPOUND STATEMENTS
