@@ -46,13 +46,14 @@ def get_cereal(cereal_brands, cereal_name):
 
 
 def get_cereal_attribute(cereal, headers, header="brand"):
-    pass  # TODO Implement
+    return cereal[headers.index(header)]
 
 
 def get_cereals_by_company(cereal_brands, company):
     brands = []
     for cereal in cereal_brands:
-        pass  # TODO add if statement block
+        if cereal[0].lower().startswith(company.lower()): # TODO add if statement block
+            brands.append(cereal[1])
     return brands
 
 
@@ -116,7 +117,11 @@ def has_ingredient(ingredients, ingredient):
 
 
 # 2.1 TODO define function print_slogan()
+def print_slogan(cereal):
+    print(cereal[2])
 
+def get_slogan(cereal):
+    return cereal[2]
 
 def main():
 
@@ -153,12 +158,13 @@ def main():
     # print("\n2.1 Print slogan")
     frosted_flakes = cereals[3]
     # TODO # Call function and pass argument
+    print_slogan(frosted_flakes)
 
     # 2.2 RETURN VALUE
 
     raisin_bran = cereals[6]
-    raisin_bran_slogan = None  # TODO Call function
-    # print(f"\n2.2 Slogan = {raisin_bran_slogan}")
+    raisin_bran_slogan = get_slogan(raisin_bran)  # TODO Call function
+    print(f"\n2.2 Slogan = {raisin_bran_slogan}")
 
     # 2.3 MULTIPLE PARAMETERS
 
@@ -170,15 +176,15 @@ def main():
 
     # Postional arguments (order incorrect)
     apple_jacks_slogan = format_slogan(cereals[-2][2], cereals[-2][1])  # Oops! string reversed
-    # print(f"\n2.4 {apple_jacks_slogan}")
+    print(f"\n2.4 {apple_jacks_slogan}")
 
     # 2.5 CHALLENGE 01
 
-    post_cereals = None  # TODO Call function
-    kellogg_cereals = None  # TODO Call function
+    post_cereals = get_cereals_by_company(cereals[1:],"post") # TODO Call function
+    kellogg_cereals = get_cereals_by_company(cereals[1:],"kellogg")  # TODO Call function
 
-    # print(f"\n2.5.1 Post cereals = {post_cereals}")
-    # print(f"\n2.5.2 Kellogg's cereals = {kellogg_cereals}")
+    print(f"\n2.5.1 Post cereals = {post_cereals}")
+    print(f"\n2.5.2 Kellogg's cereals = {kellogg_cereals}")
 
     # 3.1 KEYWORD ARGUMENTS (ANY ORDER ACCEPTABLE)
 
@@ -186,7 +192,7 @@ def main():
         company="general mills", cereal_brands=cereals[1:]
     )
 
-    # print(f"\n3.1 General Mills cereals = {general_mills_cereals}")
+    print(f"\n3.1 General Mills cereals = {general_mills_cereals}")
 
     # 3.2 OPTIONAL PARAMETERS
 
@@ -195,11 +201,11 @@ def main():
 
     # Accept precision default value
     cocoa_puffs_sugar = calculate_sugar_content(cocoa_puffs)
-    # print(f"\n3.2.1 Cocoa Puffs sugar content = {cocoa_puffs_sugar}")
+    print(f"\n3.2.1 Cocoa Puffs sugar content = {cocoa_puffs_sugar}")
 
     # Override precision default value
     cocoa_puffs_sugar = calculate_sugar_content(cocoa_puffs, 3)  # override
-    # print(f"\n3.2.2 Cocoa Puffs sugar content = {cocoa_puffs_sugar}")
+    print(f"\n3.2.2 Cocoa Puffs sugar content = {cocoa_puffs_sugar}")
 
     # 3.3 Skipping optional parameters
 
@@ -207,27 +213,27 @@ def main():
 
     # The boolean True (numerical value 1) binds to wrong parameter; returns string
     raisin_bran_sugar = calculate_sugar_content_v2(raisin_bran, True)
-    # print(
-    #     f"\n3.3.1 Raisin Bran sugar content (type={type(raisin_bran_sugar)}) = {raisin_bran_sugar}"
-    # )
+    print(
+        f"\n3.3.1 Raisin Bran sugar content (type={type(raisin_bran_sugar)}) = {raisin_bran_sugar}"
+    )
 
     # Keyword argument binds 3 correctly, returns float
     raisin_bran_sugar = calculate_sugar_content_v2(raisin_bran, precision=3)
-    # print(
-    #     f"\n3.3.2 Raisin Bran sugar content (type={type(raisin_bran_sugar)}) = {raisin_bran_sugar}"
-    # )
+    print(
+        f"\n3.3.2 Raisin Bran sugar content (type={type(raisin_bran_sugar)}) = {raisin_bran_sugar}"
+    )
 
     # Returns formatted string
     raisin_bran_sugar = calculate_sugar_content_v2(raisin_bran, format_pct=True, precision=3)
-    # raisin_bran_sugar = calculate_sugar_content_v2(raisin_bran, True, 3) # Alternative
-    # print(
-    #     f"\n3.3.3 Raisin Bran sugar content (type={type(raisin_bran_sugar)}) = {raisin_bran_sugar}"
-    # )
+    raisin_bran_sugar = calculate_sugar_content_v2(raisin_bran, True, 3) # Alternative
+    print(
+        f"\n3.3.3 Raisin Bran sugar content (type={type(raisin_bran_sugar)}) = {raisin_bran_sugar}"
+    )
 
     # 3.4 CHALLENGE 02
 
     headers = cereals[0]  # extract headers
-    corn_flakes = None  # TODO Call function
+    corn_flakes = get_cereal(cereals[1:],"corn flakes")  # TODO Call function
     corn_flakes_serving_size_gm = None  # TODO Call function
 
 
@@ -238,13 +244,16 @@ def main():
     cereal = get_cereal(cereals[1:], "Grape-nuts")
     serve_size_gm = get_cereal_attribute(cereal, headers, "serving_size_gm")
     sugar_gm = get_cereal_attribute(cereal, headers, "sugar_gm")
-    sugar_content = None  # TODO call calculate_sugar_content_v3()
-    # print(f"\n4.0.1 Sugar content = {sugar_content}")
+    sugar_content = calculate_sugar_content_v3(
+        get_cereal_attribute(cereal,headers, "serving_size_gm"),
+        get_cereal_attribute(cereal,headers, "sugar_gm")
+    )
+    print(f"\n4.0.1 Sugar content = {sugar_content}")
 
 
     # 5.0 VARIABLE SCOPE
 
-    # print(f"\n5.0.1 Globally-scoped variable cereals = {cereals[:2]}")
+    print(f"\n5.0.1 Globally-scoped variable cereals = {CEREALS[:2]}")
 
     # TODO Uncomment. Triggers a NameError runtime exception.
     # print(f"\n5.0.2 Locally-scoped variable brands = {brands}")
