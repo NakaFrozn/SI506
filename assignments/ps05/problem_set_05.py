@@ -83,8 +83,8 @@ def categorize_events_by_location(club_events, location):
 def categorize_events_by_specific_theme(club_events, theme):
     events_at_theme = []
     for event in club_events[1:]:
-        event_theme = event[-1].lower()
-        if event_theme == theme:
+        event_theme = event[-1]
+        if event_theme.lower() == theme.lower():
             events_at_theme.append((event[1], event[2], event[-1]))
     return events_at_theme
 
