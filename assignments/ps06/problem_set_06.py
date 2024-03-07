@@ -2,8 +2,6 @@ import csv
 from os import write
 from pathlib import Path
 
-from bleach import clean
-
 
 def calculate_shot_conversion_rate(goals, shots, precision=2):
     """Calculates the shot conversion rate (goals divided by shots). The number
@@ -21,10 +19,9 @@ def calculate_shot_conversion_rate(goals, shots, precision=2):
     """
 
     try:
-        return round(goals/shots, precision)
+        return round(goals / shots, precision)
     except ZeroDivisionError:
         return 0.0
-
 
 
 def clean_squad(squad):
@@ -40,24 +37,22 @@ def clean_squad(squad):
     Returns:
         tuple: "Squad" element converted to a two-item tuple
     """
-    return (squad[:2].upper(),squad[3:])
-    
+    return (squad[:2].upper(), squad[3:])
 
 
 def format_player_position(position):
     """Reformats player's position string by converting the comma (",") delimiter that
-    separates multiple positions to a pipe (|), e.g., "MF,DF" -> "MF|DF". This change
-    eliminates the need to surround the position string with double quotes when writing the
-    value to a CSV file.
+        separates multiple positions to a pipe (|), e.g., "MF,DF" -> "MF|DF". This change
+        eliminates the need to surround the position string with double quotes when writing the
+        value to a CSV file.
+    `
+        Parameters:
+            position (str): player's position string
 
-    Parameters:
-        position (str): player's position string
-
-    Returns:
-        str: reformatted position string
+        Returns:
+            str: reformatted position string
     """
-    return position.replace(",","|")
-    
+    return position.replace(",", "|")
 
 
 def get_multi_position_players(players, pos_idx):
@@ -77,7 +72,6 @@ def get_multi_position_players(players, pos_idx):
         if len(positions) > 1:
             multi.append(player)
     return multi
-    
 
 
 def get_player_shooting_numbers(player, slice_):
@@ -96,7 +90,7 @@ def get_player_shooting_numbers(player, slice_):
     for i in range(len(shots)):
         shots[i] = int(shots[i])
     return shots
-    
+
 
 def get_team(players, squad_idx, squad):
     """Returns members of a country's team.
@@ -112,7 +106,7 @@ def get_team(players, squad_idx, squad):
 
     team_players = []
     for player in players:
-        if player[squad_idx] == squad:
+        if player[squad_idx].lower() == squad.lower():
             team_players.append(player)
     return team_players
 
@@ -153,13 +147,14 @@ def get_top_scorer(players, gls_idx):
     max_score = 0
     for player in players:
         score = int(player[gls_idx])
-        if score > max_score and score > 0:
+        if score > 0 and score > max_score:
             top_scorers.clear()
             top_scorers.append(player)
             max_score = score
-        elif score == max_score and score > 0:
+        elif score > 0 and score == max_score:
             top_scorers.append(player)
     return top_scorers
+
 
 def read_csv(filepath, encoding="utf-8", newline="", delimiter=","):
     """
@@ -242,8 +237,8 @@ def main():
     # 1.3
     for i in range(len(data)):
         data[i] = data[i][:10]
-    
-    #1.4
+
+    # 1.4
     print(f"\n1.4 data[0] = {data[0]}")  # headers
     print(f"\n1.4 data[-1] = {data[-1]}")  # last player
     assert data[0] == ["Rk", "Player", "Pos", "Squad", "Age", "Born", "90s", "Gls", "Sh", "SoT"]
@@ -273,7 +268,6 @@ def main():
     # 2.2
     assert ("NG", "Nigeria") == clean_squad("ng Nigeria")
     assert ("ZA", "South Africa") == clean_squad("za South Africa")
-    
 
     # CHALLENGE 03
 
@@ -292,7 +286,7 @@ def main():
     # 3.4
     squad_idx += 1
 
-    #3.5
+    # 3.5
     write_csv("stu-players.csv", players, headers)
 
     # CHALLENGE 04
@@ -340,18 +334,17 @@ def main():
         team_top_scorers.extend(top_scorers)
     print(team_top_scorers)
     # 7.10
-    write_csv("stu-team-top_scorers.csv", team_top_scorers,headers)
+    write_csv("stu-team-top_scorers.csv", team_top_scorers, headers)
 
     # CHALLENGE 08
 
-    #8.2 UNCOMMENT: built-in slice(< start >, < start >, < step >=None) object in action!
+    # 8.2 UNCOMMENT: built-in slice(< start >, < start >, < step >=None) object in action!
     slice_ = slice(gls_idx, len(headers))  #  equivalent to slice(8, 11)
-    
 
     # 8.3
     goals, shots, shots_on_target = get_player_shooting_numbers(players[0], slice_)
-    
-    #8.4
+
+    # 8.4
     print(
         f"\n8.4 goals = {goals}",
         f"shots = {shots}",
@@ -368,11 +361,14 @@ def main():
     for player in players:
         goals, shots, shots_on_target = get_player_shooting_numbers(player, slice_)
         player.append(calculate_shot_conversion_rate(goals, shots, 3))
-        player.append(calculate_shot_conversion_rate(goals = goals, shots = shots_on_target, precision = 3))
+        player.append(
+            calculate_shot_conversion_rate(goals=goals, shots=shots_on_target, precision=3)
+        )
     # 9.5
     headers.extend(["shots_conv_rate", "shots_on_target_conv_rate"])
     # 9.6
     write_csv("stu-players-shooting_efficiency.csv", players, headers)
+
 
 if __name__ == "__main__":
     main()
