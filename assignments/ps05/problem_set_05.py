@@ -63,7 +63,15 @@ specified_theme_events_check = [
 # End setup code
 
 
-def calculate_num_events(club_events,location):
+def calculate_num_events(club_events, host_org):
+    num_events = 0
+    for event in club_events[1:]:
+        if event[0].lower() == host_org.lower():
+            num_events += 1
+    return num_events
+
+
+def categorize_events_by_location(club_events, location):
     events_by_location = []
     for event in club_events[1:]:
         event_location = get_event_location(event)
@@ -72,58 +80,60 @@ def calculate_num_events(club_events,location):
     return events_by_location
 
 
-def categorize_events_by_location(club_events,location):
-    events_by_location = []
+def categorize_events_by_specific_theme(club_events, theme):
+    events_at_theme = []
     for event in club_events[1:]:
-        event_location = get_event_location(event)
-        if event_location == location:
-            events_by_location.append(event[1])
-    return events_by_location
-
-
-def categorize_events_by_specific_theme():
-    pass
+        event_theme = event[-1]
+        if event_theme.lower() == theme.lower():
+            events_at_theme.append((event[1], event[2], event[-1]))
+    return events_at_theme
 
 
 def categorize_events_by_theme(club_events, theme):
     events_by_theme = []
     for event in club_events[1:]:
-        if has_theme
+        if has_theme(event, theme):
+            events_by_theme.append(event[1])
+    return events_by_theme
 
 
-def categorize_events_by_time():
-    pass
+def categorize_events_by_time(club_events, time="7 PM", duration=1):
+    events_by_time = []
+    for event in club_events[1:]:
+        if event[3] == time and get_duration(event) >= duration:
+            events_by_time.append(event[1])
+    return events_by_time
 
 
-def convert_str_to_list(element:str,separator:str) -> list:
+def convert_str_to_list(element, separator):
     return element.split(separator)
 
 
-def event_with_shortest_duration(club_events:list) -> list:
+def event_with_shortest_duration(club_events):
     shortest_event = []
     shortest_duration = 100
     for event in club_events[1:]:
         duration = get_duration(event)
         if duration < shortest_duration:
             shortest_event.clear()
-            shortest_event.append((event[1],duration))
+            shortest_event.append((event[1], duration))
             shortest_duration = duration
         elif duration == shortest_duration:
-            shortest_event.append((event[1],duration))
+            shortest_event.append((event[1], duration))
     return shortest_event
 
 
-def get_duration(event_info:str) -> float:
+def get_duration(event_info):
     time = float(event_info[4].split(" ")[0])
     return time
 
 
-def get_event_location(event_info:str) -> str:
+def get_event_location(event_info):
     return event_info[5]
 
 
 def has_theme(event, theme):
-    return theme in event[-1]
+    return theme.lower() in event[-1].lower()
 
 
 def main():
@@ -131,7 +141,7 @@ def main():
     # PROBLEM 1
     print("\nProblem 1")
     for i in range(len(club_events)):
-        club_events[i] = convert_str_to_list(element=club_events[i],separator="; ")
+        club_events[i] = convert_str_to_list(element=club_events[i], separator="; ")
 
     # TODO 1.2
 
@@ -181,42 +191,46 @@ def main():
     themes = ["exercise/fitness", "Social", "sport event"]
 
     # TODO 5.3
-
+    specified_theme_events = []
+    for theme in themes:
+        specified_theme_events.append(categorize_events_by_theme(club_events, theme))
     # TODO 5.4
 
-    # print(f"\n5.4 List of events for specified themes = {specified_theme_events}")
-    # assert specified_theme_events == specified_theme_events_check
+    print(f"\n5.4 List of events for specified themes = {specified_theme_events}")
+    assert specified_theme_events == specified_theme_events_check
 
     # PROBLEM 6
     print("\nProblem 6")
 
     # TODO 6.2
-
-    # print(f"\n6.2 Events in the evening = {evening_events}")
-    # assert evening_events == [
-    #     "Star Wars Ahsoka Watch Party",
-    #     "University of Michigan Women's Ice Hockey vs Lake State Superior University Weekend Series",
-    # ]
+    evening_events = categorize_events_by_time(club_events)
+    print(f"\n6.2 Events in the evening = {evening_events}")
+    assert evening_events == [
+        "Star Wars Ahsoka Watch Party",
+        "University of Michigan Women's Ice Hockey vs Lake State Superior University Weekend Series",
+    ]
 
     # PROBLEM 7
     print("\nProblem 7")
 
     # TODO 7.2
-
-    # print(f"\n7.2 Number of events by A2 Movimiento Latino = {num_events_for_a2}")
-    # assert num_events_for_a2 == 3
+    num_events_for_a2 = calculate_num_events(club_events, "A2 Movimiento Latino")
+    print(f"\n7.2 Number of events by A2 Movimiento Latino = {num_events_for_a2}")
+    assert num_events_for_a2 == 3
 
     # PROBLEM 8
     print("\nProblem 8")
 
     # TODO 8.2
-
+    social_events = categorize_events_by_specific_theme(club_events, "social")
+    # community = categorize_events_by_specific_theme(club_events, "community service")
+    # print(community)
     # TODO 8.3
-
-    # print(f"\n8.3 Social events are {social_event_1}, {social_event_2} and {social_event_3}")
-    # assert social_event_1 == ("Star Wars Ahsoka Watch Party", "2023/9/28", "Social")
-    # assert social_event_2 == ("SDNS Support Group", "2023/10/9", "Social")
-    # assert social_event_3 == ("SDNS Crafting & Studying Night", "2023/11/30", "Social")
+    social_event_1, social_event_2, social_event_3 = social_events
+    print(f"\n8.3 Social events are {social_event_1}, {social_event_2} and {social_event_3}")
+    assert social_event_1 == ("Star Wars Ahsoka Watch Party", "2023/9/28", "Social")
+    assert social_event_2 == ("SDNS Support Group", "2023/10/9", "Social")
+    assert social_event_3 == ("SDNS Crafting & Studying Night", "2023/11/30", "Social")
 
     # END PROBLEM SET
 
