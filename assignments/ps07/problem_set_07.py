@@ -1,6 +1,8 @@
 import csv
+from enum import unique
 from pathlib import Path
 import pprint as pp
+from tabnanny import check
 
 
 # Setup Code (DO NOT MODIFY)
@@ -157,7 +159,13 @@ def calculate_avg(movies, score_type):
         float: A float value indicating the average value, rounded to one decimal point
     """
 
-    pass  # TODO Implement
+    score_total = 0
+    for movie in movies:
+        score = get_value(movie, score_type)
+        if score is not None:
+            score_total += float(score)
+    score_avg = score_total / len(movies)
+    return round(score_avg, 1)
 
 
 def check_movie_runtime(movies, runtime):
@@ -172,7 +180,12 @@ def check_movie_runtime(movies, runtime):
         list: returns a list of movie dictionaries that satisfy the set condition
     """
 
-    pass  # TODO Implement
+    checked_movies = []
+    for movie in movies:
+        movie_runtime = movie["Runtime"]
+        if movie_runtime >= runtime:
+            checked_movies.append(movie)
+    return checked_movies
 
 
 def clean_row(movie):
@@ -188,7 +201,12 @@ def clean_row(movie):
         dict: dictionary containing key-value pairs representing data for one movie
     """
 
-    pass  # TODO Implement
+    try:
+        clean_runtime(movie)
+        convert_to_int(movie)
+    except:
+        convert_to_int(movie)
+    return movie
 
 
 def clean_runtime(movie):
@@ -203,7 +221,8 @@ def clean_runtime(movie):
         dict: dictionary containing key-value pairs representing data for one movie
     """
 
-    pass  # TODO Implement
+    movie["Runtime"] = movie["Runtime"].split()[0]
+    return movie
 
 
 def convert_to_int(movie):
@@ -218,8 +237,12 @@ def convert_to_int(movie):
     Returns:
         dict: dictionary containing key-value pairs representing data for one movie
     """
-
-    pass  # TODO Implement
+    for key, value in movie.items():
+        try:
+            movie[key] = int(value)
+        except:
+            continue
+    return movie
 
 
 def count_movie_by_rating(movies, rating):
@@ -235,7 +258,11 @@ def count_movie_by_rating(movies, rating):
         int: Number of movies that have the supplied Rating
     """
 
-    pass  # TODO Implement
+    count = 0
+    for movie in movies:
+        if rating.lower() == movie["Rated"].lower():
+            count += 1
+    return count
 
 
 def filter_movie_by_genre(movies, genre):
@@ -251,7 +278,11 @@ def filter_movie_by_genre(movies, genre):
         list: List with movie dictionaries that include the supplied genre
     """
 
-    pass  # TODO Implement
+    filtered = []
+    for movie in movies:
+        if genre.lower() in movie["Genre"].lower():
+            filtered.append(movie)
+    return filtered
 
 
 def filter_movies_by_year_and_imdb(movies, year_lower_limit, year_upper_limit, imdb_score):
@@ -269,7 +300,13 @@ def filter_movies_by_year_and_imdb(movies, year_lower_limit, year_upper_limit, i
         list: a list of dictionaries of horror movies that satisfy the above conditions
     """
 
-    pass  # TODO Implement
+    movies_list = []
+    for movie in movies:
+        year = int(movie["Year"])
+        imdb = float(movie["imdbRating"])
+        if year_lower_limit <= year <= year_upper_limit and imdb >= imdb_score:
+            movies_list.append(movie)
+    return movies_list
 
 
 def get_awards(movie, award_key):
@@ -287,7 +324,11 @@ def get_awards(movie, award_key):
         bool: returns False if the movie has not been nominated or won an Oscar
     """
 
-    pass  # TODO Implement
+    award = get_value(movie, award_key)
+    if "oscar" in award.lower() or "oscars" in award.lower():
+        return award
+    else:
+        return False
 
 
 def get_jumpscares(jumpscares, movie_title):
@@ -306,7 +347,10 @@ def get_jumpscares(jumpscares, movie_title):
         movie name does not exist in the jumpscares list.
     """
 
-    pass  # TODO Implement
+    for jumpscare in jumpscares:
+        if jumpscare["Movie Name"].lower() == movie_title.lower():
+            return jumpscare["Jump Count"], jumpscare["Jump Scare Rating"]
+    return None, None
 
 
 def get_value(movie, key_to_check):
@@ -323,8 +367,7 @@ def get_value(movie, key_to_check):
         or int based on which parameter is being passed.
         None: if the value does not exist, return None
     """
-
-    pass  # TODO Implement
+    return movie.get(key_to_check, None)
 
 
 def read_csv_to_dicts(filepath, encoding="utf-8", newline="", delimiter=","):
@@ -367,7 +410,10 @@ def search_movie_writer(movie, search_terms):
         bool: True if term appears in the writers, otherwise False
     """
 
-    pass  # TODO Implement
+    for term in search_terms:
+        if term.lower() in movie["Writer"].lower():
+            return True
+    return False
 
 
 def write_dicts_to_csv(filepath, data, fieldnames, encoding="utf-8", newline=""):
@@ -409,128 +455,160 @@ def main():
     # PROBLEM 1
     print("Problem 01")
     # 1.1
-    filepath_movies = None
-    filepath_jumpscare = None
-    horror_movies = None
-    jumpscares = None
+    filepath_movies = "data-horror_movies.csv"
+    filepath_jumpscare = "data-movie_jumpscares.csv"
+    horror_movies = read_csv_to_dicts(filepath_movies)
+    jumpscares = read_csv_to_dicts(filepath_jumpscare)
 
     # 1.5
+    for movie in horror_movies:
+        movie = clean_row(movie)
+    for movie in jumpscares:
+        movie = clean_row(movie)
+    pp.pprint(f"First element in horror_movies: {horror_movies[0]}")
+    pp.pprint(f"First element in jumpscares: {jumpscares[0]}")
 
-    # pp.pprint(f'First element in horror_movies: {horror_movies[0]}')
-    # pp.pprint(f'First element in jumpscares: {jumpscares[0]}')
-
-    # assert horror_movies[0]["Runtime"] == 93
-    # assert jumpscares[0]["Jump Count"] == 11
+    assert horror_movies[0]["Runtime"] == 93
+    assert jumpscares[0]["Jump Count"] == 11
 
     # PROBLEM 2
     print("\nProblem 02")
 
     # 2.2
-    action_movies = None
-    # print("Action movies:\n")
-    # pp.pprint(action_movies)
+    action_movies = filter_movie_by_genre(horror_movies, "action")
+    print("Action movies:\n")
+    pp.pprint(action_movies)
 
-    # assert action_movies_check in action_movies
-    # assert len(action_movies) == 6
+    assert action_movies_check in action_movies
+    assert len(action_movies) == 6
 
     # 2.3
-    horror_movies = None
-    # print("First 5 elements of Horror movies:\n")
-    # pp.pprint(horror_movies[:5])
+    horror_movies = filter_movie_by_genre(horror_movies, "horror")
+    print("First 5 elements of Horror movies:\n")
+    pp.pprint(horror_movies[:5])
 
-    # assert horror_movies_filt_check in horror_movies
-    # assert len(horror_movies) == 65
+    assert horror_movies_filt_check in horror_movies
+    assert len(horror_movies) == 65
 
     # PROBLEM 3
     print("\nProblem 03")
     unique_ratings = ["PG", "PG-13", "R", "Not Rated", "Passed", "Unrated"]
 
     # 3.2 & 3.3
+    movie_ratings_count = {}
+    for rating in unique_ratings:
+        movie_ratings_count[rating] = count_movie_by_rating(horror_movies, rating)
+    print(f"Count of horror movies in each viewer ratings:\n{movie_ratings_count}")
 
-    # print(f"Count of horror movies in each viewer ratings:\n{movie_ratings_count}")
-
-    # assert ratings_count_check == movie_ratings_count
+    assert ratings_count_check == movie_ratings_count
 
     # PROBLEM 4
     print("\nProblem 04")
 
     # 4.2
-    # print("First element of horror movies with jump scare data:\n")
-    # pp.pprint(horror_movies[0])
-    # print(f"\nLength of horror movies with jump scare data:\n{len(horror_movies)}")
-
-    # assert horror_w_js_movies_check in horror_movies
-    # assert "Jumpscare_count" in horror_movies[0]
-    # assert "Jumpscare_rating" in horror_movies[0]
-    # assert len(horror_movies) == 65
+    for movie in horror_movies:
+        movie["Jumpscare_count"], movie["Jumpscare_rating"] = get_jumpscares(
+            jumpscares, movie["Title"]
+        )
+    print("First element of horror movies with jump scare data:\n")
+    pp.pprint(horror_movies[0])
+    print(f"\nLength of horror movies with jump scare data:\n{len(horror_movies)}")
+    pp.pprint(horror_movies)
+    assert horror_w_js_movies_check in horror_movies
+    assert "Jumpscare_count" in horror_movies[0]
+    assert "Jumpscare_rating" in horror_movies[0]
+    assert len(horror_movies) == 65
 
     # PROBLEM 5
     print("\nProblem 05")
 
     # 5.2
-    all_recent_movies = None
-    # print("\nRecent Horror movies:\n")
-    # pp.pprint(all_recent_movies)
+    all_recent_movies = filter_movies_by_year_and_imdb(horror_movies, 2018, 2023, 7.0)
+    print("\nRecent Horror movies:\n")
+    pp.pprint(all_recent_movies)
 
-    # assert recent_movies_check in all_recent_movies
-    # assert len(all_recent_movies) == 4
+    assert recent_movies_check in all_recent_movies
+    assert len(all_recent_movies) == 4
 
     # PROBLEM 6
     print("\nProblem 06")
 
     # 6.2
+    writer_movies = []
     writer_names = ["stephEN", "Chad", "dAVId", "jordan peeLe"]
+    for movie in horror_movies:
+        if search_movie_writer(movie, writer_names):
+            writer_movies.append(movie)
+    print("\nWriters in movies:\n")
+    pp.pprint(writer_movies)
+    print(f"\nLength of writers in movies:\n{len(writer_movies)}")
 
-    # print("\nWriters in movies:\n")
-    # pp.pprint(writer_movies)
-    # print(f"\nLength of writers in movies:\n{len(writer_movies)}")
-
-    # assert writers_in_movies_check in writer_movies
-    # assert len(writer_movies) == 12
+    assert writers_in_movies_check in writer_movies
+    assert len(writer_movies) == 12
 
     # 6.4
-    long_writer_movies = None
-    # print("\nLong movies by prolific writers:\n")
-    # pp.pprint(long_writer_movies)
+    long_writer_movies = check_movie_runtime(writer_movies, 100)
+    print("\nLong movies by prolific writers:\n")
+    pp.pprint(long_writer_movies)
 
-    # assert long_writers_movies_check in long_writer_movies
+    assert long_writers_movies_check in long_writer_movies
 
     # PROBLEM 7
     print("\nProblem 07")
 
     # 7.2
-    movie_title = None
-    movie_viewer_rating = None
+    movie_title = get_value(horror_movies[3], "Title")
+    movie_viewer_rating = get_value(horror_movies[3], "Rated")
 
-    # assert movie_title == "The Skeleton Key"
-    # assert movie_viewer_rating == "PG-13"
+    assert movie_title == "The Skeleton Key"
+    assert movie_viewer_rating == "PG-13"
 
     # 7.4 & 7.5
-    high_rated_movies = None
-    avg_imdb_rating = None
-    avg_jumpscare_rating = None
+    high_rated_movies = []
+    avg_imdb_rating = calculate_avg(horror_movies, "imdbRating")
+    avg_jumpscare_rating = calculate_avg(horror_movies, "Jumpscare_rating")
 
-    # print(f"The average imdb Score is: {avg_imdb_rating}")
-    # print(f"The average jumpscare Score is: {avg_jumpscare_rating}")
+    print(f"The average imdb Score is: {avg_imdb_rating}")
+    print(f"The average jumpscare Score is: {avg_jumpscare_rating}")
 
-    # assert avg_imdb_rating == 6.6
-    # assert avg_jumpscare_rating == 2.3
+    assert avg_imdb_rating == 6.6
+    assert avg_jumpscare_rating == 2.3
 
-    # print("High-rated movies:")
-    # for movie in high_rated_movies:
-    #     pp.pprint(movie)
+    for movie in horror_movies:
+        imdb = get_value(movie, "imdbRating")
+        jumpscare = get_value(movie, "Jumpscare_rating")
+        if imdb is not None and jumpscare is not None:
+            if float(imdb) > avg_imdb_rating and float(jumpscare) > avg_jumpscare_rating:
+                high_rated_movies.append(
+                    {"Title": movie["Title"], "IMDB_rating": imdb, "Jumpscare_rating": jumpscare}
+                )
+
+    print("High-rated movies:")
+    for movie in high_rated_movies:
+        pp.pprint(movie)
 
     # PROBLEM 8
     print("\nProblem 08")
 
     # 8.2-3
-    oscar_movies = None
+    oscar_movies = []
+    for movie in horror_movies:
+        no_of_awards = get_awards(movie, "Awards")
+        if no_of_awards != False:
+            oscar_movies.append(
+                {
+                    "Title": movie["Title"],
+                    "Director": movie["Director"],
+                    "Oscars Record": no_of_awards,
+                }
+            )
 
-    # print(f"All movies that have been nominated for or have won an Oscar are {oscar_movies}")
+    print(f"All movies that have been nominated for or have won an Oscar are {oscar_movies}")
 
-    # assert len(oscar_movies) == 6
+    assert len(oscar_movies) == 6
 
     # 8.4
+    write_dicts_to_csv("stu-oscar_movies.csv", oscar_movies, oscar_movies[0].keys())
 
 
 if __name__ == "__main__":
