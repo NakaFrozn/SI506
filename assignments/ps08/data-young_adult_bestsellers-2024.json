@@ -1,0 +1,4762 @@
+[
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-03-02",
+    "published_date": "2024-03-17",
+    "published_date_description": "one_before_latest",
+    "next_published_date": "2024-03-24",
+    "previous_published_date": "2024-03-10",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "weeks_on_list": 17,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "21.35",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "weeks_on_list": 37,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "26.69",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 4,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "18.38",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781665965583",
+        "publisher": "Margaret K. McElderry",
+        "description": "Liska seeks the mythical fern flower to rid herself of her monstrous power.",
+        "price": "39.45",
+        "title": "WHERE THE DARK STANDS STILL",
+        "author": "A.B. Poranek",
+        "contributor": "by A.B. Poranek",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665965583.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665936479?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665936479",
+            "isbn13": "9781665936477"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665936479?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665965583?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665965583"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BDARK%2BSTANDS%2BSTILL%2FA.B.%2BPoranek%2F9781665965583"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665965583"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665965583?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/17b2d57f-d7e5-56b9-8a61-6da9c956e130"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "weeks_on_list": 17,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "26.82",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 1,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780374392642",
+        "publisher": "Farrar, Straus & Giroux",
+        "description": "Arthie Casimir runs a tearoom by day and an illegal bloodhouse that caters to vampires at night.",
+        "price": "38.73",
+        "title": "A TEMPEST OF TEA",
+        "author": "Hafsah Faizal",
+        "contributor": "by Hafsah Faizal",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780374392642.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0374389403?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0374389403",
+            "isbn13": "9780374389406"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0374389403?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780374392642?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374392642"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BTEMPEST%2BOF%2BTEA%2FHafsah%2BFaizal%2F9780374392642"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780374392642"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780374392642?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/fb37375e-7a61-5607-aeec-19cd5b958a68"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "weeks_on_list": 17,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "24.18",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 5,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250866901",
+        "primary_isbn13": "9781250866905",
+        "publisher": "Wednesday",
+        "description": "Rune, a witch, and Gideon, a witch-hunter, fall in love.",
+        "price": "39.93",
+        "title": "HEARTLESS HUNTER",
+        "author": "Kristen Ciccarelli",
+        "contributor": "by Kristen Ciccarelli",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250866905.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250866901?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250866901",
+            "isbn13": "9781250866905"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250866901?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250866905?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250866905"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHEARTLESS%2BHUNTER%2FKristen%2BCiccarelli%2F9781250866905"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250866905"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250866905?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/0e1f5357-a938-5fd2-9d08-9866f744d835"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593484975",
+        "primary_isbn13": "9780593484975",
+        "publisher": "Delacorte",
+        "description": "In a frozen, post-apocalyptic world, the citizens of Snowglobe live in warmth and wealth in exchange for their lives being televised.",
+        "price": "34.5",
+        "title": "SNOWGLOBE",
+        "author": "Soyoung Park",
+        "contributor": "by Soyoung Park",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593484975.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593484975?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593484975",
+            "isbn13": "9780593484975"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593484975?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593484975?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593484975"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSNOWGLOBE%2FSoyoung%2BPark%2F9780593484975"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593484975"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593484975?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/29aa783e-51a5-5b53-a69d-51aff87c7e11"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "weeks_on_list": 62,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593374169",
+        "primary_isbn13": "9780593374160",
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": "34.13",
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BSURVIVE%2FHolly%2BJackson%2F9780593374160"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593374160"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593374160?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-24",
+    "published_date": "2024-03-10",
+    "published_date_description": "",
+    "next_published_date": "2024-03-17",
+    "previous_published_date": "2024-03-03",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780374392642",
+        "publisher": "Farrar, Straus & Giroux",
+        "description": "Arthie Casimir runs a tearoom by day and an illegal bloodhouse that caters to vampires at night.",
+        "price": "22.17",
+        "title": "A TEMPEST OF TEA",
+        "author": "Hafsah Faizal",
+        "contributor": "by Hafsah Faizal",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780374392642.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0374389403?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0374389403",
+            "isbn13": "9780374389406"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0374389403?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780374392642?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374392642"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BTEMPEST%2BOF%2BTEA%2FHafsah%2BFaizal%2F9780374392642"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780374392642"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780374392642?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/fb37375e-7a61-5607-aeec-19cd5b958a68"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 16,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "34.51",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 1,
+        "weeks_on_list": 36,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "16.33",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "12.28",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250866901",
+        "primary_isbn13": "9781250866905",
+        "publisher": "Wednesday",
+        "description": "Rune, a witch, and Gideon, a witch-hunter, fall in love.",
+        "price": "31.02",
+        "title": "HEARTLESS HUNTER",
+        "author": "Kristen Ciccarelli",
+        "contributor": "by Kristen Ciccarelli",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250866905.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250866901?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250866901",
+            "isbn13": "9781250866905"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250866901?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250866905?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250866905"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHEARTLESS%2BHUNTER%2FKristen%2BCiccarelli%2F9781250866905"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250866905"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250866905?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/0e1f5357-a938-5fd2-9d08-9866f744d835"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "weeks_on_list": 16,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "31.14",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 5,
+        "weeks_on_list": 16,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "37.59",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250894891",
+        "primary_isbn13": "9781250894892",
+        "publisher": "Flatiron",
+        "description": "Nora follows enigmatic clues left by her best friend, Becca, who has disappeared.",
+        "price": "25.93",
+        "title": "THE BAD ONES",
+        "author": "Melissa Albert",
+        "contributor": "by Melissa Albert",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250894892.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250894891?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250894891",
+            "isbn13": "9781250894892"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250894891?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250894892?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250894892"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBAD%2BONES%2FMelissa%2BAlbert%2F9781250894892"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250894892"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250894892?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/0d9eccbc-e1ba-5b0b-aa95-36b0dc48b44b"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 6,
+        "weeks_on_list": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665921234",
+        "primary_isbn13": "9781665921237",
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": "39.1",
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "contributor": "by Lynn Painter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665951166.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665921237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665921237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921237"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665921237"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665921237?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/246fe41d-64d6-592a-bed6-668a7a9f0672"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 7,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1338827154",
+        "primary_isbn13": "9781338827156",
+        "publisher": "Scholastic",
+        "description": "Sadie Wen vents her frustrations with people in email drafts that she never intends to send out.",
+        "price": "30.11",
+        "title": "I HOPE THIS DOESN'T FIND YOU",
+        "author": "Ann Liang",
+        "contributor": "by Ann Liang",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338827156.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1338827154?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1338827154",
+            "isbn13": "9781338827156"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1338827154?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781338827156?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338827156"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BHOPE%2BTHIS%2BDOESN%2527T%2BFIND%2BYOU%2FAnn%2BLiang%2F9781338827156"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781338827156"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781338827156?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/c7508887-6527-5056-a6e3-89ffeb8d4241"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-17",
+    "published_date": "2024-03-03",
+    "published_date_description": "",
+    "next_published_date": "2024-03-10",
+    "previous_published_date": "2024-02-25",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 35,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "29.53",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "weeks_on_list": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "20.23",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "weeks_on_list": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "35.61",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "19.78",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "39.54",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 8,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665921234",
+        "primary_isbn13": "9781665921237",
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": "13.34",
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "contributor": "by Lynn Painter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665951166.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665921237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665921237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921237"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665921237"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665921237?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/246fe41d-64d6-592a-bed6-668a7a9f0672"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1338827154",
+        "primary_isbn13": "9781338827156",
+        "publisher": "Scholastic",
+        "description": "Sadie Wen vents her frustrations with people in email drafts that she never intends to send out.",
+        "price": "20.13",
+        "title": "I HOPE THIS DOESN'T FIND YOU",
+        "author": "Ann Liang",
+        "contributor": "by Ann Liang",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338827156.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1338827154?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1338827154",
+            "isbn13": "9781338827156"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1338827154?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781338827156?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338827156"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BHOPE%2BTHIS%2BDOESN%2527T%2BFIND%2BYOU%2FAnn%2BLiang%2F9781338827156"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781338827156"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781338827156?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/c7508887-6527-5056-a6e3-89ffeb8d4241"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250618932",
+        "primary_isbn13": "9781250618931",
+        "publisher": "Feiwel & Friends",
+        "description": "Jude finds a ruby-red, 20-sided die that brings him good luck, but then he loses it.",
+        "price": "22.48",
+        "title": "WITH A LITTLE LUCK",
+        "author": "Marissa Meyer",
+        "contributor": "by Marissa Meyer",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250618931.jpg",
+        "book_image_width": 344,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250618932?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250618932",
+            "isbn13": "9781250618931"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250618932?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250618931?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250618931"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWITH%2BA%2BLITTLE%2BLUCK%2FMarissa%2BMeyer%2F9781250618931"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250618931"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250618931?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/c7828c10-b038-5356-9626-9c66ace18199"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "weeks_on_list": 61,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593374169",
+        "primary_isbn13": "9780593374160",
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": "27.83",
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BSURVIVE%2FHolly%2BJackson%2F9780593374160"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593374160"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593374160?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "125089025X",
+        "primary_isbn13": "9781250890252",
+        "publisher": "Tor Teen",
+        "description": "Ash and Ramsay set out on a quest to obtain the legendary Book of Source.",
+        "price": "21.97",
+        "title": "INFINITY ALCHEMIST",
+        "author": "Kacen Callender",
+        "contributor": "by Kacen Callender",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250890252.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/125089025X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "125089025X",
+            "isbn13": "9781250890252"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125089025X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250890252?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250890252"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FINFINITY%2BALCHEMIST%2FKacen%2BCallender%2F9781250890252"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250890252"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250890252?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/5d2ef674-c079-5ef6-86eb-b5b4d3b0bcdb"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-10",
+    "published_date": "2024-02-25",
+    "published_date_description": "",
+    "next_published_date": "2024-03-03",
+    "previous_published_date": "2024-02-18",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 34,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "27.01",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "31.39",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "weeks_on_list": 14,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "12.09",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 14,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "39.68",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 14,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "17.96",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "125089025X",
+        "primary_isbn13": "9781250890252",
+        "publisher": "Tor Teen",
+        "description": "Ash and Ramsay set out on a quest to obtain the legendary Book of Source.",
+        "price": "20.69",
+        "title": "INFINITY ALCHEMIST",
+        "author": "Kacen Callender",
+        "contributor": "by Kacen Callender",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250890252.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/125089025X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "125089025X",
+            "isbn13": "9781250890252"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125089025X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250890252?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250890252"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FINFINITY%2BALCHEMIST%2FKacen%2BCallender%2F9781250890252"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250890252"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250890252?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/5d2ef674-c079-5ef6-86eb-b5b4d3b0bcdb"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1338827154",
+        "primary_isbn13": "9781338827156",
+        "publisher": "Scholastic",
+        "description": "Sadie Wen vents her frustrations with people in email drafts that she never intends to send out.",
+        "price": "33.53",
+        "title": "I HOPE THIS DOESN'T FIND YOU",
+        "author": "Ann Liang",
+        "contributor": "by Ann Liang",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338827156.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1338827154?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1338827154",
+            "isbn13": "9781338827156"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1338827154?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781338827156?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338827156"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BHOPE%2BTHIS%2BDOESN%2527T%2BFIND%2BYOU%2FAnn%2BLiang%2F9781338827156"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781338827156"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781338827156?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/c7508887-6527-5056-a6e3-89ffeb8d4241"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 7,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665921234",
+        "primary_isbn13": "9781665921237",
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": "21.79",
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "contributor": "by Lynn Painter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665951166.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665921237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665921237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921237"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665921237"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665921237?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/246fe41d-64d6-592a-bed6-668a7a9f0672"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "weeks_on_list": 60,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593374169",
+        "primary_isbn13": "9780593374160",
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": "20.85",
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BSURVIVE%2FHolly%2BJackson%2F9780593374160"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593374160"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593374160?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "weeks_on_list": 14,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665947101",
+        "primary_isbn13": "9781665947107",
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": "12.57",
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "contributor": "by Amber Smith",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665947107.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665947107?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665947107"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWAY%2BI%2BAM%2BNOW%2FAmber%2BSmith%2F9781665947107"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665947107"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665947107?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/44bde448-506e-5a03-af18-9e6afc5d8085"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-03",
+    "published_date": "2024-02-18",
+    "published_date_description": "",
+    "next_published_date": "2024-02-25",
+    "previous_published_date": "2024-02-11",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 33,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "12.65",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "30.52",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "weeks_on_list": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "32.93",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "31.72",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "12.96",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9780593697030",
+        "publisher": "Nancy Paulsen",
+        "description": "Three teenage girls, one of whom is a witch, join forces to track down a serial killer.",
+        "price": "28.39",
+        "title": "THE INVOCATIONS",
+        "author": "Krystal Sutherland",
+        "contributor": "by Krystal Sutherland",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593697030.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593532260?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593532260",
+            "isbn13": "9780593532263"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593532260?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593697030?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593697030"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BINVOCATIONS%2FKrystal%2BSutherland%2F9780593697030"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593697030"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593697030?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/7d3816ef-a677-587e-abba-02f182770b2a"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665921234",
+        "primary_isbn13": "9781665921237",
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": "32.62",
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "contributor": "by Lynn Painter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665951166.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665921237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665921237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921237"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665921237"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665921237?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/246fe41d-64d6-592a-bed6-668a7a9f0672"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 6,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250360717",
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": "24.59",
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "contributor": "by Allison Saft",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250360717.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250360717?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250360717"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BFRAGILE%2BENCHANTMENT%2FAllison%2BSaft%2F9781250360717"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250360717"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250360717?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/7ee627c3-3e00-5d90-ab0e-f644484cb375"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "weeks_on_list": 59,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593374169",
+        "primary_isbn13": "9780593374160",
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": "38.39",
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BSURVIVE%2FHolly%2BJackson%2F9780593374160"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593374160"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593374160?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "weeks_on_list": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665947101",
+        "primary_isbn13": "9781665947107",
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": "14.96",
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "contributor": "by Amber Smith",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665947107.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665947107?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665947107"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWAY%2BI%2BAM%2BNOW%2FAmber%2BSmith%2F9781665947107"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665947107"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665947107?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/44bde448-506e-5a03-af18-9e6afc5d8085"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-01-27",
+    "published_date": "2024-02-11",
+    "published_date_description": "",
+    "next_published_date": "2024-02-18",
+    "previous_published_date": "2024-02-04",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 32,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "34.36",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "31.04",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "13.43",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "14.42",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "12.5",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250360717",
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": "26.42",
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "contributor": "by Allison Saft",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250360717.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250360717?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250360717"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BFRAGILE%2BENCHANTMENT%2FAllison%2BSaft%2F9781250360717"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250360717"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250360717?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/7ee627c3-3e00-5d90-ab0e-f644484cb375"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 10,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665921234",
+        "primary_isbn13": "9781665921237",
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": "25.5",
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "contributor": "by Lynn Painter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665951166.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665921237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665921237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921237"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665921237"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665921237?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/246fe41d-64d6-592a-bed6-668a7a9f0672"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 8,
+        "weeks_on_list": 58,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593374169",
+        "primary_isbn13": "9780593374160",
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": "31.33",
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BSURVIVE%2FHolly%2BJackson%2F9780593374160"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593374160"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593374160?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "weeks_on_list": 28,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316592706",
+        "primary_isbn13": "9780316592703",
+        "publisher": "Little, Brown",
+        "description": "Runaway Queen Suren and Prince Oak embark on a deadly and dangerous mission to the north.",
+        "price": "28.73",
+        "title": "THE STOLEN HEIR",
+        "author": "Holly Black",
+        "contributor": "by Holly Black",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316519045.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0316592706?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316592706",
+            "isbn13": "9780316592703"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0316592706?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316592703?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316592703"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSTOLEN%2BHEIR%2FHolly%2BBlack%2F9780316592703"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780316592703"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780316592703?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/f94ed3b5-db67-5332-b429-8029ddef1be8"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 7,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665947101",
+        "primary_isbn13": "9781665947107",
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": "12.65",
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "contributor": "by Amber Smith",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665947107.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665947107?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665947107"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWAY%2BI%2BAM%2BNOW%2FAmber%2BSmith%2F9781665947107"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665947107"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665947107?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/44bde448-506e-5a03-af18-9e6afc5d8085"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-01-20",
+    "published_date": "2024-02-04",
+    "published_date_description": "",
+    "next_published_date": "2024-02-11",
+    "previous_published_date": "2024-01-28",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 31,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "37.15",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "37.17",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "17.99",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "27.41",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "22.7",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250360717",
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": "35.9",
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "contributor": "by Allison Saft",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250360717.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250360717?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250360717"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BFRAGILE%2BENCHANTMENT%2FAllison%2BSaft%2F9781250360717"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250360717"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250360717?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/7ee627c3-3e00-5d90-ab0e-f644484cb375"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665947101",
+        "primary_isbn13": "9781665947107",
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": "14.59",
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "contributor": "by Amber Smith",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665947107.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665947107?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665947107"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWAY%2BI%2BAM%2BNOW%2FAmber%2BSmith%2F9781665947107"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665947107"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665947107?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/44bde448-506e-5a03-af18-9e6afc5d8085"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 8,
+        "weeks_on_list": 57,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593374169",
+        "primary_isbn13": "9780593374160",
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": "17.0",
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BSURVIVE%2FHolly%2BJackson%2F9780593374160"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593374160"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593374160?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250869803",
+        "primary_isbn13": "9781250869807",
+        "publisher": "Feiwel & Friends",
+        "description": "A trans boy desires to be himself in this retelling of \"Pride and Prejudice.\"",
+        "price": "22.03",
+        "title": "MOST ARDENTLY",
+        "author": "Gabe Cole Novoa",
+        "contributor": "by Gabe Cole Novoa",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250869807.jpg",
+        "book_image_width": 326,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250869803?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250869803",
+            "isbn13": "9781250869807"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250869803?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250869807?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250869807"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMOST%2BARDENTLY%2FGabe%2BCole%2BNovoa%2F9781250869807"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250869807"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250869807?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/2b6dff9a-46b0-5a19-b59e-0896d0da38e6"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 9,
+        "weeks_on_list": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665921234",
+        "primary_isbn13": "9781665921237",
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": "39.86",
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "contributor": "by Lynn Painter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665951166.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665921237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665921237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921237"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665921237"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665921237?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/246fe41d-64d6-592a-bed6-668a7a9f0672"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-01-13",
+    "published_date": "2024-01-28",
+    "published_date_description": "",
+    "next_published_date": "2024-02-04",
+    "previous_published_date": "2024-01-21",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "weeks_on_list": 30,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857430",
+        "primary_isbn13": "9781250857439",
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": "15.54",
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857439"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857439"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857439?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250857457",
+        "primary_isbn13": "9781250857453",
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": "15.05",
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250857457?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250857453?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250857453"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRUTHLESS%2BVOWS%2FRebecca%2BRoss%2F9781250857453"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250857453"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250857453?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6cc4781a-c41b-50d3-96d2-2e392eb58c1e"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 4,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665954884",
+        "primary_isbn13": "9781665954884",
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": "27.56",
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "contributor": "by Lauren Roberts",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665954884?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665954884?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665954884"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPOWERLESS%2FLauren%2BRoberts%2F9781665954884"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665954884"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665954884?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/3dcb864b-e0cf-5133-9ebe-f4cc1c5a68af"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593650867",
+        "primary_isbn13": "9780593650868",
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": "31.85",
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "contributor": "by Christopher Paolini",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+        "book_image_width": 339,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593650867?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593650868?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593650868"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMURTAGH%2FChristopher%2BPaolini%2F9780593650868"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593650868"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593650868?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/dbe6d89b-d545-5cd6-a562-618f9467a2aa"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1419760904",
+        "primary_isbn13": "9781419760907",
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": "31.48",
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "contributor": "by Alex Aster",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1419760904?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781419760907?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419760907"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNIGHTBANE%2FAlex%2BAster%2F9781419760907"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781419760907"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781419760907?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e996160-cc1c-55fd-9c20-5188be1178ba"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "None",
+        "primary_isbn13": "9781250360717",
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": "17.68",
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "contributor": "by Allison Saft",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250360717.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/125089283X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781250360717?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250360717"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BFRAGILE%2BENCHANTMENT%2FAllison%2BSaft%2F9781250360717"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250360717"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781250360717?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/7ee627c3-3e00-5d90-ab0e-f644484cb375"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 10,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665947101",
+        "primary_isbn13": "9781665947107",
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": "23.05",
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "contributor": "by Amber Smith",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665947107.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665947101?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665947107?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665947107"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWAY%2BI%2BAM%2BNOW%2FAmber%2BSmith%2F9781665947107"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665947107"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665947107?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/44bde448-506e-5a03-af18-9e6afc5d8085"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 56,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593374169",
+        "primary_isbn13": "9780593374160",
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": "18.88",
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BSURVIVE%2FHolly%2BJackson%2F9780593374160"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593374160"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9780593374160?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1665921234",
+        "primary_isbn13": "9781665921237",
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": "20.06",
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "contributor": "by Lynn Painter",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665951166.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1665921234?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781665921237?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781665921237"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921237"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781665921237"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781665921237?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/246fe41d-64d6-592a-bed6-668a7a9f0672"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1649374313",
+        "primary_isbn13": "9781649374318",
+        "publisher": "Entangled Teen",
+        "description": "The Knights of the Eternal Star attempt to banish the Mist from the kingdom of Asidia.",
+        "price": "25.4",
+        "title": "TO KILL A SHADOW",
+        "author": "Katherine Quinn",
+        "contributor": "by Katherine Quinn",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374318.jpg",
+        "book_image_width": 309,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1649374313?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1649374313",
+            "isbn13": "9781649374318"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1649374313?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781649374318?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374318"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTO%2BKILL%2BA%2BSHADOW%2FKatherine%2BQuinn%2F9781649374318"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781649374318"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://www.indiebound.org/book/9781649374318?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/e59b5dc7-da4f-58fd-bea0-c814528f8262"
+      }
+    ],
+    "corrections": []
+  }
+]
