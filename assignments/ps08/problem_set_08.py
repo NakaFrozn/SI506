@@ -65,7 +65,14 @@ def clean_book(book, desired_keys=None):
         dict: a new, cleaned dictionary representation of the book with only the desired
                 keys and "price" now a float
     """
-    pass
+    book_cleaned = {}
+    for key, value in book.items():
+        if desired_keys is not None:
+            if key in desired_keys:
+                book_cleaned[key] = convert_to_float(value)
+        else:
+            book_cleaned[key] = value
+    return book_cleaned
 
 
 def convert_to_float(value):
@@ -80,7 +87,15 @@ def convert_to_float(value):
     Returns:
         value (float|any): value will be float, if possible. Otherwise it will returned unchanged.
     """
-    pass
+    try:
+        if value.isdigit():
+            return int(value)
+        elif isinstance(value, int):
+            return value
+        else:
+            return float(value)
+    except:
+        return value
 
 
 def create_scoreboard(bestseller_lists):
@@ -101,8 +116,11 @@ def create_scoreboard(bestseller_lists):
                 books. The keys are strings of publisher's names and the
                 values are integer scores.
     """
-
-    pass
+    scoreboard = {}
+    publishers = find_publishers(bestseller_lists)
+    for publisher in publishers:
+        scoreboard[publisher] = score_publisher(bestseller_lists, publisher)
+    return scoreboard
 
 
 def find_publishers(bestseller_lists):
@@ -119,7 +137,12 @@ def find_publishers(bestseller_lists):
             one book on a bestseller list for these 8 weeks.
     """
 
-    pass
+    publishers = []
+    for book_list in bestseller_lists:
+        for book in book_list["books"]:
+            if book["publisher"] not in publishers:
+                publishers.append(book["publisher"])
+    return publishers
 
 
 def get_average_price_by_rank(bestseller_lists, rank):
@@ -140,7 +163,12 @@ def get_average_price_by_rank(bestseller_lists, rank):
                 repeats) of the given rank over the eight weeks of lists
     """
 
-    pass
+    total_price = 0
+    for list in bestseller_lists:
+        for book in list["books"]:
+            if book["rank"] == rank:
+                total_price += book["price"]
+    return round(total_price / 8, 2)
 
 
 def get_books_by_publisher(bestseller_lists, publisher):
@@ -162,7 +190,12 @@ def get_books_by_publisher(bestseller_lists, publisher):
                 multiple weeks
     """
 
-    pass
+    books = []
+    for book_list in bestseller_lists:
+        for book in book_list["books"]:
+            if book["publisher"].lower() == publisher.lower():
+                books.append(book)
+    return books
 
 
 def score_book(book):
@@ -176,7 +209,14 @@ def score_book(book):
         int: a score of 15, 10, or 5, depending on the rank of the book.
     """
 
-    pass
+    score = 0
+    if 1 <= book["rank"] <= 5:
+        score = 15
+    elif 6 <= book["rank"] <= 10:
+        score = 10
+    else:
+        score = 5
+    return score
 
 
 def score_publisher(bestseller_lists, publisher):
@@ -199,7 +239,11 @@ def score_publisher(bestseller_lists, publisher):
         the 8 weeks of bestseller lists
     """
 
-    pass
+    score = 0
+    books = get_books_by_publisher(bestseller_lists, publisher)
+    for book in books:
+        score += score_book(book)
+    return score
 
 
 def read_json(filepath, encoding="utf-8"):
@@ -250,20 +294,22 @@ def main():
     """
 
     # PROBLEM 1
-
+    filepath_young_adult = Path("data-young_adult_bestsellers-2024.json").resolve()
     # TODO 1.2 & 1.3
-
-    # print(f"\nYoung Adult Bestsellers Week 1: {young_adult_bestsellers_week_1}")
-
+    young_adult_bestsellers = read_json(filepath_young_adult)
+    young_adult_bestsellers_week_1 = young_adult_bestsellers[0]
+    print(f"\nYoung Adult Bestsellers Week 1: {young_adult_bestsellers_week_1}")
+    filepath_fiction = Path("data-fiction_bestsellers-2024.json").resolve()
     # TODO 1.5 & 1.6
-
-    # print(f"\nFiction Bestsellers Week 8: {fiction_bestsellers_week_8}")
+    fiction_bestsellers = read_json(filepath_fiction)
+    fiction_bestsellers_week_8 = fiction_bestsellers[7]
+    print(f"\nFiction Bestsellers Week 8: {fiction_bestsellers_week_8}")
 
     # PROBLEM 2
 
-    # assert convert_to_float("5") == 5
-    # assert convert_to_float("NYT Books of the Year") == "NYT Books of the Year"
-    # assert convert_to_float("24.57") == 24.57
+    assert convert_to_float("5") == 5
+    assert convert_to_float("NYT Books of the Year") == "NYT Books of the Year"
+    assert convert_to_float("24.57") == 24.57
 
     # PROBLEM 3
 
@@ -278,72 +324,78 @@ def main():
         "author",
     ]
     # TODO 3.3
-
-    # print(f"\nCleaned Young Adult Bestsellers Week 1: {young_adult_bestsellers_week_1}")
-
+    for week in young_adult_bestsellers:
+        week_books = week["books"]
+        for i in range(len(week_books)):
+            week_books[i] = clean_book(week_books[i], desired_keys=keep_keys)
+    print(f"\nCleaned Young Adult Bestsellers Week 1: {young_adult_bestsellers_week_1}")
+    filepath = Path("stu-clean_young_adult_bestsellers-2024.json").resolve()
+    write_json(filepath, young_adult_bestsellers)
     # PROBLEM 4
 
     # TODO 4.3
-
-    # print(f"\nAverage Price of No. 1 Young Adult Books: ${rank_1_avg}")
-    # assert rank_1_avg == rank_1_avg_test
+    rank_1_avg = get_average_price_by_rank(young_adult_bestsellers, 1)
+    print(f"\nAverage Price of No. 1 Young Adult Books: ${rank_1_avg}")
+    assert rank_1_avg == rank_1_avg_test
 
     # TODO 4.4
-
-    # print(f"\nAverage Price of No. 10 Young Adult Books: ${rank_10_avg}")
-    # assert rank_10_avg == rank_10_avg_test
+    rank_10_avg = get_average_price_by_rank(rank=10, bestseller_lists=young_adult_bestsellers)
+    print(f"\nAverage Price of No. 10 Young Adult Books: ${rank_10_avg}")
+    assert rank_10_avg == rank_10_avg_test
 
     # PROBLEM 5
 
     # TODO 5.3
-
+    doubleday_books = get_books_by_publisher(fiction_bestsellers, "Doubleday")
     # TODO Uncomment and replace question marks with correct expressions
     # TODO 5.4
 
-    # for book in doubleday_books:
-    #     print(f"\nTitle: {?}")
-    #     print(f"Rank: {?}")
+    for book in doubleday_books:
+        print(f"\nTitle: {book['title']}")
+        print(f"Rank: {book.get('rank')}")
 
     # PROBLEM 6
 
     # TODO Uncomment and replace "?first book title?" and "?penultimate book title?" with the correct expressions
-
+    first_book_score = score_book(doubleday_books[0])
     # fmt: off
-    # print(f'\nFirst Doubleday Book: {?first book title?}; Score: {first_book_score}')
+    print(f'\nFirst Doubleday Book: {doubleday_books[0]["title"]}; Score: {first_book_score}')
     # fmt: on
-    # assert doubleday_books[0]["title"] == first_doubleday_book_title_test
-    # assert first_book_score == first_doubleday_book_score_test
+    assert doubleday_books[0]["title"] == first_doubleday_book_title_test
+    assert first_book_score == first_doubleday_book_score_test
 
+    penultimate_book_score = score_book(doubleday_books[-2])
     # fmt: off
-    # print(f'\nPenultimate Doubleday Book: {?penultimate book title?}; Score: {penultimate_book_score}')
+    print(f'\nPenultimate Doubleday Book: {doubleday_books[-2]["title"]}; Score: {penultimate_book_score}')
     # fmt: on
-    # assert doubleday_books[-2]["title"] == penultimate_doubleday_book_title_test
-    # assert penultimate_book_score == penultimate_doubleday_book_score_test
+    assert doubleday_books[-2]["title"] == penultimate_doubleday_book_title_test
+    assert penultimate_book_score == penultimate_doubleday_book_score_test
 
     # PROBLEM 7
 
     # TODO 7.3
-
     # fmt: off
-    doubleday_score = None
+    doubleday_score = score_publisher(publisher="Doubleday", bestseller_lists=fiction_bestsellers)
     # fmt: on
 
-    # print(f"\nDoubleday Publisher Score: {doubleday_score}")
-    # assert doubleday_score == doubleday_score_test
+    print(f"\nDoubleday Publisher Score: {doubleday_score}")
+    assert doubleday_score == doubleday_score_test
 
     # PROBLEM 8
 
     # TODO 8.3
-
-    # print(f"\nFiction Publishers: {fiction_publishers}")
-    # assert fiction_publishers == fiction_publishers_test
+    fiction_publishers = find_publishers(fiction_bestsellers)
+    print(f"\nFiction Publishers: {fiction_publishers}")
+    assert fiction_publishers == fiction_publishers_test
 
     # PROBLEM 9
 
     # TODO 9.3
-
-    # print(f"\nScoreboard of Fiction Publishers: {fiction_publishers_scoreboard}")
-    # assert fiction_publishers_scoreboard == fiction_publishers_scoreboard_test
+    fiction_publishers_scoreboard = create_scoreboard(fiction_bestsellers)
+    print(f"\nScoreboard of Fiction Publishers: {fiction_publishers_scoreboard}")
+    assert fiction_publishers_scoreboard == fiction_publishers_scoreboard_test
+    filepath = Path("stu-fiction_publishers_scoreboard-2024.json").resolve()
+    write_json(filepath, fiction_publishers_scoreboard)
 
 
 # Do not modify or remove this if statement
