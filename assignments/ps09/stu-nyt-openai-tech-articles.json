@@ -1,0 +1,144 @@
+[
+    {
+        "byline": {
+            "organization": null,
+            "original": "By Cade Metz and Scott Blumenthal",
+            "person": [
+                {
+                    "firstname": "Cade",
+                    "lastname": "Metz",
+                    "middlename": null,
+                    "organization": "",
+                    "qualifier": null,
+                    "rank": 1,
+                    "role": "reported",
+                    "title": null
+                },
+                {
+                    "firstname": "Scott",
+                    "lastname": "Blumenthal",
+                    "middlename": null,
+                    "organization": "",
+                    "qualifier": null,
+                    "rank": 2,
+                    "role": "reported",
+                    "title": null
+                }
+            ]
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "How A.I. Could Be Weaponized to Spread Disinformation",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 1,
+                "value": "Artificial Intelligence"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Rumors and Misinformation"
+            },
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 3,
+                "value": "OpenAI Labs"
+            },
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 4,
+                "value": "Allen Institute for Artificial Intelligence"
+            }
+        ],
+        "pub_date": "2019-06-07 16:31:09+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": "By Mae Ryan, Cade Metz and Rumsey Taylor",
+            "person": [
+                {
+                    "firstname": "Mae",
+                    "lastname": "Ryan",
+                    "middlename": null,
+                    "organization": "",
+                    "qualifier": null,
+                    "rank": 1,
+                    "role": "reported",
+                    "title": null
+                },
+                {
+                    "firstname": "Cade",
+                    "lastname": "Metz",
+                    "middlename": null,
+                    "organization": "",
+                    "qualifier": null,
+                    "rank": 2,
+                    "role": "reported",
+                    "title": null
+                },
+                {
+                    "firstname": "Rumsey",
+                    "lastname": "Taylor",
+                    "middlename": null,
+                    "organization": "",
+                    "qualifier": null,
+                    "rank": 3,
+                    "role": "reported",
+                    "title": null
+                }
+            ]
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "How Robot Hands Are Evolving to Do What Ours Can",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 1,
+                "value": "Robots and Robotics"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Artificial Intelligence"
+            },
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 3,
+                "value": "OpenAI Labs"
+            },
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 4,
+                "value": "University of California, Berkeley"
+            }
+        ],
+        "pub_date": "2018-07-30 16:00:43+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    }
+]

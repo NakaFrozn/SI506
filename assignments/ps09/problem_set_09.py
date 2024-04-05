@@ -1,4 +1,7 @@
+from ast import Return
+from enum import unique
 import json
+from os import write
 from pathlib import Path
 from datetime import datetime
 
@@ -24,9 +27,12 @@ def convert_published_date_value(data):
 
     for article in data:
         for key in article.keys():
-            if key == article.
-            article[key] = datetime.fromisoformat(article["pub_date"])
+            if key == "pub_date":
+                article[key] = datetime.fromisoformat(
+                    article["pub_date"][:-2] + ":" + article["pub_date"][-2:]
+                )
     return data
+
 
 def create_headline_url_list(data):
     """Creates a list of article headlines and urls.
@@ -42,12 +48,7 @@ def create_headline_url_list(data):
         list: A list of tuples, each containing the article's headline and url.
     """
 
-    result = [
-        (article["headline"]["main"], article["web_url"])
-        for article in data
-    ]
-    return result
-
+    return [(article["headline"]["main"], article["web_url"]) for article in data]
 
 
 def filter_articles(data, keys_to_exclude):
@@ -68,16 +69,7 @@ def filter_articles(data, keys_to_exclude):
               about a Technology themed New York Times article.
     """
 
-    result = [
-        {
-            k: v
-            for k,v in article.items()
-            if k not in keys_to_exclude
-        }
-        for article in data
-    ]
-    return result
-
+    return [{k: v for k, v in article.items() if k not in keys_to_exclude} for article in data]
 
 
 def filter_empty_keywords(data):
@@ -93,11 +85,7 @@ def filter_empty_keywords(data):
         list: A list of dictionaries representing articles having keywords in them.
     """
 
-    result = [
-        article for article in data
-        if len(article["keywords"]) > 0
-    ]
-    return result
+    return [article for article in data if article["keywords"]]
 
 
 def format_author_name(person):
@@ -115,8 +103,7 @@ def format_author_name(person):
     Returns:
         str: A string containing the author's name seperated by a single space.
     """
-
-    pass
+    return f'{person["lastname"].title()}, {person["firstname"].title()}'
 
 
 def get_author_names(article):
@@ -132,7 +119,7 @@ def get_author_names(article):
         list: A list containing each author's first and last name, seperated by a single space.
     """
 
-    pass
+    return [format_author_name(person) for person in article["byline"]["person"]]
 
 
 def get_articles_by_organization(articles, organization):
@@ -149,7 +136,12 @@ def get_articles_by_organization(articles, organization):
         list: A list containing the articles of the same, desired organization.
     """
 
-    pass
+    return [
+        article
+        for article in articles
+        for keyword in article["keywords"]
+        if keyword["name"] == "organizations" and keyword["value"] == organization
+    ]
 
 
 def get_articles_by_topic(articles, topic):
@@ -166,7 +158,12 @@ def get_articles_by_topic(articles, topic):
         list: A list containing the articles of the same, desired topic.
     """
 
-    pass
+    return [
+        article
+        for article in articles
+        for keyword in article["keywords"]
+        if keyword["name"] == "subject" and keyword["value"] == topic
+    ]
 
 
 def get_organization_names(article):
@@ -183,7 +180,9 @@ def get_organization_names(article):
     Returns:
         list: A list containing all the organization names present in the article (including repeated).
     """
-    pass
+    return [
+        keyword["value"] for keyword in article["keywords"] if keyword["name"] == "organizations"
+    ]
 
 
 def get_news_by_location(data, location):
@@ -201,7 +200,12 @@ def get_news_by_location(data, location):
     Returns:
         list: A list containing the articles of the same, desired location.
     """
-    pass
+    return [
+        article
+        for article in data
+        for keyword in article["keywords"]
+        if keyword["name"] == "glocations" and location in keyword["value"]
+    ]
 
 
 def get_organization_by_type(articles):
@@ -219,7 +223,14 @@ def get_organization_by_type(articles):
         list: A list of unique organizations mentioned in the 'keywords' section of
         the specific themed New York Times articles.
     """
-    pass
+    tech_organizations = []
+    for article in articles:
+        org_names = get_organization_names(article)
+        if org_names:
+            for name in org_names:
+                if name not in tech_organizations:
+                    tech_organizations.append(name)
+    return tech_organizations
 
 
 def get_unique_authors(articles):
@@ -234,7 +245,14 @@ def get_unique_authors(articles):
     Returns:
         list: A list of unique authors from the articles.
     """
-    pass
+    unique_authors = []
+    for article in articles:
+        authors = get_author_names(article)
+        if authors:
+            for author in authors:
+                if author is not None and author not in unique_authors:
+                    unique_authors.append(author)
+    return unique_authors
 
 
 def read_json(filepath, encoding="utf-8"):
@@ -270,7 +288,14 @@ def show_archival_status(data, active_year_threshold):
         list: A list of tuples containing the article headline and its status.
     """
 
-    pass
+    return [
+        (
+            (article["headline"]["main"], "Active")
+            if article["pub_date"].year >= active_year_threshold
+            else (article["headline"]["main"], "Archived")
+        )
+        for article in data
+    ]
 
 
 def write_json(
@@ -347,7 +372,7 @@ def main():
 
     # 2.2
     nyt_tech_filtered = filter_articles(nyt_tech_raw, keys_to_exclude)
-    
+
     # 2.3
     filename = "stu-nyt-tech-filtered.json"
     # 2.4
@@ -359,59 +384,60 @@ def main():
     # 3.2
     nyt_tech_cleaned = filter_empty_keywords(nyt_tech_filtered)
     # 3.4
-
+    nyt_tech = convert_published_date_value(nyt_tech_cleaned)
     # 3.5
-
+    filename = "stu-nyt-tech-cleaned.json"
     # 3.6
-
+    write_json(filename, nyt_tech)
     # 4.0
     print("Problem 4:\n")
 
-    # 4.2
-
     # 4.3
-
+    tech_organizations = get_organization_by_type(nyt_tech)
     # 4.4
-
+    filename = "stu-unique-tech-organizations.json"
+    write_json(filename, tech_organizations)
     # 5.0
     print("Problem 5:\n")
 
     # 5.2
-
+    calif_news = get_news_by_location(nyt_tech, "Calif")
     # 5.3
-
+    filename = "stu-nyt-calif-tech-articles.json"
     # 5.4
-
+    write_json(filename, calif_news)
     # 6.0
     print("Problem 6:\n")
 
     # 6.2
-
+    article_staus = show_archival_status(nyt_tech, 2022)
     # 6.3
-
+    filename = "stu-article-status.json"
     # 6.4
-
+    write_json(filename, article_staus)
     # 7.0
     print("Problem 7:\n")
-
     # 7.3
 
     # 7.3.1-7.3.6
 
     # 7.4
-
+    unique_authors = get_unique_authors(nyt_tech)
     # 7.5
-
+    filename = "stu-unique-authors.json"
+    write_json(filename, unique_authors)
     # 8.0
     print("Problem 8:\n")
 
     # 8.3
-
+    ai_articles = get_articles_by_topic(nyt_tech, "Artificial Intelligence")
+    # print(ai_articles[:2])
     # 8.4
-
+    openai_articles = get_articles_by_organization(ai_articles, "OpenAI Labs")
     # 8.5
-
+    filename = "stu-nyt-openai-tech-articles.json"
     # 8.6
+    write_json(filename, openai_articles)
 
 
 if __name__ == "__main__":
