@@ -4,6 +4,8 @@ import json
 
 from pathlib import Path
 
+from isort import file
+
 
 def get_author(author):
     """Accesses the author's last name, first name, and middle name values and
@@ -105,24 +107,25 @@ def main():
     """
 
     # 2.3 CHALLENGE 01
-
-    filepath = None  # TODO Assign Path() object
-    # print(f"\n2.3 filepath = {filepath}")
+    parentpath = Path(__file__).resolve().parent
+    filepath = parentpath.joinpath("data-nyt-articles-research.json")  # TODO Assign Path() object
+    print(f"\n2.3 filepath = {filepath}")
 
     # Get data
-    articles = []  # TODO Call function, replace empty list with return value
-    # print(f"\n2.3.1 All articles (n={len(articles)})")
+    articles = read_json(filepath)  # TODO Call function, replace empty list with return value
+    print(f"\n2.3.1 All articles (n={len(articles)})")
 
     # Get 2024 articles only
     articles_2024 = []
     for article in articles:
-        pass  # TODO Add if statement
+        if article['pub_date'].find("2024") > -1:
+            articles_2024.append(article)  # TODO Add if statement
 
-    # print(f"\n2.3.2 2024 articles (n={len(articles_2024)})")
+    print(f"\n2.3.2 2024 articles (n={len(articles_2024)})")
 
     # Write to file
     # TODO Uncomment
-    # write_json("stu-nyt-articles-2024.json", articles_2024)
+    write_json("stu-nyt-articles-2024.json", articles_2024)
 
     # 3.0 NESTED LOOPS
 
