@@ -1,0 +1,511 @@
+[
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Behind the Plan to Build a California City From Scratch",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 1,
+                "value": "Solano County (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Land Use Policies"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 3,
+                "value": "Real Estate and Housing (Residential)"
+            },
+            {
+                "major": "N",
+                "name": "persons",
+                "rank": 4,
+                "value": "Andreessen, Marc L"
+            },
+            {
+                "major": "N",
+                "name": "persons",
+                "rank": 5,
+                "value": "Collison, John"
+            },
+            {
+                "major": "N",
+                "name": "persons",
+                "rank": 6,
+                "value": "Dixon, Chris (1972- )"
+            },
+            {
+                "major": "N",
+                "name": "persons",
+                "rank": 7,
+                "value": "Hoffman, Reid Garrett"
+            },
+            {
+                "major": "N",
+                "name": "persons",
+                "rank": 8,
+                "value": "Moritz, Michael Jonathan"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 9,
+                "value": "Suits and Litigation (Civil)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 10,
+                "value": "Venture Capital"
+            }
+        ],
+        "pub_date": "2023-08-29 20:01:16+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": "By LAURA MORTON",
+            "person": [
+                {
+                    "firstname": "Laura",
+                    "lastname": "MORTON",
+                    "middlename": null,
+                    "organization": "",
+                    "qualifier": null,
+                    "rank": 1,
+                    "role": "reported",
+                    "title": null
+                }
+            ]
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": "Photographs",
+            "main": "The Silicon Valley Hustle",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 1,
+                "value": "Silicon Valley (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Entrepreneurship"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 3,
+                "value": "Start-ups"
+            }
+        ],
+        "pub_date": "2016-02-28 11:00:13+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Stretching a City's Limits",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 1,
+                "value": "Google Inc"
+            },
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 2,
+                "value": "Mountain View (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 3,
+                "value": "Urban Areas"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 4,
+                "value": "Real Estate and Housing (Residential)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 5,
+                "value": "Real Estate (Commercial)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 6,
+                "value": "Roads and Traffic"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 7,
+                "value": "Computers and the Internet"
+            }
+        ],
+        "pub_date": "2015-02-25 15:12:51+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Stretching a City's Limits",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 1,
+                "value": "Google Inc"
+            },
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 2,
+                "value": "Mountain View (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 3,
+                "value": "Urban Areas"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 4,
+                "value": "Real Estate and Housing (Residential)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 5,
+                "value": "Real Estate (Commercial)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 6,
+                "value": "Roads and Traffic"
+            }
+        ],
+        "pub_date": "2015-02-25 11:39:43+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Stretching a City's Limits",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 1,
+                "value": "Google Inc"
+            },
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 2,
+                "value": "Mountain View (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 3,
+                "value": "Urban Areas"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 4,
+                "value": "Real Estate and Housing (Residential)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 5,
+                "value": "Real Estate (Commercial)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 6,
+                "value": "Roads and Traffic"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 7,
+                "value": "Computers and the Internet"
+            }
+        ],
+        "pub_date": "2015-02-25 01:24:18+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "For Myspace Alumni, Finding Other Shores",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "organizations",
+                "rank": 1,
+                "value": "MySpace.com"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Start-ups"
+            },
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 3,
+                "value": "Los Angeles (Calif)"
+            }
+        ],
+        "pub_date": "2013-09-06 22:21:52+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Where Tech Entrepreneurs Meet",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 1,
+                "value": "Start-ups"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Entrepreneurship"
+            },
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 3,
+                "value": "San Francisco Bay Area (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 4,
+                "value": "Computers and the Internet"
+            }
+        ],
+        "pub_date": "2012-07-06 01:32:37+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Influential Women in Silicon Valley",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 1,
+                "value": "Silicon Valley (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Women and Girls"
+            }
+        ],
+        "pub_date": "2012-06-02 18:51:48+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Good Times in Silicon Valley, for Now",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 1,
+                "value": "Silicon Valley (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Start-ups"
+            },
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 3,
+                "value": "San Francisco (Calif)"
+            }
+        ],
+        "pub_date": "2011-08-29 15:27:23+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    },
+    {
+        "byline": {
+            "organization": null,
+            "original": null,
+            "person": []
+        },
+        "headline": {
+            "content_kicker": null,
+            "kicker": null,
+            "main": "Good Times in Silicon Valley, for Now",
+            "name": null,
+            "print_headline": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 1,
+                "value": "Silicon Valley (Calif)"
+            },
+            {
+                "major": "N",
+                "name": "subject",
+                "rank": 2,
+                "value": "Start-ups"
+            },
+            {
+                "major": "N",
+                "name": "glocations",
+                "rank": 3,
+                "value": "San Francisco (Calif)"
+            }
+        ],
+        "pub_date": "2011-08-29 15:27:23+00:00",
+        "section_name": "Technology",
+        "word_count": 0
+    }
+]

@@ -1,0 +1,1322 @@
+[
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-03-02",
+    "published_date": "2024-03-17",
+    "published_date_description": "one_before_latest",
+    "next_published_date": "2024-03-24",
+    "previous_published_date": "2024-03-10",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 21.35,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 26.69,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 4,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 18.38,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "publisher": "Margaret K. McElderry",
+        "description": "Liska seeks the mythical fern flower to rid herself of her monstrous power.",
+        "price": 39.45,
+        "title": "WHERE THE DARK STANDS STILL",
+        "author": "A.B. Poranek",
+        "isbns": [
+          {
+            "isbn10": "1665936479",
+            "isbn13": "9781665936477"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 26.82,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 1,
+        "publisher": "Farrar, Straus & Giroux",
+        "description": "Arthie Casimir runs a tearoom by day and an illegal bloodhouse that caters to vampires at night.",
+        "price": 38.73,
+        "title": "A TEMPEST OF TEA",
+        "author": "Hafsah Faizal",
+        "isbns": [
+          {
+            "isbn10": "0374389403",
+            "isbn13": "9780374389406"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 24.18,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 5,
+        "publisher": "Wednesday",
+        "description": "Rune, a witch, and Gideon, a witch-hunter, fall in love.",
+        "price": 39.93,
+        "title": "HEARTLESS HUNTER",
+        "author": "Kristen Ciccarelli",
+        "isbns": [
+          {
+            "isbn10": "1250866901",
+            "isbn13": "9781250866905"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "publisher": "Delacorte",
+        "description": "In a frozen, post-apocalyptic world, the citizens of Snowglobe live in warmth and wealth in exchange for their lives being televised.",
+        "price": 34.5,
+        "title": "SNOWGLOBE",
+        "author": "Soyoung Park",
+        "isbns": [
+          {
+            "isbn10": "0593484975",
+            "isbn13": "9780593484975"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": 34.13,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-24",
+    "published_date": "2024-03-10",
+    "published_date_description": "",
+    "next_published_date": "2024-03-17",
+    "previous_published_date": "2024-03-03",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "publisher": "Farrar, Straus & Giroux",
+        "description": "Arthie Casimir runs a tearoom by day and an illegal bloodhouse that caters to vampires at night.",
+        "price": 22.17,
+        "title": "A TEMPEST OF TEA",
+        "author": "Hafsah Faizal",
+        "isbns": [
+          {
+            "isbn10": "0374389403",
+            "isbn13": "9780374389406"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 34.51,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 1,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 16.33,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 12.28,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "publisher": "Wednesday",
+        "description": "Rune, a witch, and Gideon, a witch-hunter, fall in love.",
+        "price": 31.02,
+        "title": "HEARTLESS HUNTER",
+        "author": "Kristen Ciccarelli",
+        "isbns": [
+          {
+            "isbn10": "1250866901",
+            "isbn13": "9781250866905"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 31.14,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 5,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 37.59,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "publisher": "Flatiron",
+        "description": "Nora follows enigmatic clues left by her best friend, Becca, who has disappeared.",
+        "price": 25.93,
+        "title": "THE BAD ONES",
+        "author": "Melissa Albert",
+        "isbns": [
+          {
+            "isbn10": "1250894891",
+            "isbn13": "9781250894892"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 6,
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": 39.1,
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 7,
+        "publisher": "Scholastic",
+        "description": "Sadie Wen vents her frustrations with people in email drafts that she never intends to send out.",
+        "price": 30.11,
+        "title": "I HOPE THIS DOESN'T FIND YOU",
+        "author": "Ann Liang",
+        "isbns": [
+          {
+            "isbn10": "1338827154",
+            "isbn13": "9781338827156"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-17",
+    "published_date": "2024-03-03",
+    "published_date_description": "",
+    "next_published_date": "2024-03-10",
+    "previous_published_date": "2024-02-25",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 29.53,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 20.23,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 35.61,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 19.78,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 39.54,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 8,
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": 13.34,
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "publisher": "Scholastic",
+        "description": "Sadie Wen vents her frustrations with people in email drafts that she never intends to send out.",
+        "price": 20.13,
+        "title": "I HOPE THIS DOESN'T FIND YOU",
+        "author": "Ann Liang",
+        "isbns": [
+          {
+            "isbn10": "1338827154",
+            "isbn13": "9781338827156"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "publisher": "Feiwel & Friends",
+        "description": "Jude finds a ruby-red, 20-sided die that brings him good luck, but then he loses it.",
+        "price": 22.48,
+        "title": "WITH A LITTLE LUCK",
+        "author": "Marissa Meyer",
+        "isbns": [
+          {
+            "isbn10": "1250618932",
+            "isbn13": "9781250618931"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": 27.83,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "publisher": "Tor Teen",
+        "description": "Ash and Ramsay set out on a quest to obtain the legendary Book of Source.",
+        "price": 21.97,
+        "title": "INFINITY ALCHEMIST",
+        "author": "Kacen Callender",
+        "isbns": [
+          {
+            "isbn10": "125089025X",
+            "isbn13": "9781250890252"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-10",
+    "published_date": "2024-02-25",
+    "published_date_description": "",
+    "next_published_date": "2024-03-03",
+    "previous_published_date": "2024-02-18",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 27.01,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 31.39,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 12.09,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 39.68,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 17.96,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 0,
+        "publisher": "Tor Teen",
+        "description": "Ash and Ramsay set out on a quest to obtain the legendary Book of Source.",
+        "price": 20.69,
+        "title": "INFINITY ALCHEMIST",
+        "author": "Kacen Callender",
+        "isbns": [
+          {
+            "isbn10": "125089025X",
+            "isbn13": "9781250890252"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "publisher": "Scholastic",
+        "description": "Sadie Wen vents her frustrations with people in email drafts that she never intends to send out.",
+        "price": 33.53,
+        "title": "I HOPE THIS DOESN'T FIND YOU",
+        "author": "Ann Liang",
+        "isbns": [
+          {
+            "isbn10": "1338827154",
+            "isbn13": "9781338827156"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 7,
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": 21.79,
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 9,
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": 20.85,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": 12.57,
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-02-03",
+    "published_date": "2024-02-18",
+    "published_date_description": "",
+    "next_published_date": "2024-02-25",
+    "previous_published_date": "2024-02-11",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 12.65,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 30.52,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 32.93,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 31.72,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 12.96,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 0,
+        "publisher": "Nancy Paulsen",
+        "description": "Three teenage girls, one of whom is a witch, join forces to track down a serial killer.",
+        "price": 28.39,
+        "title": "THE INVOCATIONS",
+        "author": "Krystal Sutherland",
+        "isbns": [
+          {
+            "isbn10": "0593532260",
+            "isbn13": "9780593532263"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": 32.62,
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 6,
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": 24.59,
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": 38.39,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": 14.96,
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-01-27",
+    "published_date": "2024-02-11",
+    "published_date_description": "",
+    "next_published_date": "2024-02-18",
+    "previous_published_date": "2024-02-04",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 34.36,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 31.04,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 13.43,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 14.42,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 12.5,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": 26.42,
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 10,
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": 25.5,
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 8,
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": 31.33,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "publisher": "Little, Brown",
+        "description": "Runaway Queen Suren and Prince Oak embark on a deadly and dangerous mission to the north.",
+        "price": 28.73,
+        "title": "THE STOLEN HEIR",
+        "author": "Holly Black",
+        "isbns": [
+          {
+            "isbn10": "0316592706",
+            "isbn13": "9780316592703"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 7,
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": 12.65,
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-01-20",
+    "published_date": "2024-02-04",
+    "published_date_description": "",
+    "next_published_date": "2024-02-11",
+    "previous_published_date": "2024-01-28",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 37.15,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 37.17,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 17.99,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 27.41,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 22.7,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": 35.9,
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": 14.59,
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 8,
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": 17.0,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "publisher": "Feiwel & Friends",
+        "description": "A trans boy desires to be himself in this retelling of \"Pride and Prejudice.\"",
+        "price": 22.03,
+        "title": "MOST ARDENTLY",
+        "author": "Gabe Cole Novoa",
+        "isbns": [
+          {
+            "isbn10": "1250869803",
+            "isbn13": "9781250869807"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 9,
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": 39.86,
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "list_name": "Young Adult Hardcover",
+    "list_name_encoded": "young-adult-hardcover",
+    "bestsellers_date": "2024-01-13",
+    "published_date": "2024-01-28",
+    "published_date_description": "",
+    "next_published_date": "2024-02-04",
+    "previous_published_date": "2024-01-21",
+    "display_name": "Young Adult Hardcover",
+    "normal_list_ends_at": 10,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 2,
+        "publisher": "Wednesday",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "price": 15.54,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857430",
+            "isbn13": "9781250857439"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "publisher": "Wednesday",
+        "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war.",
+        "price": 15.05,
+        "title": "RUTHLESS VOWS",
+        "author": "Rebecca Ross",
+        "isbns": [
+          {
+            "isbn10": "1250857457",
+            "isbn13": "9781250857453"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 4,
+        "publisher": "Simon & Schuster",
+        "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",
+        "price": 27.56,
+        "title": "POWERLESS",
+        "author": "Lauren Roberts",
+        "isbns": [
+          {
+            "isbn10": "1665954884",
+            "isbn13": "9781665954884"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 3,
+        "publisher": "Knopf",
+        "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",
+        "price": 31.85,
+        "title": "MURTAGH",
+        "author": "Christopher Paolini",
+        "isbns": [
+          {
+            "isbn10": "0593650867",
+            "isbn13": "9780593650868"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "publisher": "Amulet",
+        "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers.",
+        "price": 31.48,
+        "title": "NIGHTBANE",
+        "author": "Alex Aster",
+        "isbns": [
+          {
+            "isbn10": "1419760904",
+            "isbn13": "9781419760907"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "publisher": "Wednesday",
+        "description": "Niamh is hired to serve as the tailor for a royal wedding and finds herself attracted to the groom.",
+        "price": 17.68,
+        "title": "A FRAGILE ENCHANTMENT",
+        "author": "Allison Saft",
+        "isbns": [
+          {
+            "isbn10": "125089283X",
+            "isbn13": "9781250892836"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 10,
+        "publisher": "Margaret K. McElderry",
+        "description": "Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.",
+        "price": 23.05,
+        "title": "THE WAY I AM NOW",
+        "author": "Amber Smith",
+        "isbns": [
+          {
+            "isbn10": "1665947101",
+            "isbn13": "9781665947107"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "publisher": "Delacorte",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "price": 18.88,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "isbns": [
+          {
+            "isbn10": "0593374169",
+            "isbn13": "9780593374160"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "publisher": "Simon & Schuster",
+        "description": "Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",
+        "price": 20.06,
+        "title": "BETTING ON YOU",
+        "author": "Lynn Painter",
+        "isbns": [
+          {
+            "isbn10": "1665921234",
+            "isbn13": "9781665921237"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "publisher": "Entangled Teen",
+        "description": "The Knights of the Eternal Star attempt to banish the Mist from the kingdom of Asidia.",
+        "price": 25.4,
+        "title": "TO KILL A SHADOW",
+        "author": "Katherine Quinn",
+        "isbns": [
+          {
+            "isbn10": "1649374313",
+            "isbn13": "9781649374318"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+]

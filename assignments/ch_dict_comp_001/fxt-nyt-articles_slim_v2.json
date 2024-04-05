@@ -1,0 +1,5098 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2023/11/03/climate/less-pollution-more-global-warming.html",
+    "pub_date": "2023-11-03T13:32:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1287
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/11/02/climate/james-hansen-global-warming-report.html",
+    "pub_date": "2023-11-02T19:56:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 761
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/11/02/climate/climate-aid-developing-countries-un.html",
+    "pub_date": "2023-11-02T10:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 902
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/11/02/climate/us-groundwater-depletion-rules.html",
+    "pub_date": "2023-11-02T09:02:25+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/11/01/climate/climate-insurance-disasters-senate.html",
+    "pub_date": "2023-11-01T13:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 764
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/11/01/climate/fossil-fuels-uae-health-cop28.html",
+    "pub_date": "2023-11-01T09:03:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 583
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/31/climate/its-all-about-the-grid.html",
+    "pub_date": "2023-10-31T16:30:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1097
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/30/climate/carbon-budget-paris-agreement.html",
+    "pub_date": "2023-10-30T16:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 675
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/30/climate/energy-department-electric-grid.html",
+    "pub_date": "2023-10-30T15:30:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 899
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/26/climate/nightmare-hurricane-otis-developed-in-a-flash.html",
+    "pub_date": "2023-10-26T15:48:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1052
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/26/climate/mike-johnson-climate-policies.html",
+    "pub_date": "2023-10-26T09:03:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 822
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/26/climate/wyoming-conservation-drilling-biden.html",
+    "pub_date": "2023-10-26T09:01:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1413
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/24/climate/clean-energys-powerful-momentum.html",
+    "pub_date": "2023-10-24T18:38:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1091
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/10/24/climate/maine-water-laws-blue-triton-poland-spring.html",
+    "pub_date": "2023-10-24T09:12:24+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/23/climate/gavin-newsom-california-climate-action.html",
+    "pub_date": "2023-10-23T18:18:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1924
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/23/climate/gaza-war-climate-change.html",
+    "pub_date": "2023-10-23T16:54:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 845
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/23/climate/antarctic-melting-sea-level-rise.html",
+    "pub_date": "2023-10-23T15:00:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 825
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/19/climate/hurricane-intensity-stronger-faster.html",
+    "pub_date": "2023-10-19T15:12:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 789
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/17/climate/the-hope-and-hype-of-hydrogen.html",
+    "pub_date": "2023-10-17T18:28:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1347
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/17/climate/electric-grids-climate-iea.html",
+    "pub_date": "2023-10-17T16:59:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 832
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/13/climate/alaska-ambler-road-mine.html",
+    "pub_date": "2023-10-13T21:27:43+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1261
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/13/climate/hydrogen-hubs-biden-climate.html",
+    "pub_date": "2023-10-13T09:03:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1139
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/12/climate/california-groundwater-tulare-lake.html",
+    "pub_date": "2023-10-12T22:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 780
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/12/climate/climate-researcher-no-fly.html",
+    "pub_date": "2023-10-12T18:17:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 792
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricity-as-an-entire-country.html",
+    "pub_date": "2023-10-10T15:05:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1099
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html",
+    "pub_date": "2023-10-07T08:00:01+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/05/climate/the-popes-warning-to-a-warming-world.html",
+    "pub_date": "2023-10-05T19:17:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1365
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/04/climate/antarctic-sea-ice-record-low.html",
+    "pub_date": "2023-10-04T18:54:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 589
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/04/climate/global-flood-risks.html",
+    "pub_date": "2023-10-04T15:00:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 727
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/03/climate/the-climate-crisis-is-also-a-health-crisis.html",
+    "pub_date": "2023-10-03T19:39:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1344
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/03/climate/arizona-saudi-arabia-alfalfa-groundwater.html",
+    "pub_date": "2023-10-03T19:03:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 448
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/10/03/climate/wind-powered-ships-climate.html",
+    "pub_date": "2023-10-03T09:02:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 865
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/29/climate/biden-offshore-drilling-plan.html",
+    "pub_date": "2023-09-29T12:30:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1099
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/28/climate/grilling-the-worlds-biggest-meat-producer.html",
+    "pub_date": "2023-09-28T18:26:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1418
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/28/climate/biden-drilling-leases.html",
+    "pub_date": "2023-09-28T16:38:57+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1183
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/26/climate/billionaire-moguls-and-a-trillion-trees.html",
+    "pub_date": "2023-09-26T20:04:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1205
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/26/climate/florida-green-sea-turtles-nesting-female.html",
+    "pub_date": "2023-09-26T09:01:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 724
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/26/climate/iea-road-map-renewable-energy.html",
+    "pub_date": "2023-09-26T05:00:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 846
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/22/climate/arctic-sea-ice-minimum.html",
+    "pub_date": "2023-09-22T09:02:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 636
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/21/climate/the-fault-lines-at-climate-week.html",
+    "pub_date": "2023-09-21T22:59:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1310
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/21/climate/bill-gates-climate-policy.html",
+    "pub_date": "2023-09-21T19:47:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 292
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/21/climate/biden-climate-change-economic-cost.html",
+    "pub_date": "2023-09-21T17:04:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 831
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/21/climate/hottest-august-on-record.html",
+    "pub_date": "2023-09-21T15:04:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 443
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/21/climate/climate-week-new-york.html",
+    "pub_date": "2023-09-21T14:29:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 927
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/21/climate/bloomberg-succession-plan.html",
+    "pub_date": "2023-09-21T14:10:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 464
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/21/climate/climate-forward-heres-todays-schedule.html",
+    "pub_date": "2023-09-21T12:50:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 337
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/20/climate/guterres-un-climate-summit.html",
+    "pub_date": "2023-09-20T18:57:58+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 839
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/20/climate/michael-blooomberg-climate-petrochemicals.html",
+    "pub_date": "2023-09-20T15:43:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2170
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/20/climate/wildfire-smoke-air-pollution.html",
+    "pub_date": "2023-09-20T15:40:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 955
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/20/climate/biden-climate-corps-youth.html",
+    "pub_date": "2023-09-20T12:10:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 477
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/19/climate/outrage-and-hope-on-the-streets-of-new-york.html",
+    "pub_date": "2023-09-19T18:32:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1133
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/19/climate/guterres-climate-summit.html",
+    "pub_date": "2023-09-19T04:01:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1247
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/09/18/climate/global-climate-protests.html",
+    "pub_date": "2023-09-18T20:20:39+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/17/climate/california-climate-disclosure-law.html",
+    "pub_date": "2023-09-17T23:15:36+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 774
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/17/climate/climate-protests-new-york.html",
+    "pub_date": "2023-09-17T16:07:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1082
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/16/climate/biden-climate-second-term.html",
+    "pub_date": "2023-09-16T09:00:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1746
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/15/business/california-oil-lawsuit-newsom.html",
+    "pub_date": "2023-09-16T03:09:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1044
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/14/climate/to-understand-clean-energy-challenges-we-went-to-uzbekistan.html",
+    "pub_date": "2023-09-14T14:13:26+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1093
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/14/climate/sultan-al-jaber-uae-cop28.html",
+    "pub_date": "2023-09-14T09:00:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1473
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/13/climate/floods-derna-libya.html",
+    "pub_date": "2023-09-13T20:11:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 594
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/13/climate/california-emissions-businesses-climate.html",
+    "pub_date": "2023-09-13T19:32:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 575
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/12/climate/mining-federal-lands-metals.html",
+    "pub_date": "2023-09-12T17:01:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 862
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/12/climate/billion-dollar-disasters.html",
+    "pub_date": "2023-09-12T15:36:53+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 645
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/12/climate/mount-rainier-glaciers-climate-change.html",
+    "pub_date": "2023-09-12T14:09:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1168
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/08/climate/paris-agreement-stocktake.html",
+    "pub_date": "2023-09-08T14:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1239
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/07/climate/climate-protesters-us-open-tennis.html",
+    "pub_date": "2023-09-08T02:41:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 443
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/07/climate/biden-drilling-climate-oil.html",
+    "pub_date": "2023-09-07T20:02:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1249
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/07/climate/catalyzing-africas-climate-potential.html",
+    "pub_date": "2023-09-07T19:07:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1171
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/07/climate/climate-forward-event.html",
+    "pub_date": "2023-09-07T17:14:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 431
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/06/climate/biden-drilling-alaska-wildlife-refuge.html",
+    "pub_date": "2023-09-06T16:50:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1101
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/06/climate/africa-climate-summit.html",
+    "pub_date": "2023-09-06T12:34:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1132
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/06/climate/wildfire-lookouts-fire-towers.html",
+    "pub_date": "2023-09-06T09:00:42+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1681
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/04/climate/climate-finance-congo-kenya-cop.html",
+    "pub_date": "2023-09-04T09:03:43+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1192
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/01/climate/india-groundwater-depletion.html",
+    "pub_date": "2023-09-01T18:06:52+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 557
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/09/01/climate/uae-cop28-human-rights.html",
+    "pub_date": "2023-09-01T07:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1120
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/31/climate/biden-electric-vehicles-climate.html",
+    "pub_date": "2023-08-31T17:25:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 711
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/31/climate/new-york-hospitals-vegan-meals.html",
+    "pub_date": "2023-08-31T14:59:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 547
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/29/climate/gulf-mexico-wind-farm.html",
+    "pub_date": "2023-08-29T20:56:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 678
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/29/climate/groundwater-aquifer-overuse-investigation-takeaways.html",
+    "pub_date": "2023-08-29T10:53:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 667
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/29/climate/hot-ocean-temperatures-idalia.html",
+    "pub_date": "2023-08-29T10:39:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 370
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html",
+    "pub_date": "2023-08-28T21:19:48+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/28/climate/united-nations-children-climate-lawsuit.html",
+    "pub_date": "2023-08-28T10:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 723
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/28/climate/geothermal-energy-projects.html",
+    "pub_date": "2023-08-28T09:00:38+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1865
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/25/climate/panama-canal-drought-global-trade.html",
+    "pub_date": "2023-08-25T18:37:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 607
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/24/climate/air-quality-satellite-nasa-tempo.html",
+    "pub_date": "2023-08-24T20:16:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1113
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/24/climate/antarctic-sea-ice-emperor-penguin.html",
+    "pub_date": "2023-08-24T15:17:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 717
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/24/climate/tiny-forests-climate-miyawaki.html",
+    "pub_date": "2023-08-24T09:00:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1495
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/22/climate/canada-wildfires-climate-change.html",
+    "pub_date": "2023-08-22T19:00:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 898
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/22/climate/texas-migrants-hilary.html",
+    "pub_date": "2023-08-22T17:24:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 604
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/22/climate/tropical-storm-california-maui-fire-extreme-august.html",
+    "pub_date": "2023-08-22T15:33:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 878
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/22/climate/ecuador-will-keep-some-oil-in-the-ground.html",
+    "pub_date": "2023-08-22T14:33:38+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 957
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/22/climate/biden-rules-deepwater-horizon.html",
+    "pub_date": "2023-08-22T12:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 842
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/19/climate/young-climate-activists.html",
+    "pub_date": "2023-08-19T09:01:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1399
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/19/climate/california-rain-hurricane-hilary.html",
+    "pub_date": "2023-08-19T09:00:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 953
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/18/climate/maui-fires-lawsuit.html",
+    "pub_date": "2023-08-18T09:00:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1152
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/17/climate/hawaii-climate-wildfire-prevention.html",
+    "pub_date": "2023-08-17T18:34:49+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1426
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/08/17/climate/noaa-climate-science.html",
+    "pub_date": "2023-08-17T18:05:55+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/17/climate/ecuador-yasuni-drilling-referendum.html",
+    "pub_date": "2023-08-17T09:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 901
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/15/climate/climate-change-was-on-trial-in-montana.html",
+    "pub_date": "2023-08-15T14:24:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1208
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/08/12/climate/clean-energy-us-fossil-fuels.html",
+    "pub_date": "2023-08-13T00:08:03+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/11/climate/carbon-dioxide-direct-capture.html",
+    "pub_date": "2023-08-11T09:01:14+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 941
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/10/climate/uruguay-wasnt-supposed-to-run-out-of-water.html",
+    "pub_date": "2023-08-10T17:07:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1069
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/10/climate/hawaii-fires-climate-change.html",
+    "pub_date": "2023-08-10T16:24:14+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 748
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/08/climate/amazon-rainforest-belem-protections.html",
+    "pub_date": "2023-08-08T21:37:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 831
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/08/climate/curbing-contrails-a-climate-solution-in-the-skies.html",
+    "pub_date": "2023-08-08T19:06:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1264
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/04/climate/republicans-climate-project2025.html",
+    "pub_date": "2023-08-04T16:50:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1526
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/08/03/climate/the-oceans-dire-message.html",
+    "pub_date": "2023-08-03T19:19:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1575
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/08/03/climate/ocean-temperatures-heat-earth.html",
+    "pub_date": "2023-08-03T09:00:02+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/31/climate/coral-reefs-heat-florida-ocean-temperatures.html",
+    "pub_date": "2023-07-31T16:34:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1362
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/31/climate/heat-labor-productivity-climate.html",
+    "pub_date": "2023-07-31T07:00:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1695
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/28/climate/biden-fuel-economy-rules.html",
+    "pub_date": "2023-07-28T19:00:43+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 572
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/27/climate/is-it-too-hot-for-fun-in-the-summertime.html",
+    "pub_date": "2023-07-27T19:16:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1322
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/27/climate/july-heat-hottest-month.html",
+    "pub_date": "2023-07-27T13:30:03+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 952
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/26/climate/florida-100-degree-water.html",
+    "pub_date": "2023-07-26T21:07:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 701
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/25/climate/we-know-whats-causing-this-heat.html",
+    "pub_date": "2023-07-25T18:03:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1438
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/25/climate/atlantic-ocean-tipping-point.html",
+    "pub_date": "2023-07-25T15:00:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1234
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/25/climate/us-europe-heat-waves-climate-change.html",
+    "pub_date": "2023-07-25T05:01:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 722
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/21/climate/diet-vegan-meat-emissions.html",
+    "pub_date": "2023-07-21T17:02:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 608
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/21/climate/giant-stingray-mekong-river.html",
+    "pub_date": "2023-07-21T09:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 808
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/20/climate/hottest-june-in-history-noaa.html",
+    "pub_date": "2023-07-20T21:07:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 526
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/20/climate/biden-drilling-federal-lands.html",
+    "pub_date": "2023-07-20T19:05:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1141
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/19/climate/global-heat-records-july.html",
+    "pub_date": "2023-07-19T16:45:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 419
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/19/climate/climate-lawsuit-puerto-rico.html",
+    "pub_date": "2023-07-19T14:04:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2363
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/19/climate/birdbath-heat-climate.html",
+    "pub_date": "2023-07-19T09:00:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 797
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/18/climate/al-gore-on-extreme-heat-and-the-fight-against-fossil-fuels.html",
+    "pub_date": "2023-07-18T19:02:56+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1170
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/07/18/climate/canada-record-wildfires.html",
+    "pub_date": "2023-07-18T15:01:27+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/16/climate/climate-geodesic-dome-house.html",
+    "pub_date": "2023-07-16T09:00:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1358
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/15/climate/us-china-climate-talks.html",
+    "pub_date": "2023-07-15T09:00:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1282
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/14/climate/invasive-worms-arctic-environment.html",
+    "pub_date": "2023-07-14T09:00:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 828
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/13/climate/kerry-climate-china-republicans.html",
+    "pub_date": "2023-07-13T20:56:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 821
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/13/climate/surviving-extreme-heat.html",
+    "pub_date": "2023-07-13T19:28:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1322
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/13/climate/natural-gas-leaks-coal-climate-change.html",
+    "pub_date": "2023-07-13T15:54:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 854
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/12/climate/epa-lead-dust-homes.html",
+    "pub_date": "2023-07-12T17:49:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 777
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/12/climate/mountain-valley-pipeline-courts.html",
+    "pub_date": "2023-07-12T16:59:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 747
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/12/climate/europe-nature-restoration-law.html",
+    "pub_date": "2023-07-12T14:58:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 746
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/12/climate/florida-ocean-temperatures-reefs.html",
+    "pub_date": "2023-07-12T09:00:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 732
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/12/climate/white-paint-climate-cooling.html",
+    "pub_date": "2023-07-12T09:00:22+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 890
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/11/climate/when-climate-change-hits-home.html",
+    "pub_date": "2023-07-11T19:04:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1559
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/11/climate/anthropocene-epoch-crawford-lake.html",
+    "pub_date": "2023-07-11T17:00:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 953
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/11/climate/climate-change-floods-preparedness.html",
+    "pub_date": "2023-07-11T15:29:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1141
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/11/climate/chicago-underground-heat.html",
+    "pub_date": "2023-07-11T09:00:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1094
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/10/climate/climate-change-extreme-weather.html",
+    "pub_date": "2023-07-10T20:21:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1131
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/10/climate/heat-waves-europe-deaths.html",
+    "pub_date": "2023-07-10T15:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 974
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/07/09/climate/florida-lake-okeechobee-algae.html",
+    "pub_date": "2023-07-09T09:00:12+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/07/climate/somini-sengupta-climate-forward.html",
+    "pub_date": "2023-07-07T15:16:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1137
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/06/climate/john-kerry-china-climate.html",
+    "pub_date": "2023-07-06T22:38:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 821
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/06/climate/cargo-ship-emissions-agreement.html",
+    "pub_date": "2023-07-06T18:56:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 586
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/06/climate/climate-change-record-heat.html",
+    "pub_date": "2023-07-06T15:43:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 806
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/05/climate/wind-farm-new-jersey-coast.html",
+    "pub_date": "2023-07-05T18:19:26+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 601
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/03/climate/cash-disaster-relief.html",
+    "pub_date": "2023-07-03T09:01:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 823
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/07/02/climate/michigan-climate-change.html",
+    "pub_date": "2023-07-02T09:01:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1563
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/30/climate/flood-risk-moving.html",
+    "pub_date": "2023-06-30T17:12:43+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1091
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/29/climate/heat-wave-wildfires-canada-climate.html",
+    "pub_date": "2023-06-29T21:31:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 925
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/28/climate/epa-electric-cars-auto-industry-criticism.html",
+    "pub_date": "2023-06-28T21:51:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 799
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/28/climate/tracing-wildfire-smoke-health.html",
+    "pub_date": "2023-06-28T21:12:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 797
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/28/climate/mountains-extreme-rain-less-snow.html",
+    "pub_date": "2023-06-28T15:01:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 764
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/28/climate/heat-smoke-climate-change.html",
+    "pub_date": "2023-06-28T14:29:39+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 781
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/28/climate/groundwater-earth-spin-axis.html",
+    "pub_date": "2023-06-28T09:13:26+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 744
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/27/climate/economic-growth-environment-conservation.html",
+    "pub_date": "2023-06-27T15:04:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1323
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/27/climate/trees-tropical-forests-deforestation.html",
+    "pub_date": "2023-06-27T06:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 845
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/26/climate/rainstorms-hidden-flood-risk.html",
+    "pub_date": "2023-06-26T04:01:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1080
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/25/climate/bangladesh-water-floods.html",
+    "pub_date": "2023-06-25T09:00:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1770
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/24/climate/tiny-bundles-of-hope-critically-endangered-turtles-hatch-in-myanmar.html",
+    "pub_date": "2023-06-24T09:00:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 628
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/23/climate/texas-heat-power-grid.html",
+    "pub_date": "2023-06-23T13:58:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1192
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/22/climate/oregon-lawsuit-heat-dome.html",
+    "pub_date": "2023-06-22T19:30:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 686
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/22/climate/marine-wildlife-protection-study.html",
+    "pub_date": "2023-06-22T15:12:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 830
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/21/climate/biden-endangered-species-act.html",
+    "pub_date": "2023-06-21T12:53:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 725
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/20/climate/ritwick-dutta-environmental-law.html",
+    "pub_date": "2023-06-20T21:26:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1251
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/19/climate/himalayas-melting-water-source.html",
+    "pub_date": "2023-06-20T00:01:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 910
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/18/climate/coal-electricity-bangladesh.html",
+    "pub_date": "2023-06-18T09:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 821
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/16/climate/africa-renewable-energy.html",
+    "pub_date": "2023-06-16T15:21:53+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1447
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/15/climate/oceans-global-warming.html",
+    "pub_date": "2023-06-15T21:02:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 604
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/15/climate/climate-education-schools-children.html",
+    "pub_date": "2023-06-15T17:36:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1742
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/14/climate/environmental-groups-endorse-biden.html",
+    "pub_date": "2023-06-15T01:14:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 901
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/14/climate/enriched-uranium-nuclear-russia-ohio.html",
+    "pub_date": "2023-06-14T15:49:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1657
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/14/climate/oil-fossil-fuel-climate-cop28.html",
+    "pub_date": "2023-06-14T09:03:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 831
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/13/climate/car-emissions.html",
+    "pub_date": "2023-06-13T17:19:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1321
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/06/13/climate/global-warming-heat-june.html",
+    "pub_date": "2023-06-13T15:18:18+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/06/12/climate/us-electric-grid-energy-transition.html",
+    "pub_date": "2023-06-12T08:00:01+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/10/climate/arizona-desalination-water-climate.html",
+    "pub_date": "2023-06-10T09:01:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1774
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/09/climate/wildfires-canada.html",
+    "pub_date": "2023-06-09T16:01:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 813
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/08/climate/air-quality-wildfire-smoke.html",
+    "pub_date": "2023-06-08T20:11:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1248
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/08/climate/canada-wildfires-smoke-extreme-weather.html",
+    "pub_date": "2023-06-08T09:01:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 827
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/06/climate/grand-canyon-colorado-river.html",
+    "pub_date": "2023-06-06T20:32:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1051
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/06/climate/arctic-sea-ice-melting.html",
+    "pub_date": "2023-06-06T15:03:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 777
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/06/06/climate/grand-canyon-colorado-river.html",
+    "pub_date": "2023-06-06T13:00:01+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/02/climate/permitting-reform-debt-ceiling.html",
+    "pub_date": "2023-06-02T15:22:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1220
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/02/climate/chaco-canyon-biden-protection.html",
+    "pub_date": "2023-06-02T10:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 596
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/06/01/climate/arizona-phoenix-permits-housing-water.html",
+    "pub_date": "2023-06-01T20:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1428
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/31/climate/climate-change-insurance-wildfires-california.html",
+    "pub_date": "2023-05-31T09:01:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1359
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/30/climate/mountain-valley-pipe.html",
+    "pub_date": "2023-05-30T21:36:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1360
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/30/climate/entitled-cyclist.html",
+    "pub_date": "2023-05-30T17:02:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1081
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/28/climate/ricky-revesz-oira-regulation-biden.html",
+    "pub_date": "2023-05-28T09:00:53+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1794
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/26/climate/extreme-heat-hospitals.html",
+    "pub_date": "2023-05-26T16:14:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1177
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/25/climate/arctic-squirrels-climate-change.html",
+    "pub_date": "2023-05-25T18:00:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 623
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/23/climate/rice.html",
+    "pub_date": "2023-05-23T16:50:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1221
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/23/climate/blackout-heat-wave-danger.html",
+    "pub_date": "2023-05-23T16:11:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 877
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/05/22/climate/colorado-river-water.html",
+    "pub_date": "2023-05-22T15:23:50+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/05/20/climate/rice-farming-climate-change.html",
+    "pub_date": "2023-05-20T09:00:01+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/19/climate/climate-rising-seas-big-cities.html",
+    "pub_date": "2023-05-19T16:26:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1268
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/17/climate/canada-wildfires-fracking-oil-gas.html",
+    "pub_date": "2023-05-17T17:17:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 490
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/17/climate/record-heat-forecast.html",
+    "pub_date": "2023-05-17T16:47:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 529
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/17/climate/epa-coal-ash-landfills.html",
+    "pub_date": "2023-05-17T15:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 645
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/16/climate/climate-eni-oil-companies.html",
+    "pub_date": "2023-05-16T18:51:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1247
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/16/climate/biden-mountain-valley-pipeline.html",
+    "pub_date": "2023-05-16T17:12:03+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 604
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/12/climate/climate-careers-jobs.html",
+    "pub_date": "2023-05-12T15:34:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1214
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/11/climate/jigar-shah-climate-biden.html",
+    "pub_date": "2023-05-11T15:01:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1680
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/11/climate/epa-power-plants-pollution.html",
+    "pub_date": "2023-05-11T09:00:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1652
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/10/climate/biden-manchin-fossil-fuel-permits.html",
+    "pub_date": "2023-05-10T20:50:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 915
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/09/climate/galapagos-ecuador-debt-nature.html",
+    "pub_date": "2023-05-09T16:27:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 816
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/09/climate/ajay-banga-world-bank.html",
+    "pub_date": "2023-05-09T16:01:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1015
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/08/climate/gulf-of-mexico-oil-wells-plug.html",
+    "pub_date": "2023-05-08T15:13:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 625
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/05/climate/legal-rights-of-nature.html",
+    "pub_date": "2023-05-05T16:39:14+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1321
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/05/climate/heat-wave-spain-morocco.html",
+    "pub_date": "2023-05-05T13:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 630
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/03/climate/un-climate-oil-uae-al-jaber.html",
+    "pub_date": "2023-05-03T16:13:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 671
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/03/business/ira-climate-tax-breaks-biden.html",
+    "pub_date": "2023-05-03T15:09:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1514
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/03/climate/el-nino-extreme-weather-2024.html",
+    "pub_date": "2023-05-03T08:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 571
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/05/02/climate/climate-adaptation-africa.html",
+    "pub_date": "2023-05-02T16:09:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1330
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/28/climate/climate-careers.html",
+    "pub_date": "2023-04-28T18:03:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1146
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/28/climate/coffee-liberica-uganda.html",
+    "pub_date": "2023-04-28T14:10:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 783
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/27/climate/malawi-farmers-agriculture.html",
+    "pub_date": "2023-04-27T15:15:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1652
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/27/climate/horn-of-africa-somalia-drought.html",
+    "pub_date": "2023-04-27T05:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1108
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/25/climate/europe-greenhouse-gas-tax.html",
+    "pub_date": "2023-04-25T17:29:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1114
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/25/climate/extreme-heat-waves.html",
+    "pub_date": "2023-04-25T15:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 637
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/24/climate/willow-biden-climate-voters.html",
+    "pub_date": "2023-04-24T22:14:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1551
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/22/climate/epa-power-plants-pollution.html",
+    "pub_date": "2023-04-22T15:07:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1477
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/22/climate/menominee-forest-sustainable-earth-day.html",
+    "pub_date": "2023-04-22T07:00:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1727
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/21/climate/gardening-native-plants-biodiversity.html",
+    "pub_date": "2023-04-21T18:05:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1356
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/21/climate/earth-day-reads.html",
+    "pub_date": "2023-04-21T17:03:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 831
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/20/climate/noaa-spring-outlook-california.html",
+    "pub_date": "2023-04-20T17:46:57+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 509
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/20/climate/biden-amazon-deforestation-climate.html",
+    "pub_date": "2023-04-20T09:00:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 824
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/18/climate/extreme-heat.html",
+    "pub_date": "2023-04-18T14:45:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1234
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/17/climate/train-fire-palestine-plastics-pvc.html",
+    "pub_date": "2023-04-17T22:06:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1165
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/14/climate/passive-house-climate.html",
+    "pub_date": "2023-04-14T16:00:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1394
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/04/14/climate/electric-car-heater-everything.html",
+    "pub_date": "2023-04-14T09:17:00+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/13/climate/electric-vehicles-biden-epa.html",
+    "pub_date": "2023-04-13T18:53:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1742
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/13/climate/flash-drought-warming.html",
+    "pub_date": "2023-04-13T18:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 791
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/12/climate/biden-electric-cars-epa.html",
+    "pub_date": "2023-04-12T09:00:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1792
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/11/climate/colorado-river-water-cuts-drought.html",
+    "pub_date": "2023-04-11T18:00:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1322
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/11/climate/oil-gas-subsidies-climate.html",
+    "pub_date": "2023-04-11T17:18:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1213
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/09/climate/world-bank-ajay-banga.html",
+    "pub_date": "2023-04-09T09:00:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1236
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/08/climate/biden-electric-cars-epa.html",
+    "pub_date": "2023-04-08T15:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1443
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/07/climate/climate-change-tv.html",
+    "pub_date": "2023-04-07T16:34:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1249
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/07/climate/electric-cars-biden-climate.html",
+    "pub_date": "2023-04-07T16:05:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1789
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/06/climate/willow-alaska-oil-biden.html",
+    "pub_date": "2023-04-06T09:00:53+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2177
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/06/climate/oil-gas-drilling-investment-worldwide-willow.html",
+    "pub_date": "2023-04-06T09:00:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1002
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/05/climate/epa-mercury-coal-plants.html",
+    "pub_date": "2023-04-05T15:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 960
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/04/climate/evs-zambia-china.html",
+    "pub_date": "2023-04-04T14:40:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1176
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/03/climate/california-storms-snowpack.html",
+    "pub_date": "2023-04-03T15:35:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1156
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/04/03/climate/salmon-fishery-closed-california.html",
+    "pub_date": "2023-04-03T09:00:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1582
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/31/climate/economic-growth-climate-change.html",
+    "pub_date": "2023-03-31T16:25:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1239
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/31/climate/california-electric-trucks-emissions.html",
+    "pub_date": "2023-03-31T15:00:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1185
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/29/climate/united-nations-vanuatu.html",
+    "pub_date": "2023-03-29T15:53:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 478
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/28/climate/geothermal-energy.html",
+    "pub_date": "2023-03-28T15:54:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1077
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/24/climate/climate-action-handbook.html",
+    "pub_date": "2023-03-24T14:44:14+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1196
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/24/climate/montana-youth-climate-lawsuit.html",
+    "pub_date": "2023-03-24T07:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1652
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html",
+    "pub_date": "2023-03-22T15:39:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1397
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/21/climate/climate-change-protests-oil-banks.html",
+    "pub_date": "2023-03-21T21:51:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1043
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/20/climate/global-warming-ipcc.html",
+    "pub_date": "2023-03-20T14:35:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1240
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/20/climate/global-warming-ipcc-earth.html",
+    "pub_date": "2023-03-20T13:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1740
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/18/climate/japan-winter-strawberries-greenhouse.html",
+    "pub_date": "2023-03-18T17:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1265
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/17/climate/wild-neighbors.html",
+    "pub_date": "2023-03-17T15:11:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1611
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/climate/california-drought.html",
+    "pub_date": "2023-03-17T09:00:06+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/03/15/climate/seaweed-plastic-climate-change.html",
+    "pub_date": "2023-03-15T15:31:13+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/15/climate/epa-states-pollution-smog.html",
+    "pub_date": "2023-03-15T14:05:52+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 768
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/14/climate/oil-gas-industry.html",
+    "pub_date": "2023-03-14T15:39:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1531
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/13/climate/willow-biden-oil-climate.html",
+    "pub_date": "2023-03-13T21:47:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1569
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/12/climate/silicon-valley-bank-climate.html",
+    "pub_date": "2023-03-12T21:39:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1026
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/12/climate/biden-willow-arctic-drilling-restrictions.html",
+    "pub_date": "2023-03-12T21:30:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1061
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/11/climate/green-hydrogen-energy.html",
+    "pub_date": "2023-03-11T10:00:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1950
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/10/climate/biden-willow-oil-alaska.html",
+    "pub_date": "2023-03-11T03:03:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1535
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/10/climate/climate-movies-oscars.html",
+    "pub_date": "2023-03-10T16:19:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1351
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/03/10/climate/buildings-carbon-dioxide-emissions-climate.html",
+    "pub_date": "2023-03-10T10:01:03+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/07/climate/sheldon-whitehouse-climate-senator.html",
+    "pub_date": "2023-03-07T19:38:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1592
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/07/climate/conservation-plants-insects-animals.html",
+    "pub_date": "2023-03-07T18:39:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1028
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/03/06/climate/california-zombie-forests.html",
+    "pub_date": "2023-03-06T18:22:32+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/04/climate/united-nations-treaty-oceans-biodiversity.html",
+    "pub_date": "2023-03-05T03:59:56+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1288
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/03/04/climate/insects-wildlife-us.html",
+    "pub_date": "2023-03-04T10:00:05+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/03/03/climate/the-coal-challenge.html",
+    "pub_date": "2023-03-03T16:15:49+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1238
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/28/climate/esg-climate-backlash.html",
+    "pub_date": "2023-02-28T22:31:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1537
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/28/climate/climate-change-carbon-footprint-america.html",
+    "pub_date": "2023-02-28T16:55:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1066
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/25/climate/salton-sea-colorado-river-drought-crisis.html",
+    "pub_date": "2023-02-25T08:00:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1604
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/24/climate/caring-for-animals.html",
+    "pub_date": "2023-02-24T15:16:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1505
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/23/climate/renewable-energy-us-electrical-grid.html",
+    "pub_date": "2023-02-23T15:12:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1803
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/02/22/climate/heat-pumps-extreme-cold.html",
+    "pub_date": "2023-02-23T03:15:28+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/21/climate/greenwashing-climate-misinformation.html",
+    "pub_date": "2023-02-21T17:06:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1132
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/18/climate/climate-change-cotton-tampons.html",
+    "pub_date": "2023-02-18T10:00:26+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1676
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/18/climate/biden-brainard-revesz-climate.html",
+    "pub_date": "2023-02-18T10:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1249
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/02/17/climate/electric-vehicle-emissions-truck-suv.html",
+    "pub_date": "2023-02-18T10:00:05+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/17/climate/biden-epa-mercury-trump.html",
+    "pub_date": "2023-02-17T19:00:56+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 745
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/17/climate/malpass-world-bank.html",
+    "pub_date": "2023-02-17T15:04:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1249
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/16/climate/argentina-drought.html",
+    "pub_date": "2023-02-16T09:00:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 598
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/15/climate/david-malpass-world-bank.html",
+    "pub_date": "2023-02-15T20:08:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1020
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html",
+    "pub_date": "2023-02-15T16:00:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 951
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/14/climate/private-jet-emissions.html",
+    "pub_date": "2023-02-14T15:58:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1159
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/14/climate/green-skyscraper-one-vanderbilt.html",
+    "pub_date": "2023-02-14T10:00:56+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1537
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/10/climate/shell-oil-lawsuit-clientearth.html",
+    "pub_date": "2023-02-10T16:23:38+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1367
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/07/climate/plastic-waste-recycling.html",
+    "pub_date": "2023-02-07T16:34:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1113
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/climate/climate-change-faq.html",
+    "pub_date": "2023-02-06T18:47:31+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/06/climate/mauna-loa-carbon-dioxide-eruption.html",
+    "pub_date": "2023-02-06T16:17:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1346
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/03/climate/inflation-reduction-act.html",
+    "pub_date": "2023-02-03T16:26:22+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1356
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/02/climate/nebraska-mine-niobium-rare-earths.html",
+    "pub_date": "2023-02-02T10:00:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2048
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/02/01/climate/alaska-willow-oil-drilling-biden.html",
+    "pub_date": "2023-02-01T17:17:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1331
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/climate/tax-breaks-inflation-reduction-act.html",
+    "pub_date": "2023-02-01T10:00:02+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/31/climate/willow-alaska-oil-drilling.html",
+    "pub_date": "2023-02-01T02:49:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 897
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/31/climate/renewable-energy-transition.html",
+    "pub_date": "2023-01-31T16:14:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1268
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/31/climate/pebble-mine-epa-decision.html",
+    "pub_date": "2023-01-31T11:47:50+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1129
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/27/climate/food-forests.html",
+    "pub_date": "2023-01-27T16:41:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1636
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/27/climate/colorado-river-biden-cuts.html",
+    "pub_date": "2023-01-27T10:00:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1836
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/25/climate/alaska-tongass-national-forest.html",
+    "pub_date": "2023-01-25T20:15:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1056
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/24/climate/ben-jealous-sierra-club.html",
+    "pub_date": "2023-01-24T18:57:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1462
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/24/climate/marina-silva-brazil-amazon.html",
+    "pub_date": "2023-01-24T16:44:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1148
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/23/climate/environmental-protection-agency-epa-funding.html",
+    "pub_date": "2023-01-23T19:35:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1522
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/20/climate/enviornmental-justice.html",
+    "pub_date": "2023-01-20T16:01:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1174
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/19/climate/bernhardt-ethics-interior-trump.html",
+    "pub_date": "2023-01-19T21:20:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 546
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/19/climate/john-kerry-davos-world-economic-forum.html",
+    "pub_date": "2023-01-19T19:18:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1047
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/17/climate/amazon-ecuador-value-nature.html",
+    "pub_date": "2023-01-17T16:25:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1291
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/14/climate/ecuador-drilling-oil-amazon.html",
+    "pub_date": "2023-01-14T10:00:36+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1945
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/13/climate/gas-stove-questions.html",
+    "pub_date": "2023-01-13T16:32:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1245
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/11/climate/california-drought-rain.html",
+    "pub_date": "2023-01-11T23:47:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 476
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/10/climate/war-and-weather.html",
+    "pub_date": "2023-01-10T16:19:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1083
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2023/climate/earth-hottest-years.html",
+    "pub_date": "2023-01-10T12:00:03+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/09/climate/ozone-hole-restoration-montreal-protocol.html",
+    "pub_date": "2023-01-09T15:02:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1046
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/06/climate/bears-hunting-alaska-doughnuts.html",
+    "pub_date": "2023-01-06T23:22:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 448
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/06/climate/plastics-climate-pollution.html",
+    "pub_date": "2023-01-06T15:30:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 914
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/06/climate/epa-soot-pollution-biden.html",
+    "pub_date": "2023-01-06T15:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 920
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/05/climate/california-floods-drought-preparedness.html",
+    "pub_date": "2023-01-05T08:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1259
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/03/climate/california-flood-atmospheric-river.html",
+    "pub_date": "2023-01-03T22:28:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 881
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/03/climate/climate-actions-2023.html",
+    "pub_date": "2023-01-03T15:15:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1229
+  },
+  {
+    "web_url": "https://www.nytimes.com/2023/01/01/climate/cape-cod-algae-septic.html",
+    "pub_date": "2023-01-01T18:53:22+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2007
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/30/climate/climate-2023.html",
+    "pub_date": "2022-12-30T16:31:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1468
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/30/climate/epa-clean-water-protections-wotus.html",
+    "pub_date": "2022-12-30T15:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 832
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/30/climate/wind-farm-renewable-energy-fight.html",
+    "pub_date": "2022-12-30T08:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1919
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/28/climate/storm-buffalo-climate-change.html",
+    "pub_date": "2022-12-28T19:09:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 844
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/23/us/global-warming-snowfall.html",
+    "pub_date": "2022-12-23T17:30:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 190
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/22/climate/polar-vortex-winter-cold-weather.html",
+    "pub_date": "2022-12-22T10:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1081
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/21/climate/nyt-climate-coverage-2022.html",
+    "pub_date": "2022-12-21T10:00:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1028
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/20/climate/postal-service-electric-trucks.html",
+    "pub_date": "2022-12-20T21:22:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 843
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/20/climate/congress-climate-finance-biden.html",
+    "pub_date": "2022-12-20T20:35:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 925
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/20/climate/chocolate-climate-change.html",
+    "pub_date": "2022-12-20T16:03:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1255
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/12/20/climate/california-wildfire-season-2022.html",
+    "pub_date": "2022-12-20T10:00:07+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/19/climate/biodiversity-cop15-montreal-30x30.html",
+    "pub_date": "2022-12-19T12:32:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1166
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/17/climate/anthropocene-age-geology.html",
+    "pub_date": "2022-12-17T10:00:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1631
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/16/climate/crucial-talks-on-preserving-nature-are-on-now-here-are-the-key-issues.html",
+    "pub_date": "2022-12-16T18:43:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1000
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/16/climate/my-local-emissions.html",
+    "pub_date": "2022-12-16T15:28:58+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1176
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/15/climate/podesta-climate-law-fraud.html",
+    "pub_date": "2022-12-15T17:00:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1147
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/14/climate/native-plants-lawns-homeowners.html",
+    "pub_date": "2022-12-14T10:00:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1489
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/13/climate/fusion-climate-change.html",
+    "pub_date": "2022-12-13T16:09:49+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1240
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/13/climate/arctic-climate-change.html",
+    "pub_date": "2022-12-13T16:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 951
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/12/13/climate/climate-footprint-map-neighborhood.html",
+    "pub_date": "2022-12-13T05:06:59+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/09/climate/books-about-climate.html",
+    "pub_date": "2022-12-09T17:06:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1408
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/12/09/climate/biodiversity-habitat-loss-climate.html",
+    "pub_date": "2022-12-09T15:17:24+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/08/climate/vanuatu-president-nonproliferation-hague.html",
+    "pub_date": "2022-12-08T10:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1193
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/07/climate/john-kerry-climate-envoy.html",
+    "pub_date": "2022-12-07T18:39:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1031
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/06/climate/nature-biodiversity-cop.html",
+    "pub_date": "2022-12-06T18:06:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1296
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/06/climate/iea-renewable-energy-coal.html",
+    "pub_date": "2022-12-06T18:02:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 718
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/04/climate/texas-public-policy-foundation-climate-change.html",
+    "pub_date": "2022-12-04T08:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2013
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/02/climate/climate-protests-museum-artwork.html",
+    "pub_date": "2022-12-02T17:28:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1221
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/12/02/climate/mauna-loa-eruption-keeling-curve.html",
+    "pub_date": "2022-12-02T10:00:06+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/12/01/climate/earthshot-prize-prince-william.html",
+    "pub_date": "2022-12-01T10:00:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 703
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/30/climate/biden-nevada-avi-kwa-ame.html",
+    "pub_date": "2022-11-30T20:27:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 935
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/30/climate/native-tribes-relocate-climate.html",
+    "pub_date": "2022-11-30T13:16:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 878
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/29/climate/hurricane-season-noaa.html",
+    "pub_date": "2022-11-29T20:15:38+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 649
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/29/climate/brain-human-behavior-climate.html",
+    "pub_date": "2022-11-29T15:20:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1298
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/25/climate/climate-holiday-gift-guide.html",
+    "pub_date": "2022-11-25T12:44:43+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1025
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/24/climate/sugar-maple-pennsylvania-farm.html",
+    "pub_date": "2022-11-24T10:00:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1060
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html",
+    "pub_date": "2022-11-23T10:00:22+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1432
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/11/22/climate/food-waste-climate-change.html",
+    "pub_date": "2022-11-22T16:40:39+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/22/climate/world-cup-soccer-heat.html",
+    "pub_date": "2022-11-22T15:58:43+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1180
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/21/climate/nature-conservancy-insurance-hawaii-coral-reef.html",
+    "pub_date": "2022-11-21T16:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1414
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/21/climate/saudi-arabia-aramco-oil-solar-climate.html",
+    "pub_date": "2022-11-21T08:00:15+0000",
+    "document_type": "article",
+    "type_of_material": "News Analysis",
+    "word_count": 2133
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/20/climate/un-climate-cop27-loss-damage.html",
+    "pub_date": "2022-11-20T08:33:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1437
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/19/climate/un-climate-damage-cop27.html",
+    "pub_date": "2022-11-19T16:38:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1588
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/18/climate/un-climate-talks-cop27.html",
+    "pub_date": "2022-11-18T17:43:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1637
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/18/climate/the-population-question.html",
+    "pub_date": "2022-11-18T15:47:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1325
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/17/climate/fda-lab-grown-cultivated-meat.html",
+    "pub_date": "2022-11-17T19:17:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 630
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/17/climate/biniaz-climate-united-nations.html",
+    "pub_date": "2022-11-17T17:13:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1557
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/17/climate/divided-congress-climate.html",
+    "pub_date": "2022-11-17T13:57:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1364
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/16/climate/climate-change-floods-west-africa.html",
+    "pub_date": "2022-11-16T22:00:14+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 788
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/16/climate/lula-brazil-rainforest-climate.html",
+    "pub_date": "2022-11-16T17:10:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1048
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/16/climate/climate-change-county-natural-disaster.html",
+    "pub_date": "2022-11-16T12:22:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 900
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/16/climate/cop27-global-warming-1-5-celsius.html",
+    "pub_date": "2022-11-16T10:53:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1622
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/15/climate/colombia-climate-latin-america.html",
+    "pub_date": "2022-11-15T15:47:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1549
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/15/climate/biden-xi-g20-bali.html",
+    "pub_date": "2022-11-15T15:21:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1185
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/15/climate/indonesia-coal-agreement.html",
+    "pub_date": "2022-11-15T09:13:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 794
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/14/climate/brazil-indonesia-democratic-congo-rainforest-protection-pact.html",
+    "pub_date": "2022-11-14T18:05:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 679
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/14/business/china-us-climate-change.html",
+    "pub_date": "2022-11-14T14:41:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1103
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/12/climate/cop27-protests-egypt.html",
+    "pub_date": "2022-11-12T15:33:28+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 678
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/11/climate/anilca-road-alaska-trump-court-decision.html",
+    "pub_date": "2022-11-11T20:07:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 591
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/11/climate/biden-cop27-climate-speech.html",
+    "pub_date": "2022-11-11T18:46:38+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1765
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/11/climate/finance-fossil-fuels-climate-change.html",
+    "pub_date": "2022-11-11T18:22:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1208
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/10/climate/carbon-dioxide-emissions-global-warming.html",
+    "pub_date": "2022-11-11T00:03:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1052
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/10/climate/biden-cop27-climate-reparations.html",
+    "pub_date": "2022-11-10T12:46:03+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1383
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/09/climate/imf-world-bank-climate-cop27.html",
+    "pub_date": "2022-11-09T22:45:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1516
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/09/climate/david-malpass-world-bank-cop27-climate-change.html",
+    "pub_date": "2022-11-09T19:23:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1189
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/09/climate/john-kerry-xie-zhenhua-cop27.html",
+    "pub_date": "2022-11-09T17:48:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 731
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/09/climate/climate-change-emissions-satellites.html",
+    "pub_date": "2022-11-09T05:02:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 997
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/08/climate/loss-and-damage-cop27-climate.html",
+    "pub_date": "2022-11-08T19:12:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1323
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/08/climate/cop27-carbon-climate-change.html",
+    "pub_date": "2022-11-08T17:20:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 621
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/08/climate/cop27-egypt-postcard.html",
+    "pub_date": "2022-11-08T17:01:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1214
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/08/climate/national-climate-assessment.html",
+    "pub_date": "2022-11-08T15:36:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1275
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/11/08/climate/cop27-emissions-country-compare.html",
+    "pub_date": "2022-11-08T07:00:04+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/07/climate/climate-change-crisis-cop27.html",
+    "pub_date": "2022-11-07T21:27:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1215
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/07/climate/coca-cola-sponsor-cop27-climate-egypt.html",
+    "pub_date": "2022-11-07T15:15:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 451
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/07/climate/glasgow-climate-promises.html",
+    "pub_date": "2022-11-07T10:00:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1356
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/11/06/climate/cop27-climate-change-loss-damage.html",
+    "pub_date": "2022-11-07T10:00:05+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/07/climate/michael-bloomberg-announces-a-new-initiative-to-phase-out-coal-in-25-countries.html",
+    "pub_date": "2022-11-07T08:01:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 407
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/06/climate/loss-and-damage-climate-cop27.html",
+    "pub_date": "2022-11-06T10:00:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1634
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/11/05/climate/putin-russia-climate-change-progress.html",
+    "pub_date": "2022-11-05T09:00:02+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/04/climate/native-americans-relocate-climate-change.html",
+    "pub_date": "2022-11-04T19:23:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 684
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/04/climate/cop27-loss-and-damage.html",
+    "pub_date": "2022-11-04T14:39:52+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1354
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/04/climate/united-states-climate-summit.html",
+    "pub_date": "2022-11-04T09:00:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1721
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/03/climate/siberia-fires-climate-change.html",
+    "pub_date": "2022-11-03T18:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 881
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/03/climate/trees-climate-diana-beresford-kroeger.html",
+    "pub_date": "2022-11-03T14:52:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1540
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/03/climate/gabon-logging-oil-economy.html",
+    "pub_date": "2022-11-03T14:12:55+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1760
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/03/climate/united-nations-funding-climate-adaptation.html",
+    "pub_date": "2022-11-03T10:01:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 701
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html",
+    "pub_date": "2022-11-02T09:00:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1764
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/01/climate/amazon-climate-lula-bolsonaro.html",
+    "pub_date": "2022-11-01T15:25:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1104
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/11/01/climate/middle-school-education-climate-change.html",
+    "pub_date": "2022-11-01T10:04:36+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1495
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/31/climate/brazil-election-lula-bolsonaro-climate.html",
+    "pub_date": "2022-10-31T17:47:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 724
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/31/climate/los-angeles-flood-risk.html",
+    "pub_date": "2022-10-31T16:16:57+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 970
+  },
+  {
+    "web_url": "https://www.nytimes.com/article/cop27-climate-change-summit.html",
+    "pub_date": "2022-10-31T12:58:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1474
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/31/climate/frank-mitloehner-uc-davis.html",
+    "pub_date": "2022-10-31T07:00:14+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1862
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/28/climate/climate-protests-museums-paintings.html",
+    "pub_date": "2022-10-28T16:27:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1134
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/27/climate/europe-africa-natural-gas.html",
+    "pub_date": "2022-10-27T09:00:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1622
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/27/climate/global-clean-energy-iea.html",
+    "pub_date": "2022-10-27T04:01:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1393
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/26/climate/art-climate-protests-monet.html",
+    "pub_date": "2022-10-26T16:47:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1274
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/26/climate/un-climate-pledges-warming.html",
+    "pub_date": "2022-10-26T07:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1371
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html",
+    "pub_date": "2022-10-25T14:41:53+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1190
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/21/climate/reader-stories-generational-differences.html",
+    "pub_date": "2022-10-21T14:43:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1331
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/20/climate/treated-sewage-virginia-aquifer.html",
+    "pub_date": "2022-10-20T16:28:57+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1196
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/20/climate/gas-stove-benzene-california.html",
+    "pub_date": "2022-10-20T11:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 839
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/18/climate/china-xi-jinping-climate.html",
+    "pub_date": "2022-10-18T14:41:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1072
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/14/climate/climate-disasters-poor-nations-iimf.html",
+    "pub_date": "2022-10-14T21:32:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 666
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/14/climate/food-waste-solutions.html",
+    "pub_date": "2022-10-14T14:58:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1097
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/13/climate/florida-real-estate-hurricane-ian.html",
+    "pub_date": "2022-10-13T18:03:03+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1642
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/13/climate/global-food-waste-solutions.html",
+    "pub_date": "2022-10-13T09:00:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1760
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/12/climate/living-planet-index-wildlife-declines.html",
+    "pub_date": "2022-10-12T23:00:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1017
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/11/climate/elections-climate-change.html",
+    "pub_date": "2022-10-11T15:13:36+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1187
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html",
+    "pub_date": "2022-10-10T09:00:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1268
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/07/climate/climate-change-questions-faq.html",
+    "pub_date": "2022-10-07T19:32:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 127
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/07/climate/aviation-emissions-net-zero.html",
+    "pub_date": "2022-10-07T18:21:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 535
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/07/climate/monsoon-nyt-climate-newsletter.html",
+    "pub_date": "2022-10-07T13:44:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1119
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/05/climate/climate-change-europe-drought.html",
+    "pub_date": "2022-10-05T21:00:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 951
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/10/04/climate/south-asia-monsoon-climate-change.html",
+    "pub_date": "2022-10-05T01:33:54+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html",
+    "pub_date": "2022-10-04T21:51:03+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1432
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html",
+    "pub_date": "2022-10-04T17:02:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1508
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/04/climate/environmental-crime-latin-america.html",
+    "pub_date": "2022-10-04T15:05:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1087
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/10/03/climate/hurricane-ian-rebuilding.html",
+    "pub_date": "2022-10-03T21:23:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 938
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/30/climate/hurricane-ian-damage-cost.html",
+    "pub_date": "2022-09-30T14:50:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1099
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html",
+    "pub_date": "2022-09-29T22:48:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 668
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/09/29/climate/hurricane-ian-florida-intensity.html",
+    "pub_date": "2022-09-29T21:30:54+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/29/climate/gas-flaring-climate-methane.html",
+    "pub_date": "2022-09-29T18:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 729
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/29/climate/hurricane-ian-flood-insurance.html",
+    "pub_date": "2022-09-29T14:04:52+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1043
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/29/climate/coastal-hospitals-hurricane-flooding.html",
+    "pub_date": "2022-09-29T13:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 725
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html",
+    "pub_date": "2022-09-27T13:31:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1059
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/26/climate/hurricane-ian-rapid-intensification.html",
+    "pub_date": "2022-09-26T16:11:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 744
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/24/climate/environmental-justice-epa.html",
+    "pub_date": "2022-09-24T17:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 969
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/23/climate/unga-climate-week.html",
+    "pub_date": "2022-09-23T17:08:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1169
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/22/climate/tonga-volcano-climate.html",
+    "pub_date": "2022-09-22T18:00:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 818
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/22/climate/malpass-world-bank-climate.html",
+    "pub_date": "2022-09-22T16:10:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1599
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/21/climate/hydrofluorocarbons-hfcs-kigali-amendment.html",
+    "pub_date": "2022-09-21T20:12:58+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1252
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/20/climate/food-waste-app.html",
+    "pub_date": "2022-09-20T15:12:02+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1506
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/20/climate/who-gets-to-use-gas.html",
+    "pub_date": "2022-09-20T10:49:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1346
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/19/climate/puerto-rico-hurricane-fiona.html",
+    "pub_date": "2022-09-19T18:08:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 783
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/16/climate/yvon-chouinard-patagonia-philanthropy.html",
+    "pub_date": "2022-09-16T15:51:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1210
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/16/climate/coal-mine-american-chestnut.html",
+    "pub_date": "2022-09-16T09:00:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1581
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/15/climate/louisiana-judge-blocks-formosa-plant.html",
+    "pub_date": "2022-09-15T22:54:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 735
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/15/climate/pakistan-floods-global-warming.html",
+    "pub_date": "2022-09-15T21:00:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1419
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/09/15/climate/climate-noaa-weather.html",
+    "pub_date": "2022-09-15T18:02:07+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/15/climate/solar-energy-school-funding.html",
+    "pub_date": "2022-09-15T09:00:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1676
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/09/14/climate/san-francisco-fog.html",
+    "pub_date": "2022-09-15T00:05:00+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html",
+    "pub_date": "2022-09-14T19:39:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1752
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/14/climate/oil-industry-documents-disinformation.html",
+    "pub_date": "2022-09-14T19:34:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1212
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/14/climate/louisiana-gulf-drilling-fishing.html",
+    "pub_date": "2022-09-14T09:00:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1851
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/14/climate/oil-gas-furnace-heat-pump.html",
+    "pub_date": "2022-09-14T07:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1698
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/13/climate/king-charles-climate.html",
+    "pub_date": "2022-09-13T16:22:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1128
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/12/climate/robert-bullard-environmental-justice.html",
+    "pub_date": "2022-09-12T19:45:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1889
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/09/climate/the-burn-test.html",
+    "pub_date": "2022-09-09T14:48:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1222
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/09/09/climate/growing-wildfire-risk-homes.html",
+    "pub_date": "2022-09-09T09:00:04+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/08/climate/global-warming-climate-tipping-point.html",
+    "pub_date": "2022-09-08T18:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 922
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/07/climate/california-wildfire-prescribed-burn.html",
+    "pub_date": "2022-09-07T16:53:58+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1236
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/06/climate/chile-constitution-climate.html",
+    "pub_date": "2022-09-06T16:36:01+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1349
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/06/climate/climate-change-beavers.html",
+    "pub_date": "2022-09-06T07:00:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1452
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/05/climate/colorado-river-yakima-lessons-climate.html",
+    "pub_date": "2022-09-05T07:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1572
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/03/climate/cooling-clothes-climate-change.html",
+    "pub_date": "2022-09-03T09:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1940
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/02/climate/hawail-coal-plant-shuts.html",
+    "pub_date": "2022-09-02T22:03:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 552
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/02/climate/generational-divides-climate.html",
+    "pub_date": "2022-09-02T17:13:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1392
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/02/climate/john-podesta-climate-biden.html",
+    "pub_date": "2022-09-02T17:13:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1576
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/02/climate/gina-mccarthy-resignation.html",
+    "pub_date": "2022-09-02T15:43:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 441
+  },
+  {
+    "web_url": "https://www.nytimes.com/article/climate-event.html",
+    "pub_date": "2022-09-02T14:50:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 719
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/01/climate/california-lawmakers-climate-legislation.html",
+    "pub_date": "2022-09-01T15:14:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1738
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/09/01/climate/paper-plastic-bag-ban-new-jersey.html",
+    "pub_date": "2022-09-01T09:00:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 949
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/30/climate/pakistan-floods.html",
+    "pub_date": "2022-08-30T16:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1023
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/29/climate/pakistan-floods-monsoon.html",
+    "pub_date": "2022-08-29T22:00:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1198
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/29/climate/greenland-ice-sea-levels.html",
+    "pub_date": "2022-08-29T21:34:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 494
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/26/climate/california-electric-gasoline-car-ban-enforcement.html",
+    "pub_date": "2022-08-26T18:27:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1750
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/26/climate/epa-pfas-forever-chemicals-hazardous.html",
+    "pub_date": "2022-08-26T15:41:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 668
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/26/climate/lithium-electric-car-batteries.html",
+    "pub_date": "2022-08-26T14:46:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1216
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/25/climate/hurricane-harvey-climate-change.html",
+    "pub_date": "2022-08-25T09:00:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 649
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/11/climate/arctic-global-warming.html",
+    "pub_date": "2022-08-11T15:05:42+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1150
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/10/climate/climate-protesters-paid-activists.html",
+    "pub_date": "2022-08-10T09:00:22+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1779
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/09/climate/inflation-climate-change.html",
+    "pub_date": "2022-08-09T15:30:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1175
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/07/climate/manchin-schumer-pipeline-political-funding.html",
+    "pub_date": "2022-08-07T19:32:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1758
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/07/climate/senate-climate-law.html",
+    "pub_date": "2022-08-07T19:19:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2041
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/05/climate/kentucky-floods.html",
+    "pub_date": "2022-08-05T15:25:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1188
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/05/climate/republican-treasurers-climate-change.html",
+    "pub_date": "2022-08-05T07:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2878
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/04/climate/noaa-hurricane-forecast.html",
+    "pub_date": "2022-08-04T18:21:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 385
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/02/climate/what-fungi-can-teach-us.html",
+    "pub_date": "2022-08-02T14:47:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1105
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/08/02/climate/manchin-deal-emissions-cuts.html",
+    "pub_date": "2022-08-02T09:00:04+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/01/climate/manchin-climate-mountain-valley-pipeline.html",
+    "pub_date": "2022-08-01T22:29:41+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 862
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/08/01/climate/wildfire-risk-california-west.html",
+    "pub_date": "2022-08-01T18:22:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 931
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/30/climate/manchin-climate-deal.html",
+    "pub_date": "2022-07-30T09:00:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1623
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/28/climate/britain-heat-wave-climate-change.html",
+    "pub_date": "2022-07-28T22:01:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1001
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/28/climate/biden-climate-deal-key-provisions.html",
+    "pub_date": "2022-07-28T17:42:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 826
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/28/climate/manchin-deal-spending-climate.html",
+    "pub_date": "2022-07-28T15:04:58+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1130
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/28/business/west-virginia-fossil-fuel-banks.html",
+    "pub_date": "2022-07-28T13:33:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1156
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/28/climate/climate-change-deal-manchin.html",
+    "pub_date": "2022-07-28T09:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1863
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/07/27/climate/climate-change-fungi.html",
+    "pub_date": "2022-07-28T02:20:04+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/26/climate/wildfires-brazil.html",
+    "pub_date": "2022-07-26T16:54:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1114
+  },
+  {
+    "web_url": "https://www.nytimes.com/article/flooding-climate-change.html",
+    "pub_date": "2022-07-26T14:36:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 884
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/23/climate/energy-conservation.html",
+    "pub_date": "2022-07-23T12:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 752
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/23/climate/climate-disaster-relief-fema.html",
+    "pub_date": "2022-07-23T07:00:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2029
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/22/climate/lake-mead-level-pictures.html",
+    "pub_date": "2022-07-22T18:05:57+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 511
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/22/climate/air-conditioning.html",
+    "pub_date": "2022-07-22T15:34:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1278
+  },
+  {
+    "web_url": "https://www.nytimes.com/article/climate-change-emergency-biden.html",
+    "pub_date": "2022-07-21T21:08:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 892
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/07/21/climate/noaa-monthly-call-june.html",
+    "pub_date": "2022-07-21T19:10:04+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/21/climate/colorado-river-water-cuts.html",
+    "pub_date": "2022-07-21T18:04:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1025
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/21/climate/monarch-butterflies-endangered-iucn.html",
+    "pub_date": "2022-07-21T12:00:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 862
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/20/us/politics/climate-change-republicans-delay.html",
+    "pub_date": "2022-07-20T17:16:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1758
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/20/climate/fashion-consumerism-climate.html",
+    "pub_date": "2022-07-20T14:33:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 175
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/20/climate/global-energy-crisis-climate-war.html",
+    "pub_date": "2022-07-20T07:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1239
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/19/climate/biden-climate-emergency.html",
+    "pub_date": "2022-07-19T17:39:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1531
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/19/climate/climate-communication.html",
+    "pub_date": "2022-07-19T15:07:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1154
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/07/19/climate/climate-us-government-poll.html",
+    "pub_date": "2022-07-19T09:00:04+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/19/climate/spain-floating-wind-farm.html",
+    "pub_date": "2022-07-19T04:01:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1599
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/19/climate/europe-heat-wave-science.html",
+    "pub_date": "2022-07-18T21:53:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 778
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/15/climate/climate-change-action-united-states.html",
+    "pub_date": "2022-07-15T18:01:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 934
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/15/climate/biden-inflation-climate-manchin.html",
+    "pub_date": "2022-07-15T16:30:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1926
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/15/climate/manchin-climate.html",
+    "pub_date": "2022-07-15T15:22:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1322
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/15/climate/cryptocurrency-bitcoin-mining-electricity.html",
+    "pub_date": "2022-07-15T12:02:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 958
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/15/climate/coal-plants-renewable-energy.html",
+    "pub_date": "2022-07-15T09:00:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1395
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/15/climate/manchin-climate-change-democrats.html",
+    "pub_date": "2022-07-15T09:00:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2088
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/13/climate/congo-river-basin-deforestation-charcoal.html",
+    "pub_date": "2022-07-13T09:00:30+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1734
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/12/climate/electric-vehicle-tax-credits-manchin.html",
+    "pub_date": "2022-07-12T17:05:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1632
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/12/climate/california-yosemite-fires.html",
+    "pub_date": "2022-07-12T14:28:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1347
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/08/climate/willow-alaska-oil-project-environment.html",
+    "pub_date": "2022-07-09T02:54:36+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 906
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/08/climate/local-climate-action.html",
+    "pub_date": "2022-07-08T14:44:39+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1224
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/07/climate/epa-greenhouse-gas-power-plant-regulations.html",
+    "pub_date": "2022-07-07T15:49:03+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1422
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/25/climate/europe-heat-waves.html",
+    "pub_date": "2022-07-07T03:00:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 401
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/05/climate/natural-gas-european-union.html",
+    "pub_date": "2022-07-05T15:12:43+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1222
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/01/climate/biden-oil-gas-drilling-alaska.html",
+    "pub_date": "2022-07-01T21:12:14+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 993
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/01/climate/california-plastics-recycling-law.html",
+    "pub_date": "2022-07-01T20:14:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 817
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/01/climate/biden-climate-agenda-global.html",
+    "pub_date": "2022-07-01T19:04:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1601
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/07/01/climate/climate-policies-cities-states-local.html",
+    "pub_date": "2022-07-01T09:00:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1671
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/30/climate/supreme-court-ruling-epa.html",
+    "pub_date": "2022-06-30T16:15:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1190
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/30/climate/biden-climate-action-epa.html",
+    "pub_date": "2022-06-30T15:29:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1914
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/28/climate/climate-change-world-bank.html",
+    "pub_date": "2022-06-28T15:26:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1310
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/28/climate/natural-gas-home-toxic-chemicals.html",
+    "pub_date": "2022-06-28T10:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 789
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/24/climate/climate-forward-katharine-hayhoe.html",
+    "pub_date": "2022-06-24T15:38:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1126
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/24/climate/early-heat-waves.html",
+    "pub_date": "2022-06-24T13:59:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1002
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/23/climate/biden-endangered-species-habitat.html",
+    "pub_date": "2022-06-23T12:45:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 627
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/23/climate/biden-offshore-drilling-climate.html",
+    "pub_date": "2022-06-23T09:00:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1242
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/21/climate/rainforest-brazil-congo.html",
+    "pub_date": "2022-06-21T17:06:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1429
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/19/climate/supreme-court-climate-epa.html",
+    "pub_date": "2022-06-19T09:00:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2796
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/17/climate/climate-warming-stripes.html",
+    "pub_date": "2022-06-17T13:47:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1326
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/06/16/climate/climate-noaa-outlook-may.html",
+    "pub_date": "2022-06-16T22:04:28+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/16/climate/climate-change-polar-bears.html",
+    "pub_date": "2022-06-16T18:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 899
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/06/16/climate/congo-river-deforestation-logging.html",
+    "pub_date": "2022-06-16T14:38:38+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/15/climate/lawsuit-oil-gas-drilling-endangered-species.html",
+    "pub_date": "2022-06-15T13:18:37+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1190
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/06/14/climate/congo-rainforest-logging.html",
+    "pub_date": "2022-06-15T00:48:09+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/14/climate/hunger-drought-somalia.html",
+    "pub_date": "2022-06-14T15:58:39+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1370
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html",
+    "pub_date": "2022-06-13T18:58:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1278
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/12/climate/vegan-leather-synthetics-fashion-industry.html",
+    "pub_date": "2022-06-12T07:00:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1913
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/10/climate/food-farming-climate-change.html",
+    "pub_date": "2022-06-10T15:05:53+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1333
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html",
+    "pub_date": "2022-06-07T17:22:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2011
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/07/climate/oil-gas-summit-americas.html",
+    "pub_date": "2022-06-07T15:56:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1082
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/03/climate/carbon-dioxide-record.html",
+    "pub_date": "2022-06-03T17:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 708
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/03/climate/california-water-restrictions.html",
+    "pub_date": "2022-06-03T15:12:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1197
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/01/climate/flood-hurricane-bills.html",
+    "pub_date": "2022-06-01T19:28:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 235
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/31/climate/alaska-climate-politics.html",
+    "pub_date": "2022-05-31T16:24:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1233
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html",
+    "pub_date": "2022-05-31T06:30:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1350
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/27/climate/davos-children-climate-change.html",
+    "pub_date": "2022-05-27T16:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1140
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/27/climate/republicans-blackrock-climate.html",
+    "pub_date": "2022-05-27T07:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1925
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/25/climate/alaska-anilca-wilderness-area.html",
+    "pub_date": "2022-05-25T09:00:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1516
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/25/climate/corporate-climate-pledges-davos.html",
+    "pub_date": "2022-05-25T09:00:22+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 997
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/06/25/climate/hurricane-2022-forecast-noaa.html",
+    "pub_date": "2022-05-24T16:12:33+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 752
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/24/climate/fossil-fuel-divestment.html",
+    "pub_date": "2022-05-24T16:02:49+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 979
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/23/climate/india-pakistan-heat-wave-global-warming.html",
+    "pub_date": "2022-05-23T18:03:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 790
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/21/climate/us-summer-forecast-hot.html",
+    "pub_date": "2022-05-21T14:35:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 214
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/20/climate/climate-change-greenwashing.html",
+    "pub_date": "2022-05-20T15:47:52+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1182
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/05/19/climate/noaa-climate-prediction.html",
+    "pub_date": "2022-05-19T19:14:17+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/18/climate/offset-carbon-footprint-air-travel.html",
+    "pub_date": "2022-05-18T09:00:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1121
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/17/climate/eu-burning-wood-electricity.html",
+    "pub_date": "2022-05-17T20:28:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 904
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/17/climate/climate-wildfire-risk.html",
+    "pub_date": "2022-05-17T15:23:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1222
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/05/16/climate/wildfire-risk-map-properties.html",
+    "pub_date": "2022-05-16T04:11:01+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/13/climate/climate-australia-elections.html",
+    "pub_date": "2022-05-13T15:24:42+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1377
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html",
+    "pub_date": "2022-05-13T15:00:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1595
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html",
+    "pub_date": "2022-05-13T11:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 626
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/12/climate/biden-oil-gas-lease-sales.html",
+    "pub_date": "2022-05-12T15:37:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 914
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/11/climate/air-pollution-hurricanes.html",
+    "pub_date": "2022-05-11T17:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 675
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/10/climate/banks-shareholders-climate-action.html",
+    "pub_date": "2022-05-10T16:02:22+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1011
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html",
+    "pub_date": "2022-05-10T04:01:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1292
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/06/climate/shell-exxon-profits-climate.html",
+    "pub_date": "2022-05-06T17:09:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1177
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/06/climate/hydro-quebec-maine-clean-energy.html",
+    "pub_date": "2022-05-06T13:54:38+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 2605
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/05/climate/wildfires-prescribed-burn.html",
+    "pub_date": "2022-05-05T09:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1344
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/04/climate/wildfire-smoke-dust-storm.html",
+    "pub_date": "2022-05-04T19:42:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 534
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/04/climate/john-doerr-stanford-climate.html",
+    "pub_date": "2022-05-04T15:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1002
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/03/climate/india-heat-wave.html",
+    "pub_date": "2022-05-03T17:36:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1356
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html",
+    "pub_date": "2022-05-03T09:00:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1615
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html",
+    "pub_date": "2022-05-03T09:00:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 937
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/05/02/climate/biden-electric-car-batteries.html",
+    "pub_date": "2022-05-02T14:07:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 689
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/29/climate/gas-prices-america.html",
+    "pub_date": "2022-04-29T19:21:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1442
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/29/climate/drought-water-scarcity.html",
+    "pub_date": "2022-04-29T16:08:36+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1238
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html",
+    "pub_date": "2022-04-29T09:00:20+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1585
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/28/climate/usps-gas-electric-vehicles-lawsuit.html",
+    "pub_date": "2022-04-28T19:56:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 710
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/28/climate/global-warming-ocean-extinctions.html",
+    "pub_date": "2022-04-28T18:13:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 930
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/28/climate/deforestation-tree-loss.html",
+    "pub_date": "2022-04-28T08:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 801
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/27/climate/reptiles-extinction-biodiversity.html",
+    "pub_date": "2022-04-27T15:00:13+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 925
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/26/climate/biden-incandescent-led-light-bulb.html",
+    "pub_date": "2022-04-26T19:08:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 675
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/26/climate/climate-questions-from-readers.html",
+    "pub_date": "2022-04-26T16:45:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1083
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html",
+    "pub_date": "2022-04-23T19:00:05+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 859
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/22/climate/plastic-recycling-climate.html",
+    "pub_date": "2022-04-22T16:11:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1042
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html",
+    "pub_date": "2022-04-22T09:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1343
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/21/climate/rain-drought-pipeline.html",
+    "pub_date": "2022-04-22T03:44:31+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 350
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/04/21/climate/climate-outlook-noaa.html",
+    "pub_date": "2022-04-21T20:02:20+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/04/21/climate/portland-emissions-infrastructure-environment.html",
+    "pub_date": "2022-04-21T09:00:25+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/19/climate/china-greenhouse-emissions-climate.html",
+    "pub_date": "2022-04-19T15:58:36+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1250
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html",
+    "pub_date": "2022-04-19T13:07:45+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 915
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html",
+    "pub_date": "2022-04-15T20:44:39+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 792
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/15/climate/brazil-elections-lula-climate.html",
+    "pub_date": "2022-04-15T15:20:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1234
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/14/climate/gina-mccarthy-climate-adviser.html",
+    "pub_date": "2022-04-14T23:12:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 610
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html",
+    "pub_date": "2022-04-14T15:27:39+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 749
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/14/climate/cactus-climate-change.html",
+    "pub_date": "2022-04-14T15:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 962
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/13/climate/california-electric-vehicles.html",
+    "pub_date": "2022-04-13T20:15:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 711
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/12/climate/reusable-coffee-cups-sustainability.html",
+    "pub_date": "2022-04-12T15:53:40+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1209
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/12/climate/climate-change-hurricane-rain.html",
+    "pub_date": "2022-04-12T15:32:52+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 800
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/12/climate/antarctica-penguins.html",
+    "pub_date": "2022-04-12T06:00:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 921
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/11/climate/permafrost-climate-change.html",
+    "pub_date": "2022-04-12T00:00:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 598
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/08/climate/weather-warnings-climate-change.html",
+    "pub_date": "2022-04-08T15:36:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1177
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html",
+    "pub_date": "2022-04-08T09:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 869
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/07/climate/methane-emissions-record.html",
+    "pub_date": "2022-04-07T16:32:06+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 611
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/05/climate/slow-down-climate-change.html",
+    "pub_date": "2022-04-05T15:34:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1478
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/05/climate/weather-forecast-data.html",
+    "pub_date": "2022-04-05T09:00:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 917
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/04/climate/climate-change-ipcc-un.html",
+    "pub_date": "2022-04-04T15:00:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1859
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/04/climate/ipcc-report-explained.html",
+    "pub_date": "2022-04-04T15:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 885
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/01/climate/wildfire-extreme-rain-mudslides.html",
+    "pub_date": "2022-04-01T18:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 880
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/01/climate/ukraine-war-climate-activists.html",
+    "pub_date": "2022-04-01T16:18:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1074
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html",
+    "pub_date": "2022-04-01T09:02:49+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1839
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/31/climate/epa-perchlorate-drinking-water.html",
+    "pub_date": "2022-04-01T02:36:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 666
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/29/climate/biden-budget-climate.html",
+    "pub_date": "2022-03-29T15:16:04+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1003
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/29/climate/farhana-yamin-climate.html",
+    "pub_date": "2022-03-29T09:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1112
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/27/climate/manchin-coal-climate-conflicts.html",
+    "pub_date": "2022-03-27T20:37:26+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 3533
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/25/climate/east-antarctica-ice-shelf-collapse.html",
+    "pub_date": "2022-03-25T22:14:26+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 722
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/25/climate/the-problem-with-shipping-gas-to-europe.html",
+    "pub_date": "2022-03-25T16:42:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1332
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/24/climate/britain-rainfall-historical-data.html",
+    "pub_date": "2022-03-25T00:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 853
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/23/climate/europe-russia-gas-reagan.html",
+    "pub_date": "2022-03-23T09:00:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1821
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/22/climate/youth-climate-protests.html",
+    "pub_date": "2022-03-22T15:39:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1050
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html",
+    "pub_date": "2022-03-22T14:07:47+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1617
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/21/climate/climate-change-question.html",
+    "pub_date": "2022-03-21T20:15:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 122
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/21/climate/united-nations-fossil-fuels-climate-crisis.html",
+    "pub_date": "2022-03-21T17:56:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 730
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html",
+    "pub_date": "2022-03-19T09:00:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1604
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/18/climate/climate-armed-conflict-water.html",
+    "pub_date": "2022-03-18T15:38:39+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 931
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html",
+    "pub_date": "2022-03-18T09:00:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1400
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/17/climate/spring-drought-forecast-noaa.html",
+    "pub_date": "2022-03-17T19:57:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 572
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/17/climate/tennessee-valley-authority-biden-climate.html",
+    "pub_date": "2022-03-17T17:19:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1334
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html",
+    "pub_date": "2022-03-16T09:00:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1215
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/15/climate/united-states-climate-pledges.html",
+    "pub_date": "2022-03-15T15:50:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 994
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/14/climate/usps-trucks-electric-vehicles.html",
+    "pub_date": "2022-03-14T17:42:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 615
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/14/climate/rivian-georgia-kemp-perdue.html",
+    "pub_date": "2022-03-14T14:00:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1584
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html",
+    "pub_date": "2022-03-14T09:00:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1611
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/11/climate/climate-change-moms-mothers.html",
+    "pub_date": "2022-03-11T16:55:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1260
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html",
+    "pub_date": "2022-03-10T18:55:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1754
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/09/climate/biden-california-tailpipe-waiver.html",
+    "pub_date": "2022-03-09T19:01:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1278
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/09/climate/redlining-racism-air-pollution.html",
+    "pub_date": "2022-03-09T13:00:18+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 960
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/08/climate/climate-forward-oil-prices.html",
+    "pub_date": "2022-03-08T17:11:48+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1063
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/07/climate/trucks-pollution-rules-epa.html",
+    "pub_date": "2022-03-07T16:32:32+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1274
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/07/climate/amazon-rainforest-climate-change-deforestation.html",
+    "pub_date": "2022-03-07T16:02:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 882
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/04/climate/ukraine-russia-fossil-fuels.html",
+    "pub_date": "2022-03-04T17:23:52+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1273
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html",
+    "pub_date": "2022-03-02T21:03:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1179
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/02/climate/ukraine-lithium.html",
+    "pub_date": "2022-03-02T15:38:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 511
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/02/climate/global-plastics-recycling-treaty.html",
+    "pub_date": "2022-03-02T15:07:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1112
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/01/climate/nyt-climate-newsletter-ipcc.html",
+    "pub_date": "2022-03-01T15:54:44+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1225
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/03/01/climate/ipcc-climate-scientists-strike.html",
+    "pub_date": "2022-03-01T10:00:16+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1707
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-un-report.html",
+    "pub_date": "2022-02-28T21:56:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1580
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report-takeaways.html",
+    "pub_date": "2022-02-28T12:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 855
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html",
+    "pub_date": "2022-02-28T11:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1785
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/27/climate/supreme-court-will-hear-biggest-climate-change-case-in-a-decade.html",
+    "pub_date": "2022-02-27T16:43:46+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1684
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/26/climate/ukraine-oil-lobby-biden-drilling.html",
+    "pub_date": "2022-02-26T10:00:11+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 873
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/25/climate/new-york-offshore-wind-auction.html",
+    "pub_date": "2022-02-25T21:59:34+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 809
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/15/climate/us-rising-sea-levels.html",
+    "pub_date": "2022-02-15T20:48:07+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 691
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/15/climate/biden-environment-race-pollution.html",
+    "pub_date": "2022-02-15T10:00:27+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1807
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/15/climate/biden-clean-energy.html",
+    "pub_date": "2022-02-15T10:00:23+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 610
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/14/climate/western-drought-megadrought.html",
+    "pub_date": "2022-02-14T15:59:29+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 848
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/10/climate/highways-climate-change-traffic.html",
+    "pub_date": "2022-02-10T10:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1766
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/09/climate/china-water-climate-olympics.html",
+    "pub_date": "2022-02-09T17:42:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1126
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/07/climate/glaciers-water-global-warming.html",
+    "pub_date": "2022-02-07T16:02:53+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 840
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/04/climate/methane-leaks-satellites.html",
+    "pub_date": "2022-02-04T22:08:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 844
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/02/climate/postal-service-trucks-electric-climate.html",
+    "pub_date": "2022-02-03T00:05:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1114
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/02/02/climate/nyt-climate-fwd-ski-town.html",
+    "pub_date": "2022-02-02T17:27:51+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1053
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/28/climate/climate-oil-drilling-gulf-mexico.html",
+    "pub_date": "2022-01-28T23:08:15+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 832
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/27/climate/federal-court-drilling-gulf.html",
+    "pub_date": "2022-01-28T01:26:21+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 860
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/27/climate/john-kerry-climate-emissions.html",
+    "pub_date": "2022-01-27T22:49:56+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 612
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/27/climate/gas-stoves-methane-emissions.html",
+    "pub_date": "2022-01-27T08:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 720
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/26/climate/boundary-waters-copper-mining.html",
+    "pub_date": "2022-01-26T20:26:56+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 479
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/26/climate/nyt-climate-newsletter-light-bulbs.html",
+    "pub_date": "2022-01-26T18:00:35+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1090
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/26/climate/iceberg-a68a-antarctica.html",
+    "pub_date": "2022-01-26T15:03:38+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 818
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/26/climate/epa-environmental-justice-regan.html",
+    "pub_date": "2022-01-26T11:02:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 925
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/26/climate/air-pollution-study-epa.html",
+    "pub_date": "2022-01-26T10:00:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1176
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/21/climate/jonathan-pershing-climate-diplomat.html",
+    "pub_date": "2022-01-21T17:27:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1257
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/20/climate/build-back-better-climate-change.html",
+    "pub_date": "2022-01-20T10:00:19+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1758
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/19/climate/tonga-volcano-tsunami.html",
+    "pub_date": "2022-01-19T19:33:03+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1028
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/19/climate/children-climate-change.html",
+    "pub_date": "2022-01-19T16:25:42+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 740
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/19/climate/svalbard-glacier-melting.html",
+    "pub_date": "2022-01-19T16:25:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 947
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/19/climate/scientists-tonga-volcano-eruption-effects.html",
+    "pub_date": "2022-01-19T10:00:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1111
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/01/13/climate/2021-climate-temperatures.html",
+    "pub_date": "2022-01-13T16:28:04+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/12/climate/nyt-climate-newsletter-temperature-records.html",
+    "pub_date": "2022-01-12T16:38:59+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1037
+  },
+  {
+    "web_url": "https://www.nytimes.com/interactive/2022/01/10/climate/skiing-climate-change.html",
+    "pub_date": "2022-01-10T20:20:57+0000",
+    "document_type": "multimedia",
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/10/climate/2021-hottest-year.html",
+    "pub_date": "2022-01-10T12:00:10+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 866
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/10/climate/emissions-pandemic-rebound.html",
+    "pub_date": "2022-01-10T08:00:09+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1297
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/07/climate/skiing-climate-change.html",
+    "pub_date": "2022-01-07T10:00:17+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1175
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/06/climate/andrew-wheeler-virginia.html",
+    "pub_date": "2022-01-06T22:53:54+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1113
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/06/climate/lithium-chile.html",
+    "pub_date": "2022-01-06T12:50:25+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 475
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/05/climate/wildfires-ozone-smoke-california.html",
+    "pub_date": "2022-01-05T19:00:08+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 706
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/05/climate/biden-climate-nyt-newsletter.html",
+    "pub_date": "2022-01-05T16:57:56+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 878
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/05/climate/fire-forest-management-bootleg-oregon.html",
+    "pub_date": "2022-01-05T10:00:24+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1364
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/04/climate/biden-climate-change.html",
+    "pub_date": "2022-01-04T18:30:00+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1747
+  },
+  {
+    "web_url": "https://www.nytimes.com/2022/01/02/climate/coal-mines-solar-climate.html",
+    "pub_date": "2022-01-02T08:00:12+0000",
+    "document_type": "article",
+    "type_of_material": "News",
+    "word_count": 1726
+  }
+]

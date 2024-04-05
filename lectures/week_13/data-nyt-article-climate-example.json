@@ -1,0 +1,110 @@
+{
+  "abstract": "The latest in a string of ambitious climate regulations aims to clean up the heaviest polluters on the road. But truckers are worried.",
+  "web_url": "https://www.nytimes.com/2024/03/29/climate/epa-trucks-emissions-regulation.html",
+  "snippet": "The latest in a string of ambitious climate regulations aims to clean up the heaviest polluters on the road. But truckers are worried.",
+  "lead_paragraph": "The Biden administration on Friday announced a regulation designed to turbocharge sales of electric or other zero-emission heavy vehicles, from school buses to cement mixers, as part of its multifront attack on global warming.",
+  "source": "The New York Times",
+  "headline": {
+    "main": "New Pollution Rules Aim to Lift Sales of Electric Trucks",
+    "kicker": null,
+    "content_kicker": null,
+    "print_headline": "Emissions Rule Targets Trucks",
+    "name": null,
+    "seo": null,
+    "sub": null
+  },
+  "keywords": [
+    {
+      "name": "subject",
+      "value": "Global Warming",
+      "rank": 1,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Greenhouse Gas Emissions",
+      "rank": 2,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Trucks and Trucking",
+      "rank": 3,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Electric and Hybrid Vehicles",
+      "rank": 4,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Regulation and Deregulation of Industry",
+      "rank": 5,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "United States Politics and Government",
+      "rank": 6,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Air Pollution",
+      "rank": 7,
+      "major": "N"
+    },
+    {
+      "name": "organizations",
+      "value": "Environmental Protection Agency",
+      "rank": 8,
+      "major": "N"
+    },
+    {
+      "name": "persons",
+      "value": "Biden, Joseph R Jr",
+      "rank": 9,
+      "major": "N"
+    },
+    {
+      "name": "persons",
+      "value": "Regan, Michael S (1976- )",
+      "rank": 10,
+      "major": "N"
+    }
+  ],
+  "pub_date": "2024-03-29T13:00:19+0000",
+  "document_type": "article",
+  "news_desk": "Climate",
+  "section_name": "Climate",
+  "byline": {
+    "original": "By Coral Davenport and Jack Ewing",
+    "person": [
+      {
+        "firstname": "Coral",
+        "middlename": null,
+        "lastname": "Davenport",
+        "qualifier": null,
+        "title": null,
+        "role": "reported",
+        "organization": "",
+        "rank": 1
+      },
+      {
+        "firstname": "Jack",
+        "middlename": null,
+        "lastname": "Ewing",
+        "qualifier": null,
+        "title": null,
+        "role": "reported",
+        "organization": "",
+        "rank": 2
+      }
+    ],
+    "organization": null
+  },
+  "type_of_material": "News",
+  "word_count": 1858
+}

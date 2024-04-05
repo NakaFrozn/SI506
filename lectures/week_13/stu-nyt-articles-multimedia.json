@@ -1,0 +1,2681 @@
+{
+  "https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html": {
+    "abstract": "A boom in data centers and factories is straining electric grids and propping up fossil fuels.",
+    "web_url": "https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html",
+    "snippet": "A boom in data centers and factories is straining electric grids and propping up fossil fuels.",
+    "lead_paragraph": "A boom in data centers and factories is straining electric grids and propping up fossil fuels.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "A New Surge in Power Use Is Threatening U.S. Climate Goals",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Data Centers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electric Light and Power",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electric and Hybrid Vehicles",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Energy and Power",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Air Conditioning",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Power Failures and Blackouts",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Dominion Energy",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Duke Energy Corporation",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Georgia Power Co",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Biden, Joseph R Jr",
+        "rank": 18,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 19,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 20,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2024-03-14T09:08:36+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Brad Plumer and Nadja Popovich",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "Plumer",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2024/03/06/climate/hybrid-electric-vehicle-popular.html": {
+    "abstract": "New data show where E.V.s are booming and reveal some surprising places where they're getting a foothold.",
+    "web_url": "https://www.nytimes.com/interactive/2024/03/06/climate/hybrid-electric-vehicle-popular.html",
+    "snippet": "New data show where E.V.s are booming and reveal some surprising places where they're getting a foothold.",
+    "lead_paragraph": "New data show where E.V.s are booming and reveal some surprising places where they're getting a foothold.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Where Electric Vehicles Are (and Aren't) Taking Off Across the U.S.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "An Electric Boom, Just Not Everywhere",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Electric and Hybrid Vehicles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Air Pollution",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobile Service and Charging Stations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Emissions (Transportation)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2024-03-06T10:04:14+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Nadja Popovich",
+      "person": [
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2024/03/03/climate/methane-satellite-launch-global-warming.html": {
+    "abstract": "A new satellite will detect emissions of methane, an invisible yet potent gas that is dangerously heating the planet.",
+    "web_url": "https://www.nytimes.com/interactive/2024/03/03/climate/methane-satellite-launch-global-warming.html",
+    "snippet": "A new satellite will detect emissions of methane, an invisible yet potent gas that is dangerously heating the planet.",
+    "lead_paragraph": "A new satellite will detect emissions of methane, an invisible yet potent gas that is dangerously heating the planet.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Tracking an Invisible Climate Menace From 360 Miles Above",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Satellites",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Methane",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sensors",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2024-03-04T01:33:08+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Malika Khurana and Hiroko Tabuchi",
+      "person": [
+        {
+          "firstname": "Malika",
+          "middlename": null,
+          "lastname": "Khurana",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "Tabuchi",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2024/02/11/climate/climate-change-wildlife-solar.html": {
+    "abstract": "Today's decisions about how and where to set up new energy projects will reverberate for generations.",
+    "web_url": "https://www.nytimes.com/interactive/2024/02/11/climate/climate-change-wildlife-solar.html",
+    "snippet": "Today's decisions about how and where to set up new energy projects will reverberate for generations.",
+    "lead_paragraph": "Today's decisions about how and where to set up new energy projects will reverberate for generations.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "The Planet Needs Solar Power. Can We Build It Without Harming Nature?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Biodiversity",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Endangered and Extinct Species",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Animal Migration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arizona",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ranches",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservation of Resources",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2024-02-11T22:23:52+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Catrin Einhorn",
+      "person": [
+        {
+          "firstname": "Catrin",
+          "middlename": null,
+          "lastname": "Einhorn",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2024/02/03/climate/us-lng-natural-gas-leader.html": {
+    "abstract": "The stunning rise of U.S. liquefied natural gas exports in the last decade has reshaped global markets and triggered pushback from environmentalists.",
+    "web_url": "https://www.nytimes.com/interactive/2024/02/03/climate/us-lng-natural-gas-leader.html",
+    "snippet": "The stunning rise of U.S. liquefied natural gas exports in the last decade has reshaped global markets and triggered pushback from environmentalists.",
+    "lead_paragraph": "The stunning rise of U.S. liquefied natural gas exports in the last decade has reshaped global markets and triggered pushback from environmentalists.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "How the U.S. Became the World's Biggest Gas Supplier",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Stunning U.S. Gas Export Boom Transforms Energy Geopolitics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Methane",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2024-02-03T10:03:42+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Brad Plumer and Nadja Popovich",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "Plumer",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html": {
+    "abstract": "With aquifers nationwide in dangerous decline, one part of California has tried essentially taxing groundwater. New research shows it's working.",
+    "web_url": "https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html",
+    "snippet": "With aquifers nationwide in dangerous decline, one part of California has tried essentially taxing groundwater. New research shows it's working.",
+    "lead_paragraph": "With aquifers nationwide in dangerous decline, one part of California has tried essentially taxing groundwater. New research shows it's working.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Strawberry Case Study: What if Farmers Had to Pay for Water?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "What If Farmers Were Taxed on Water? In California, Some Are.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Driscoll's Berries Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Monterey Bay (Calif)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Irrigation",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pajaro (Calif)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservation of Resources",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Santa Cruz County (Calif)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "vis-design",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-12-29T10:03:17+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Coral Davenport",
+      "person": [
+        {
+          "firstname": "Coral",
+          "middlename": null,
+          "lastname": "Davenport",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/12/14/climate/california-water-crisis-drought.html": {
+    "abstract": "As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.",
+    "web_url": "https://www.nytimes.com/interactive/2023/12/14/climate/california-water-crisis-drought.html",
+    "snippet": "As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.",
+    "lead_paragraph": "As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Who Gets the Water in California? Whoever Gets There First.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Who Has Rights to California's Water? Whoever Gets to It First.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aquifers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sacramento (Calif)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "MOUNT SHASTA (CALIF)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Central Valley (Calif)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Carrots",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Joaquin-Sacramento River Delta (Calif)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Joaquin River (Calif)",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Salmon",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cattle",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "vis-design",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Joaquin Valley (Calif)",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rivers",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Archives and Records",
+        "rank": 18,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-12-14T10:03:10+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Raymond Zhong and Mira Rojanasakul",
+      "person": [
+        {
+          "firstname": "Raymond",
+          "middlename": null,
+          "lastname": "Zhong",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mira",
+          "middlename": null,
+          "lastname": "Rojanasakul",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/12/11/climate/cop28-climate-quiz.html": {
+    "abstract": "Test your climate news knowledge with this seven-question quiz as the COP28 climate summit heads into the home stretch.",
+    "web_url": "https://www.nytimes.com/interactive/2023/12/11/climate/cop28-climate-quiz.html",
+    "snippet": "Test your climate news knowledge with this seven-question quiz as the COP28 climate summit heads into the home stretch.",
+    "lead_paragraph": "Test your climate news knowledge with this seven-question quiz as the COP28 climate summit heads into the home stretch.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Quiz: Are You a Climate Nerd?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dubai (United Arab Emirates)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United Arab Emirates",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Content Type: Quiz",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mottley, Mia",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Al Jaber, Sultan (1973- )",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Francis",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United Nations Framework Convention on Climate Change",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-12-11T10:02:43+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/11/30/climate/airlines-jet-fuel-ethanol-corn.html": {
+    "abstract": "Carriers want to replace jet fuel with ethanol to fight global warming. That would require lots of corn, and lots of water.",
+    "web_url": "https://www.nytimes.com/interactive/2023/11/30/climate/airlines-jet-fuel-ethanol-corn.html",
+    "snippet": "Carriers want to replace jet fuel with ethanol to fight global warming. That would require lots of corn, and lots of water.",
+    "lead_paragraph": "Carriers want to replace jet fuel with ethanol to fight global warming. That would require lots of corn, and lots of water.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Airlines Race Toward a Future of Powering Their Jets With Corn",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Water Supply Perils Undercut Promise of Corn-Powered Aircraft ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "AIRLINES AND AIRPLANES",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethanol",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corn",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aquifers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nebraska",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Minnesota",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Emissions (Transportation)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "vis-design",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-11-30T10:03:45+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Max Bearak, Dionne Searcey and Mira Rojanasakul",
+      "person": [
+        {
+          "firstname": "Max",
+          "middlename": null,
+          "lastname": "Bearak",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Dionne",
+          "middlename": null,
+          "lastname": "Searcey",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Mira",
+          "middlename": null,
+          "lastname": "Rojanasakul",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/11/24/climate/groundwater-levels.html": {
+    "abstract": "Here are some of the people fighting efforts to conserve a vital resource that's disappearing across the United States.",
+    "web_url": "https://www.nytimes.com/interactive/2023/11/24/climate/groundwater-levels.html",
+    "snippet": "Here are some of the people fighting efforts to conserve a vital resource that's disappearing across the United States.",
+    "lead_paragraph": "Here are some of the people fighting efforts to conserve a vital resource that's disappearing across the United States.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "As Groundwater Dwindles, Powerful Players Block Change",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Groundwater Ebbs, Key Forces Repel Change",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aquifers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mines and Mining",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservation of Resources",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Montana",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kansas",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nevada",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "vis-design",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-11-24T10:01:34+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Christopher Flavelle and Mira Rojanasakul",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "Flavelle",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mira",
+          "middlename": null,
+          "lastname": "Rojanasakul",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/11/20/climate/global-power-electricity-fossil-fuels-coal.html": {
+    "abstract": "Renewable electricity is rising quickly, but the world's power mix remains fossil fuel-heavy — for now.",
+    "web_url": "https://www.nytimes.com/interactive/2023/11/20/climate/global-power-electricity-fossil-fuels-coal.html",
+    "snippet": "Renewable electricity is rising quickly, but the world's power mix remains fossil fuel-heavy — for now.",
+    "lead_paragraph": "Renewable electricity is rising quickly, but the world's power mix remains fossil fuel-heavy — for now.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "How Electricity Is Changing, Country by Country",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Carbon-Free Electricity Is Increasing Worldwide",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Electric Light and Power",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wind Power",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Developing Countries",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-11-20T08:26:19+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Nadja Popovich",
+      "person": [
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/11/12/climate/nuclear-reactors-clean-energy.html": {
+    "abstract": "The dream of reviving nuclear power in the U.S. rests on a new generation of smaller reactors meant to be easier to build. But major obstacles loom.",
+    "web_url": "https://www.nytimes.com/interactive/2023/11/12/climate/nuclear-reactors-clean-energy.html",
+    "snippet": "The dream of reviving nuclear power in the U.S. rests on a new generation of smaller reactors meant to be easier to build. But major obstacles loom.",
+    "lead_paragraph": "The dream of reviving nuclear power in the U.S. rests on a new generation of smaller reactors meant to be easier to build. But major obstacles loom.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "U.S. Bets on Small Nuclear Reactors to Help Fix a Huge Climate Problem",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "vis-design",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Energy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electric Light and Power",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Georgia",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nuclear Regulatory Commission",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-11-12T10:01:29+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Brad Plumer and Ivan Penn",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "Plumer",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ivan",
+          "middlename": null,
+          "lastname": "Penn",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/11/02/climate/us-groundwater-depletion-rules.html": {
+    "abstract": "The Times asked all 50 states how they police the use of valuable groundwater. Their answers reveal why the country is draining and damaging its aquifers so rapidly.",
+    "web_url": "https://www.nytimes.com/interactive/2023/11/02/climate/us-groundwater-depletion-rules.html",
+    "snippet": "The Times asked all 50 states how they police the use of valuable groundwater. Their answers reveal why the country is draining and damaging its aquifers so rapidly.",
+    "lead_paragraph": "The Times asked all 50 states how they police the use of valuable groundwater. Their answers reveal why the country is draining and damaging its aquifers so rapidly.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "A Tangle of Rules to Protect America's Water Is Falling Short",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Tangle of Rules Fails to Guard U.S. Groundwater",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shortages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aquifers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservation of Resources",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Irrigation",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wells",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "vis-design",
+        "rank": 14,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-11-02T09:02:25+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Dionne Searcey and Delger Erdenesanaa",
+      "person": [
+        {
+          "firstname": "Dionne",
+          "middlename": null,
+          "lastname": "Searcey",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Delger",
+          "middlename": null,
+          "lastname": "Erdenesanaa",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/10/24/climate/maine-water-laws-blue-triton-poland-spring.html": {
+    "abstract": "When Maine lawmakers tried to tighten regulations on large-scale access to water, the brand's little-known parent company set out to rewrite the rules.",
+    "web_url": "https://www.nytimes.com/interactive/2023/10/24/climate/maine-water-laws-blue-triton-poland-spring.html",
+    "snippet": "When Maine lawmakers tried to tighten regulations on large-scale access to water, the brand's little-known parent company set out to rewrite the rules.",
+    "lead_paragraph": "When Maine lawmakers tried to tighten regulations on large-scale access to water, the brand's little-known parent company set out to rewrite the rules.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Inside Poland Spring's Hidden Attack on Water Rules It Didn't Like",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Maine, Bottled-Water Giant Upends the Rules",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Maine",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BlueTriton Brands Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Plastic Bottles",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private Equity",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aquifers",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservation of Resources",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nestle SA",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-10-24T09:12:24+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Hiroko Tabuchi",
+      "person": [
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "Tabuchi",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html": {
+    "abstract": "As the planet has warmed, summer temperatures have shifted toward more extreme heat.",
+    "web_url": "https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html",
+    "snippet": "As the planet has warmed, summer temperatures have shifted toward more extreme heat.",
+    "lead_paragraph": "As the planet has warmed, summer temperatures have shifted toward more extreme heat.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "It's Not Your Imagination. Summers Are Getting Hotter.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heat and Heat Waves",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summer (Season)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-10-07T08:00:01+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Nadja Popovich and Adam Pearce",
+      "person": [
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "Pearce",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/09/18/climate/global-climate-protests.html": {
+    "abstract": "Their demands to \"End Fossil Fuels\" will loom over United Nations meetings this week.",
+    "web_url": "https://www.nytimes.com/interactive/2023/09/18/climate/global-climate-protests.html",
+    "snippet": "Their demands to \"End Fossil Fuels\" will loom over United Nations meetings this week.",
+    "lead_paragraph": "Their demands to \"End Fossil Fuels\" will loom over United Nations meetings this week.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Climate Protesters Around the World Sharpen Their Message",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-09-18T20:20:39+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html": {
+    "abstract": "Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America's status as a food superpower.",
+    "web_url": "https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html",
+    "snippet": "Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America's status as a food superpower.",
+    "lead_paragraph": "Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America's status as a food superpower.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "America Is Using Up Its Groundwater Like There's No Tomorrow",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "America Is Using Up Its Groundwater",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Aquifers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wells",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shortages",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservation of Resources",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Irrigation",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arsenic",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sinkholes",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rationing and Allocation of Resources",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "vis-design",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rain",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 18,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-08-28T21:19:48+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray",
+      "person": [
+        {
+          "firstname": "Mira",
+          "middlename": null,
+          "lastname": "Rojanasakul",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "Flavelle",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Blacki",
+          "middlename": null,
+          "lastname": "Migliozzi",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        },
+        {
+          "firstname": "Eli",
+          "middlename": null,
+          "lastname": "Murray",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 4
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/08/17/climate/noaa-climate-science.html": {
+    "abstract": "July had record global temperatures and high ocean heat is threatening coral reefs and sea ice.",
+    "web_url": "https://www.nytimes.com/interactive/2023/08/17/climate/noaa-climate-science.html",
+    "snippet": "July had record global temperatures and high ocean heat is threatening coral reefs and sea ice.",
+    "lead_paragraph": "July had record global temperatures and high ocean heat is threatening coral reefs and sea ice.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Another Record Summer",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Heat and Heat Waves",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Oceanic and Atmospheric Administration",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-08-17T18:05:55+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Delger Erdenesanaa",
+      "person": [
+        {
+          "firstname": "Delger",
+          "middlename": null,
+          "lastname": "Erdenesanaa",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/08/12/climate/clean-energy-us-fossil-fuels.html": {
+    "abstract": "The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.",
+    "web_url": "https://www.nytimes.com/interactive/2023/08/12/climate/clean-energy-us-fossil-fuels.html",
+    "snippet": "The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.",
+    "lead_paragraph": "The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "The Clean Energy Future Is Arriving Faster Than You Think",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "It's a Surprisingly Speedy Shift",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wind Power",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electric and Hybrid Vehicles",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation Reduction Act of 2022",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-08-13T00:08:03+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By David Gelles, Brad Plumer, Jim Tankersley, Jack Ewing, Leo Dominguez and Nadja Popovich",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "Gelles",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "Plumer",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "Tankersley",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        },
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "Ewing",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 4
+        },
+        {
+          "firstname": "Leo",
+          "middlename": null,
+          "lastname": "Dominguez",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 5
+        },
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 6
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/08/03/climate/ocean-temperatures-heat-earth.html": {
+    "abstract": "The world's oceans are the hottest they have been in modern history, by an unusually wide margin.",
+    "web_url": "https://www.nytimes.com/interactive/2023/08/03/climate/ocean-temperatures-heat-earth.html",
+    "snippet": "The world's oceans are the hottest they have been in modern history, by an unusually wide margin.",
+    "lead_paragraph": "The world's oceans are the hottest they have been in modern history, by an unusually wide margin.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "What This Year's ‘Astonishing' Ocean Heat Means for the Planet",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oceans and Seas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heat and Heat Waves",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fish and Other Marine Life",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "internal-sub-only",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-08-03T09:00:02+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Elena Shao",
+      "person": [
+        {
+          "firstname": "Elena",
+          "middlename": null,
+          "lastname": "Shao",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/07/18/climate/canada-record-wildfires.html": {
+    "abstract": "Blazes have burned 25 million acres so far this year, and there's still a month to go in peak fire season.",
+    "web_url": "https://www.nytimes.com/interactive/2023/07/18/climate/canada-record-wildfires.html",
+    "snippet": "Blazes have burned 25 million acres so far this year, and there's still a month to go in peak fire season.",
+    "lead_paragraph": "Blazes have burned 25 million acres so far this year, and there's still a month to go in peak fire season.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "How Canada's Record Wildfires Got So Bad, So Fast",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "What Is Fueling Canada's Epic Wildfire Season",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Canada",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wildfires",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heat and Heat Waves",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Air Pollution",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-07-18T15:01:27+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Nadja Popovich",
+      "person": [
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/07/09/climate/florida-lake-okeechobee-algae.html": {
+    "abstract": "Electric green algal blooms are spreading, threatening wildlife, pets, people and cities. And algae season is only getting started.",
+    "web_url": "https://www.nytimes.com/interactive/2023/07/09/climate/florida-lake-okeechobee-algae.html",
+    "snippet": "Electric green algal blooms are spreading, threatening wildlife, pets, people and cities. And algae season is only getting started.",
+    "lead_paragraph": "Electric green algal blooms are spreading, threatening wildlife, pets, people and cities. And algae season is only getting started.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "It's Toxic Slime Time on Florida's Lake Okeechobee",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Lake Okeechobee (Fla)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Algae",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Army Corps of Engineers",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fertilizer",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Everglades (Fla)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Levees and Dams",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Herbert Hoover Dike (Fla)",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wetlands",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reservoirs",
+        "rank": 14,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-07-09T09:00:12+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/06/13/climate/global-warming-heat-june.html": {
+    "abstract": "Record global warmth this month could portend a summer of extreme weather.",
+    "web_url": "https://www.nytimes.com/interactive/2023/06/13/climate/global-warming-heat-june.html",
+    "snippet": "Record global warmth this month could portend a summer of extreme weather.",
+    "lead_paragraph": "Record global warmth this month could portend a summer of extreme weather.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Here's How Much Hotter Than Normal This June Has Been",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heat and Heat Waves",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "El Nino Southern Oscillation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oceans and Seas",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-06-13T15:18:18+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Elena Shao and Raymond Zhong",
+      "person": [
+        {
+          "firstname": "Elena",
+          "middlename": null,
+          "lastname": "Shao",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Raymond",
+          "middlename": null,
+          "lastname": "Zhong",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/06/12/climate/us-electric-grid-energy-transition.html": {
+    "abstract": "The current system makes it hard to build the long-distance power lines needed to transport wind and solar nationwide.",
+    "web_url": "https://www.nytimes.com/interactive/2023/06/12/climate/us-electric-grid-energy-transition.html",
+    "snippet": "The current system makes it hard to build the long-distance power lines needed to transport wind and solar nationwide.",
+    "lead_paragraph": "The current system makes it hard to build the long-distance power lines needed to transport wind and solar nationwide.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "Why the U.S. Electric Grid Isn't Ready for the Energy Transition",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Electric Light and Power",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Power Failures and Blackouts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wind Power",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation Reduction Act of 2022",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Maps",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-06-12T08:00:01+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By Nadja Popovich and Brad Plumer",
+      "person": [
+        {
+          "firstname": "Nadja",
+          "middlename": null,
+          "lastname": "Popovich",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "Plumer",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  },
+  "https://www.nytimes.com/interactive/2023/06/06/climate/grand-canyon-colorado-river.html": {
+    "abstract": "The Colorado River, which carved the Grand Canyon over millions of years, is now in crisis from climate change and overuse.",
+    "web_url": "https://www.nytimes.com/interactive/2023/06/06/climate/grand-canyon-colorado-river.html",
+    "snippet": "The Colorado River, which carved the Grand Canyon over millions of years, is now in crisis from climate change and overuse.",
+    "lead_paragraph": "The Colorado River, which carved the Grand Canyon over millions of years, is now in crisis from climate change and overuse.",
+    "source": "The New York Times",
+    "headline": {
+      "main": "The Grand Canyon, a Cathedral to Time, Is Losing Its River",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The West's Kingdom of Stone Is Losing Its River",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Colorado River",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Grand Canyon (Ariz)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "internal-sub-only",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of California, Davis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Western States (US)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Lake Powell (Utah-Ariz)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Lake Mead",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2023-06-06T13:00:01+0000",
+    "document_type": "multimedia",
+    "news_desk": "Climate",
+    "section_name": "Climate",
+    "byline": {
+      "original": "By RAYMOND ZHONG",
+      "person": [
+        {
+          "firstname": "Raymond",
+          "middlename": null,
+          "lastname": "ZHONG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interactive Feature",
+    "word_count": 0
+  }
+}
