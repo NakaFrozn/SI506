@@ -1,0 +1,225 @@
+{
+  "title": "A New Hope",
+  "episode_id": 4,
+  "opening_crawl": "It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....",
+  "director": "George Lucas",
+  "release_date": "1977-05-25",
+  "starships": [
+    {
+      "name": "Star Destroyer",
+      "model": "Imperial I-class Star Destroyer",
+      "passengers": [],
+      "max_atmosphering_speed": "975",
+      "length": "1,600",
+      "primary_docking_bay": {
+        "docked": [
+          {
+            "name": "CR90 corvette",
+            "model": "CR90 corvette",
+            "passengers": [
+              {
+                "name": "R2-D2",
+                "height": "96",
+                "mass": "32",
+                "birth_year": "33BBY",
+                "eye_color": "red",
+                "homeworld": {
+                  "name": "Naboo",
+                  "diameter": "12120",
+                  "climate": "temperate",
+                  "terrain": "grassy hills, swamps, forests, mountains",
+                  "population": "4500000000"
+                },
+                "dialogue": [
+                  "beep, beep, boop.",
+                  "boop, beep, beep.",
+                  "boop, beeeep!"
+                ],
+                "end_vessel": "escape_pod"
+              },
+              {
+                "name": "C-3PO",
+                "height": "167",
+                "mass": "75",
+                "birth_year": "112BBY",
+                "eye_color": "yellow",
+                "homeworld": {
+                  "name": "Tatooine",
+                  "diameter": "10465",
+                  "climate": "arid",
+                  "terrain": "desert",
+                  "population": "200000"
+                },
+                "dialogue": [
+                  "Did you hear that?",
+                  "They've shut down the main reactor.",
+                  "We'll be destroyed for sure. This is madness!",
+                  "We're doomed!",
+                  "There'll be no escape for the Princess this time.",
+                  "What's that?"
+                ],
+                "end_vessel": "escape_pod"
+              },
+              {
+                "name": "Leia Organa",
+                "height": "150",
+                "mass": "49",
+                "birth_year": "19BBY",
+                "eye_color": "brown",
+                "homeworld": {
+                  "name": "Alderaan",
+                  "diameter": "12500",
+                  "climate": "temperate",
+                  "terrain": "grasslands, mountains",
+                  "population": "2000000000"
+                },
+                "dialogue": []
+              },
+              {
+                "person": "rebel trooper 1",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 2",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 3",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 4",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 5",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 6",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 7",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 8",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              },
+              {
+                "person": "rebel trooper 9",
+                "weapon": "dh-17 blaster pistol",
+                "intruder": "0"
+              }
+            ],
+            "max_atmosphering_speed": "950",
+            "length": "150",
+            "intruder": [
+              {
+                "person": "stormtrooper 1",
+                "weapon": "e-11 blaster rifle",
+                "intruder": "1"
+              },
+              {
+                "person": "stormtrooper 2",
+                "weapon": "e-11 blaster rifle",
+                "intruder": "1"
+              },
+              {
+                "person": "stormtrooper 3",
+                "weapon": "e-11 blaster rifle",
+                "intruder": "1"
+              },
+              {
+                "person": "stormtrooper 4",
+                "weapon": "e-11 blaster rifle",
+                "intruder": "1"
+              },
+              {
+                "person": "stormtrooper 5",
+                "weapon": "e-11 blaster rifle",
+                "intruder": "1"
+              },
+              {
+                "person": "stormtrooper 6",
+                "weapon": "e-11 blaster rifle",
+                "intruder": "1"
+              },
+              {
+                "name": "Darth Vader",
+                "height": "202",
+                "mass": "136",
+                "birth_year": "41.9BBY",
+                "eye_color": "yellow",
+                "homeworld": {
+                  "name": "Tatooine",
+                  "diameter": "10465",
+                  "climate": "arid",
+                  "terrain": "desert",
+                  "population": "200000"
+                },
+                "dialogue": [
+                  "sound of evil mechanical breathing"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "escaped_passengers": [
+    {
+      "name": "R2-D2",
+      "height": "96",
+      "mass": "32",
+      "birth_year": "33BBY",
+      "eye_color": "red",
+      "homeworld": {
+        "name": "Naboo",
+        "diameter": "12120",
+        "climate": "temperate",
+        "terrain": "grassy hills, swamps, forests, mountains",
+        "population": "4500000000"
+      },
+      "dialogue": [
+        "beep, beep, boop.",
+        "boop, beep, beep.",
+        "boop, beeeep!"
+      ],
+      "end_vessel": "escape_pod"
+    },
+    {
+      "name": "C-3PO",
+      "height": "167",
+      "mass": "75",
+      "birth_year": "112BBY",
+      "eye_color": "yellow",
+      "homeworld": {
+        "name": "Tatooine",
+        "diameter": "10465",
+        "climate": "arid",
+        "terrain": "desert",
+        "population": "200000"
+      },
+      "dialogue": [
+        "Did you hear that?",
+        "They've shut down the main reactor.",
+        "We'll be destroyed for sure. This is madness!",
+        "We're doomed!",
+        "There'll be no escape for the Princess this time.",
+        "What's that?"
+      ],
+      "end_vessel": "escape_pod"
+    }
+  ]
+}
