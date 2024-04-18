@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Jupiter",
+    "moon_count": "95"
+  },
+  {
+    "name": "Saturn",
+    "moon_count": "146"
+  },
+  {
+    "name": "Neptune",
+    "moon_count": "16"
+  },
+  {
+    "name": "Uranus",
+    "moon_count": "28"
+  },
+  {
+    "name": "Earth",
+    "moon_count": "1"
+  },
+  {
+    "name": "Venus",
+    "moon_count": "0"
+  },
+  {
+    "name": "Mars",
+    "moon_count": "2"
+  },
+  {
+    "name": "Mercury",
+    "moon_count": "0"
+  },
+  {
+    "name": "Pluto",
+    "moon_count": "5"
+  }
+]
