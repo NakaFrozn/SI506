@@ -1,5 +1,8 @@
 import json
 import csv
+from os import write
+from venv import create
+# from pandas import read_csv
 import requests
 import pprint
 
@@ -61,8 +64,14 @@ def board_starship(starship, people):
         dict: an updated dictionary of key-value pairs representing a starship.
     """
 
-    pass
-
+    for person, intruder in people:
+        if intruder is True and "intruder" in starship:
+            starship["intruder"].append(person)
+        elif intruder is True and "intruder" not in starship:
+            starship["intruder"] = [person]
+        else:
+            starship["passengers"].append(person)
+    return starship
 
 def capture_starship(attacker, prey):
     """Utilizes a conditional statement to check if the key 'primary_docking_bay'
@@ -84,9 +93,11 @@ def capture_starship(attacker, prey):
         dict: an updated dictionary representation of the decoded JSON
         representing the attacking starship.
     """
-
-    pass
-
+    if "primary_docking_bay" not in attacker:
+        attacker["primary_docking_bay"] = {"docked": [prey]}
+    else:
+        attacker["primary_docking_bay"]["docked"].append(prey)
+    return attacker
 
 def create_person(person):
     """Returns a dictionary literal with the following keys:
@@ -109,7 +120,15 @@ def create_person(person):
         dict: a dictionary of key-value pairs representing a person.
     """
 
-    pass
+    return {
+        "name": person.get("name"),
+        "height": person.get("height"),
+        "mass": person.get("mass"),
+        "birth_year": person.get("birth_year"),
+        "eye_color": person.get("eye_color"),
+        "homeworld": get_homeworld(person.get("homeworld")),
+        "dialogue": [],
+    }
 
 
 def create_starship(starship):
@@ -130,7 +149,13 @@ def create_starship(starship):
         dict: a dictionary of key-value pairs representing a starship.
     """
 
-    pass
+    return {
+        "name": starship.get("name"),
+        "model": starship.get("model"),
+        "passengers": [],
+        "max_atmosphering_speed": starship.get("max_atmosphering_speed"),
+        "length": starship.get("length"),
+    }
 
 
 def get_homeworld(url):
@@ -150,8 +175,14 @@ def get_homeworld(url):
     Returns:
         dict: "thinned" dictionary literal representation of a planet
     """
-
-    pass
+    planet = get_swapi_resource(url)
+    return {
+        "name": planet.get("name"),
+        "diameter": planet.get("diameter"),
+        "climate": planet.get("climate"),
+        "terrain": planet.get("terrain"),
+        "population": planet.get("population"),
+    }
 
 
 def get_swapi_resource(url, params=None, timeout=10):
@@ -196,8 +227,10 @@ def insert_dialogue(person, dialogue):
                        people attributes.
     """
 
-    pass
-
+    for key, value in dialogue.items():
+        if person['name'] == key:
+            person["dialogue"].extend(value)
+    return person
 
 def read_csv_to_dicts(filepath, encoding="utf-8-sig", newline="", delimiter=","):
     """
@@ -264,117 +297,131 @@ def main():
     print("\nProblem 01:")
 
     # TODO 1.1
-    SWAPI_FILMS = None
-    SWAPI_STARSHIPS = None
-    SWAPI_PEOPLE = None
+    SWAPI_FILMS = ENDPOINT + "/films/"
+    SWAPI_STARSHIPS = ENDPOINT + "/starships/"
+    SWAPI_PEOPLE = ENDPOINT + "/people/"
 
     # TODO 1.2
-    swapi_new_hope = None
+    swapi_new_hope = get_swapi_resource(SWAPI_FILMS, {"search": "new hope"})["results"][0]
 
     # Problem 02
     print("\nProblem 02:")
 
     # TODO 2.1
-    new_hope = None
+    new_hope = {
+        "title": swapi_new_hope.get("title"),
+        "episode_id": swapi_new_hope.get("episode_id"),
+        "opening_crawl": swapi_new_hope.get("opening_crawl"),
+        "director": swapi_new_hope.get("director"),
+        "release_date": swapi_new_hope.get("release_date"),
+        "starships": [],
+    }
 
     # TODO 2.2
-
+    write_json("stu-newhope_filtered.json", new_hope)
     # Problem 03
     print("\nProblem 03:")
 
     # TODO 3.3
-    params = None
-    swapi_corvette = None
-    corvette = None
-
-    params = None
-    swapi_stardestroyer = None
-    stardestroyer = None
+    params = {"search": "CR90 corvette"}
+    swapi_corvette = get_swapi_resource(SWAPI_STARSHIPS, params)["results"][0]
+    corvette = create_starship(swapi_corvette)
 
     # TODO 3.4
+    params = {"search": "destroyer"}
+    swapi_stardestroyer = get_swapi_resource(SWAPI_STARSHIPS, params)["results"][0]
+    stardestroyer = create_starship(swapi_stardestroyer)
 
     # Problem 04
     print("\nProblem 04:")
 
     # TODO 4.3
-    params = None
-    swapi_r2d2 = None
-    r2d2 = None
+    params = {"search": "R2-D2"}
+    swapi_r2d2 = get_swapi_resource(SWAPI_PEOPLE, params)["results"][0]
+    r2d2 = create_person(swapi_r2d2)
 
-    params = None
-    swapi_c3po = None
-    c3p0 = None
+    params = {"search": "C-3PO"}
+    swapi_c3po = get_swapi_resource(SWAPI_PEOPLE, params)["results"][0]
+    c3po = create_person(swapi_c3po)
 
-    params = None
-    swapi_leia = None
-    leia = None
+    params = {"search": "Leia Organa"}
+    swapi_leia = get_swapi_resource(SWAPI_PEOPLE, params)["results"][0]
+    leia = create_person(swapi_leia)
 
     # TODO 4.4
-    # assert get_homeworld(swapi_r2d2["homeworld"], SWAPI_PEOPLE) == {
-    #     "name": "Naboo",
-    #     "diameter": "12120",
-    #     "climate": "temperate",
-    #     "terrain": "grassy hills, swamps, forests, mountains",
-    #     "population": "4500000000",
-    # }
-    # assert get_homeworld(swapi_c3po["homeworld"], SWAPI_PEOPLE) == {
-    #     "name": "Tatooine",
-    #     "diameter": "10465",
-    #     "climate": "arid",
-    #     "terrain": "desert",
-    #     "population": "200000",
-    # }
+    assert get_homeworld(swapi_r2d2["homeworld"]) == {
+        "name": "Naboo",
+        "diameter": "12120",
+        "climate": "temperate",
+        "terrain": "grassy hills, swamps, forests, mountains",
+        "population": "4500000000",
+    }
+    assert get_homeworld(swapi_c3po["homeworld"]) == {
+        "name": "Tatooine",
+        "diameter": "10465",
+        "climate": "arid",
+        "terrain": "desert",
+        "population": "200000",
+    }
 
     # Problem 05
     print("\nProblem 05:")
 
     # TODO 5.3
-    people = None
-
+    people = [(r2d2, False), (c3po, False), (leia, False)]
     # TODO 5.4
-    # assert corvette["passengers"][0]["name"] == "R2-D2"
+    board_starship(corvette, people)
+    assert corvette["passengers"][0]["name"] == "R2-D2"
 
     # Problem 06
     print("\nProblem 06:")
 
     # TODO 6.1
-
+    troopers = read_csv_to_dicts("data-troopers.csv")
     # TODO 6.2
-
+    trooper_list = [(trooper, bool(int(trooper["intruder"]))) for trooper in troopers]
     # TODO 6.3
+    board_starship(corvette, trooper_list)
 
     # Problem 07
     print("\nProblem 07:")
 
     # TODO 7.2
-
+    capture_starship(stardestroyer, corvette)
     # Problem 08
     print("\nProblem 08:")
 
     # TODO 8.2
+    insert_dialogue(r2d2, dialogue)
+    insert_dialogue(c3po, dialogue)
 
     # Problem 09
     print("\nProblem 09:")
 
     # TODO 9.1.1
-
+    swapi_vader = get_swapi_resource(SWAPI_PEOPLE, {"search": "vader"})["results"][0]
     # TODO 9.1.2
-
+    vader = create_person(swapi_vader)
     # TODO 9.1.3
-
+    people = [(vader, True)]
+    board_starship(corvette, people)
     # TODO 9.1.4
+    insert_dialogue(vader, dialogue)
 
     # Problem 10
     print("\nProblem 10:")
 
     # TODO 10.1
-
+    new_hope["starships"].append(stardestroyer)
     # TODO 10.2
-    # droids = [r2d2,c3po]
+    droids = [r2d2, c3po]
+    for droid in droids:
+        droid["end_vessel"] = "escape_pod"
 
     # TODO 10.3
-
+    new_hope["escaped_passengers"] = droids
     # TODO 10.4
+    write_json("stu-newhope_final.json", new_hope)
 
 
 if __name__ == "__main__":
