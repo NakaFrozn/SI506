@@ -1,0 +1,21 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Haruun_Kal/Legends",
+  "name": "Haruun Kal",
+  "region": "Mid Rim",
+  "sector": "Dustig sector",
+  "suns": 1,
+  "moons": null,
+  "orbital_period_days": 383.0,
+  "diameter_km": 10120,
+  "atmosphere": "Type II, breath mask suggested, 80% toxic, 20% breathable",
+  "climate": [
+    "Temperate"
+  ],
+  "terrain": [
+    "Toxic cloudsea",
+    "Plateaus",
+    "Volcanoes",
+    "Jungles"
+  ],
+  "population": 705300
+}

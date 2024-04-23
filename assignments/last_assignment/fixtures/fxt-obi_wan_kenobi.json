@@ -1,0 +1,26 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi",
+  "name": "Obi-Wan Kenobi",
+  "birth_date": {
+    "year": 57,
+    "era": "BBY"
+  },
+  "height_cm": 182.0,
+  "mass_kg": 77.0,
+  "homeworld": {
+    "url": "https://starwars.fandom.com/wiki/Stewjon/Legends",
+    "name": "Stewjon",
+    "region": null,
+    "sector": null,
+    "suns": null,
+    "moons": null,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "atmosphere": "Oxygen mix, Type I, breathable",
+    "climate": null,
+    "terrain": null,
+    "population": null
+  },
+  "species": "Human",
+  "force_sensitive": true
+}

@@ -1,0 +1,359 @@
+[
+  {
+    "url": "https://starwars.fandom.com/wiki/Chandrila/Legends",
+    "name": "Chandrila",
+    "region": "Core Worlds",
+    "sector": "Bormea sector",
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 368.0,
+    "diameter_km": 13500,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Rolling hills"
+    ],
+    "population": 1200000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Dorin/Legends",
+    "name": "Dorin",
+    "region": "Expansion Region",
+    "sector": "Deadalis sector",
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 409.0,
+    "diameter_km": 13400,
+    "atmosphere": "Type III, breath mask required",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Mountains",
+      "Valleys",
+      "Plateaus"
+    ],
+    "population": 671000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Kashyyyk/Legends",
+    "name": "Kashyyyk",
+    "region": "Mid Rim",
+    "sector": "Mytaranor sector",
+    "suns": 1,
+    "moons": 3,
+    "orbital_period_days": 381.0,
+    "diameter_km": 12765,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Mountains"
+    ],
+    "population": 56000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Alderaan/Legends",
+    "name": "Alderaan",
+    "region": "Core Worlds",
+    "sector": "Alderaan sector",
+    "suns": 1,
+    "moons": 0,
+    "orbital_period_days": 364.0,
+    "diameter_km": 12500,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Plains"
+    ],
+    "population": 2000000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Naboo/Legends",
+    "name": "Naboo",
+    "region": "Mid Rim Territories",
+    "sector": "Chommell sector",
+    "suns": 1,
+    "moons": 3,
+    "orbital_period_days": 312.0,
+    "diameter_km": 12120,
+    "atmosphere": "Oxygen mix, Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Swamps",
+      "Hills",
+      "Plains",
+      "Cities",
+      "Mountains"
+    ],
+    "population": 4500000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Takodana",
+    "name": "Takodana",
+    "region": "Western Reaches Mid Rim",
+    "sector": "Tashtor sector",
+    "suns": 1,
+    "moons": 0,
+    "orbital_period_days": 215.0,
+    "diameter_km": 12100,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Plains",
+      "Seas",
+      "Temperate forest"
+    ],
+    "population": 900000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Corellia/Legends",
+    "name": "Corellia",
+    "region": "Core Worlds",
+    "sector": "Corellian sector",
+    "suns": 1,
+    "moons": 2,
+    "orbital_period_days": 329.0,
+    "diameter_km": 11000,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Oceans",
+      "Industrial urban"
+    ],
+    "population": 3000000000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Tatooine/Legends",
+    "name": "Tatooine",
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector",
+    "suns": 2,
+    "moons": 3,
+    "orbital_period_days": 304.0,
+    "diameter_km": 10465,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Hot",
+      "Arid"
+    ],
+    "terrain": [
+      "Canyons",
+      "Desert",
+      "Mountains",
+      "Rocky bluffs"
+    ],
+    "population": 200000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/D%27Qar",
+    "name": "D'Qar",
+    "region": "Outer Rim Territories",
+    "sector": "Sanbra sector",
+    "suns": 1,
+    "moons": 2,
+    "orbital_period_days": 415.0,
+    "diameter_km": 10400,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Jungles",
+      "Plains",
+      "Forested canopies"
+    ],
+    "population": 0
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Yavin_4/Legends",
+    "name": "Yavin IV",
+    "region": "Outer Rim Territories",
+    "sector": "Gordian Reach",
+    "suns": null,
+    "moons": 0,
+    "orbital_period_days": 4818.0,
+    "diameter_km": 10200,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Temperate",
+      "Tropical"
+    ],
+    "terrain": [
+      "Jungles"
+    ],
+    "population": null
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Haruun_Kal/Legends",
+    "name": "Haruun Kal",
+    "region": "Mid Rim",
+    "sector": "Dustig sector",
+    "suns": 1,
+    "moons": null,
+    "orbital_period_days": 383.0,
+    "diameter_km": 10120,
+    "atmosphere": "Type II, breath mask suggested, 80% toxic, 20% breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Toxic cloudsea",
+      "Plateaus",
+      "Volcanoes",
+      "Jungles"
+    ],
+    "population": 705300
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Dagobah/Legends",
+    "name": "Dagobah",
+    "region": "Outer Rim Territories",
+    "sector": "Sluis sector",
+    "suns": 1,
+    "moons": 1,
+    "orbital_period_days": 341.0,
+    "diameter_km": 8900,
+    "atmosphere": "Oxygen mix, Type I, breathable",
+    "climate": [
+      "Murky"
+    ],
+    "terrain": [
+      "Swamp",
+      "Bogs",
+      "Jungles",
+      "Bayous"
+    ],
+    "population": null
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Hoth/Legends",
+    "name": "Hoth",
+    "region": "Outer Rim Territories",
+    "sector": "Anoat sector",
+    "suns": 1,
+    "moons": 3,
+    "orbital_period_days": 549.0,
+    "diameter_km": 7200,
+    "atmosphere": "Oxygen mix, Type I, breathable",
+    "climate": [
+      "Frigid"
+    ],
+    "terrain": [
+      "Frozen ice plains",
+      "Glaciers",
+      "Oceans",
+      "Mountains"
+    ],
+    "population": 10
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Jakku",
+    "name": "Jakku",
+    "region": "Western Reaches Inner Rim",
+    "sector": null,
+    "suns": 1,
+    "moons": 2,
+    "orbital_period_days": 352.0,
+    "diameter_km": 6400,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Cold"
+    ],
+    "terrain": [
+      "desert"
+    ],
+    "population": 24000
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Ilum/Legends",
+    "name": "Ilum",
+    "region": "Unknown Regions",
+    "sector": "7G sector",
+    "suns": 1,
+    "moons": 0,
+    "orbital_period_days": 301.0,
+    "diameter_km": 660,
+    "atmosphere": "Type I, breathable",
+    "climate": [
+      "Frigid"
+    ],
+    "terrain": [
+      "Crystallized glaciers",
+      "Ice plains",
+      "Mountains"
+    ],
+    "population": 5200
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Ahch-To",
+    "name": "Ahch-To",
+    "region": "Unknown Regions",
+    "sector": null,
+    "suns": 2,
+    "moons": 1,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "atmosphere": "Type I, breathable",
+    "climate": null,
+    "terrain": [
+      "Oceans",
+      "Rocky islands"
+    ],
+    "population": 1
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Shili/Legends",
+    "name": "Shili",
+    "region": "Expansion Region",
+    "sector": "Shili system",
+    "suns": 1,
+    "moons": 6,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "atmosphere": "Oxygen mix, Type I, breathable",
+    "climate": [
+      "Temperate"
+    ],
+    "terrain": [
+      "Cities",
+      "Savannahs",
+      "Seas",
+      "Plains",
+      "Rainforest valleys",
+      "Mountains"
+    ],
+    "population": null
+  },
+  {
+    "url": "https://starwars.fandom.com/wiki/Stewjon/Legends",
+    "name": "Stewjon",
+    "region": null,
+    "sector": null,
+    "suns": null,
+    "moons": null,
+    "orbital_period_days": null,
+    "diameter_km": null,
+    "atmosphere": "Oxygen mix, Type I, breathable",
+    "climate": null,
+    "terrain": null,
+    "population": null
+  }
+]
