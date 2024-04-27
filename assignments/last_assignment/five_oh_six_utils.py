@@ -258,7 +258,7 @@ def to_year_era(value):
     """
 
     try:
-        if value[:len(value)-3].isdigit():
+        if value[:len(value)-3].isnumeric():
             return {
                 "year": to_int(value[:len(value)-3]),
                 "era": value[-3:]
